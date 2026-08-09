@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Month,Region,Country,Product,Menu_Category,Sales_Channel,Units_Sold,Unit_Price_INR,Revenue_INR,Cost_INR,Profit_INR,Calories_per_Item,Sugar_g,Protein_g,Profit_Margin_%,Order_Value_INR
+1,2025-04-01,2025-04,North,UK,Apple Pie,Desserts,Takeaway,9,100,900,621.24,278.76,230,11,10,30.97,900
+2,2026-06-01,2026-06,Central,USA,Iced Coffee,Beverages,Dine-In,8,150,1200,657.58,542.42,180,15,15,45.2,1200
+3,2025-10-01,2025-10,West,Mexico,Double Cheeseburger,Burgers,McDelivery,8,160,1280,642.94,637.06,450,24,23,49.77,1280
+4,2025-07-01,2025-07,East,Japan,Sundae,Desserts,Dine-In,5,120,600,341.72,258.28,330,12,11,43.05,600
+5,2025-11-01,2025-11,East,France,McChicken,Burgers,Drive-Thru,9,180,1620,984.33,635.67,400,21,22,39.24,1620
+6,2025-10-01,2025-10,West,USA,Big Mac,Burgers,Takeaway,6,250,1500,859.06,640.94,520,30,28,42.73,1500
+7,2026-06-01,2026-06,Central,France,Iced Coffee,Beverages,Takeaway,2,150,300,175.53,124.47,180,15,15,41.49,300
+8,2026-05-01,2026-05,West,Germany,French Fries,Sides,Dine-In,7,110,770,471.86,298.14,320,15,15,38.72,770
+9,2025-08-01,2025-08,Central,Mexico,Filet-O-Fish,Burgers,Dine-In,1,190,190,131.58,58.42,390,20,19,30.75,190
+10,2026-02-01,2026-02,South,USA,Iced Coffee,Beverages,Takeaway,3,150,450,268.39,181.61,180,15,15,40.36,450
+11,2026-04-01,2026-04,East,Germany,Egg McMuffin,Breakfast,Takeaway,5,180,900,550.76,349.24,310,17,16,38.8,900
+12,2026-01-01,2026-01,East,India,Coca-Cola,Beverages,Dine-In,4,90,360,201.19,158.81,210,24,24,44.11,360
+13,2025-05-01,2025-05,East,UK,Sprite,Beverages,McDelivery,9,90,810,555.17,254.83,190,22,22,31.46,810
+14,2026-04-01,2026-04,West,Japan,Sprite,Beverages,Dine-In,9,90,810,529.21,280.79,190,22,22,34.67,810
+15,2025-10-01,2025-10,North,France,Apple Pie,Desserts,McDelivery,8,100,800,546.69,253.31,230,11,10,31.66,800
+16,2026-03-01,2026-03,West,USA,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,7,170,1190,795.5,394.5,250,15,14,33.15,1190
+17,2026-04-01,2026-04,West,Canada,McFlurry Oreo,Desserts,Takeaway,2,190,380,204.79,175.21,510,18,17,46.11,380
+18,2025-01-01,2025-01,Central,USA,McChicken,Burgers,Drive-Thru,1,180,180,106.24,73.76,400,21,22,40.98,180
+19,2025-08-01,2025-08,East,Mexico,Double Cheeseburger,Burgers,McDelivery,1,160,160,104.06,55.94,450,24,23,34.96,160
+20,2025-05-01,2025-05,Central,France,Big Mac,Burgers,Drive-Thru,6,250,1500,949.37,550.63,520,30,28,36.71,1500
+21,2026-06-01,2026-06,Central,Germany,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,8,210,1680,1037.55,642.45,470,27,25,38.24,1680
+22,2025-03-01,2025-03,Central,Australia,Coca-Cola,Beverages,Takeaway,3,90,270,185.49,84.51,210,24,24,31.3,270
+23,2026-01-01,2026-01,West,India,Filet-O-Fish,Burgers,Dine-In,9,190,1710,1130.96,579.04,390,20,19,33.86,1710
+24,2026-01-01,2026-01,East,India,McChicken,Burgers,Dine-In,1,180,180,120.02,59.98,400,21,22,33.32,180
+25,2026-05-01,2026-05,West,Singapore,Iced Coffee,Beverages,Dine-In,6,150,900,572.9,327.1,180,15,15,36.34,900
+26,2026-04-01,2026-04,Central,UK,Sprite,Beverages,Takeaway,3,90,270,143.31,126.69,190,22,22,46.92,270
+27,2025-11-01,2025-11,North,Germany,Sprite,Beverages,Takeaway,4,90,360,228.85,131.15,190,22,22,36.43,360
+28,2025-02-01,2025-02,Central,India,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,3,280,840,427.6,412.4,420,25,24,49.1,840
+29,2025-07-01,2025-07,Central,UK,Iced Coffee,Beverages,Drive-Thru,1,150,150,78.87,71.13,180,15,15,47.42,150
+30,2025-06-01,2025-06,Central,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,7,170,1190,659.93,530.07,250,15,14,44.54,1190
+31,2026-01-01,2026-01,East,France,Hash Browns,Sides,Takeaway,3,90,270,153.58,116.42,140,9,8,43.12,270
+32,2026-02-01,2026-02,Central,France,Hash Browns,Sides,Takeaway,8,90,720,385.48,334.52,140,9,8,46.46,720
+33,2025-04-01,2025-04,North,UK,Chocolate Shake,Beverages,Drive-Thru,9,170,1530,1008.79,521.21,580,16,15,34.07,1530
+34,2025-01-01,2025-01,West,Germany,McChicken,Burgers,Drive-Thru,8,180,1440,905.96,534.04,400,21,22,37.09,1440
+35,2025-01-01,2025-01,Central,Germany,McFlurry Oreo,Desserts,Drive-Thru,3,190,570,325.09,244.91,510,18,17,42.97,570
+36,2025-04-01,2025-04,South,Brazil,French Fries,Sides,McDelivery,9,110,990,643.75,346.25,320,15,15,34.97,990
+37,2025-09-01,2025-09,East,USA,Egg McMuffin,Breakfast,Takeaway,3,180,540,280.96,259.04,310,17,16,47.97,540
+38,2025-06-01,2025-06,South,Mexico,Double Cheeseburger,Burgers,Dine-In,1,160,160,104.29,55.71,450,24,23,34.82,160
+39,2026-05-01,2026-05,North,Australia,Apple Pie,Desserts,McDelivery,5,100,500,308.81,191.19,230,11,10,38.24,500
+40,2025-06-01,2025-06,West,Australia,French Fries,Sides,Takeaway,5,110,550,281.92,268.08,320,15,15,48.74,550
+41,2025-01-01,2025-01,East,USA,Quarter Pounder with Cheese,Burgers,Dine-In,2,220,440,240.7,199.3,510,29,26,45.3,440
+42,2026-06-01,2026-06,West,Brazil,Hotcakes,Breakfast,Dine-In,6,160,960,540.48,419.52,580,15,14,43.7,960
+43,2026-01-01,2026-01,West,Mexico,Apple Pie,Desserts,Dine-In,4,100,400,247.52,152.48,230,11,10,38.12,400
+44,2025-12-01,2025-12,East,India,Chocolate Shake,Beverages,Takeaway,5,170,850,491.14,358.86,580,16,15,42.22,850
+45,2025-01-01,2025-01,North,Australia,Hash Browns,Sides,Takeaway,6,90,540,301.27,238.73,140,9,8,44.21,540
+46,2025-11-01,2025-11,East,UK,Hotcakes,Breakfast,Dine-In,1,160,160,97.35,62.65,580,15,14,39.16,160
+47,2025-04-01,2025-04,South,Germany,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,2,170,340,178.04,161.96,250,15,14,47.64,340
+48,2025-10-01,2025-10,East,Japan,Big Mac,Burgers,Takeaway,7,250,1750,1077.34,672.66,520,30,28,38.44,1750
+49,2026-01-01,2026-01,South,Canada,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,7,210,1470,929.8,540.2,470,27,25,36.75,1470
+50,2026-06-01,2026-06,South,UK,Egg McMuffin,Breakfast,Dine-In,7,180,1260,854.06,405.94,310,17,16,32.22,1260
+51,2025-01-01,2025-01,East,Singapore,French Fries,Sides,Drive-Thru,9,110,990,589.81,400.19,320,15,15,40.42,990
+52,2025-03-01,2025-03,Central,Australia,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,170,1530,776.63,753.37,250,15,14,49.24,1530
+53,2026-05-01,2026-05,North,Mexico,Apple Pie,Desserts,Drive-Thru,1,100,100,63.16,36.84,230,11,10,36.84,100
+54,2026-04-01,2026-04,South,Japan,Quarter Pounder with Cheese,Burgers,McDelivery,4,220,880,559.53,320.47,510,29,26,36.42,880
+55,2025-08-01,2025-08,South,Singapore,Egg McMuffin,Breakfast,McDelivery,5,180,900,511.86,388.14,310,17,16,43.13,900
+56,2026-03-01,2026-03,Central,Australia,Sprite,Beverages,Drive-Thru,9,90,810,536.45,273.55,190,22,22,33.77,810
+57,2025-06-01,2025-06,North,Singapore,Coca-Cola,Beverages,Takeaway,3,90,270,161.18,108.82,210,24,24,40.3,270
+58,2025-02-01,2025-02,Central,Australia,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,2,170,340,190.33,149.67,250,15,14,44.02,340
+59,2025-04-01,2025-04,Central,Australia,Big Mac,Burgers,Dine-In,9,250,2250,1222.71,1027.29,520,30,28,45.66,2250
+60,2026-01-01,2026-01,Central,Mexico,Sundae,Desserts,Drive-Thru,9,120,1080,748.04,331.96,330,12,11,30.74,1080
+61,2026-05-01,2026-05,West,Singapore,Double Cheeseburger,Burgers,McDelivery,2,160,320,169.08,150.92,450,24,23,47.16,320
+62,2025-10-01,2025-10,East,Australia,Quarter Pounder with Cheese,Burgers,McDelivery,4,220,880,468.55,411.45,510,29,26,46.76,880
+63,2025-12-01,2025-12,North,Brazil,Filet-O-Fish,Burgers,Takeaway,7,190,1330,715.19,614.81,390,20,19,46.23,1330
+64,2026-02-01,2026-02,Central,India,McFlurry Oreo,Desserts,Drive-Thru,9,190,1710,913.44,796.56,510,18,17,46.58,1710
+65,2025-11-01,2025-11,North,Germany,Egg McMuffin,Breakfast,Dine-In,3,180,540,287.71,252.29,310,17,16,46.72,540
+66,2025-12-01,2025-12,Central,Canada,McChicken,Burgers,Drive-Thru,6,180,1080,605.37,474.63,400,21,22,43.95,1080
+67,2025-05-01,2025-05,North,Japan,Double Cheeseburger,Burgers,McDelivery,6,160,960,573.04,386.96,450,24,23,40.31,960
+68,2025-10-01,2025-10,West,USA,Double Cheeseburger,Burgers,Drive-Thru,6,160,960,571.08,388.92,450,24,23,40.51,960
+69,2025-12-01,2025-12,North,France,Sprite,Beverages,McDelivery,6,90,540,278.92,261.08,190,22,22,48.35,540
+70,2025-09-01,2025-09,Central,Germany,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,3,210,630,355.95,274.05,470,27,25,43.5,630
+71,2025-11-01,2025-11,South,France,Iced Coffee,Beverages,Drive-Thru,7,150,1050,590.87,459.13,180,15,15,43.73,1050
+72,2025-12-01,2025-12,Central,Japan,McFlurry Oreo,Desserts,Drive-Thru,7,190,1330,886.21,443.79,510,18,17,33.37,1330
+73,2025-05-01,2025-05,East,USA,Sprite,Beverages,McDelivery,3,90,270,158.29,111.71,190,22,22,41.37,270
+74,2025-09-01,2025-09,East,UK,Sprite,Beverages,McDelivery,5,90,450,238.08,211.92,190,22,22,47.09,450
+75,2025-05-01,2025-05,Central,France,Egg McMuffin,Breakfast,Takeaway,2,180,360,199.29,160.71,310,17,16,44.64,360
+76,2026-01-01,2026-01,West,Singapore,Big Mac,Burgers,Dine-In,9,250,2250,1447.41,802.59,520,30,28,35.67,2250
+77,2026-04-01,2026-04,East,Mexico,Egg McMuffin,Breakfast,McDelivery,9,180,1620,878.01,741.99,310,17,16,45.8,1620
+78,2025-02-01,2025-02,Central,Australia,Sundae,Desserts,Drive-Thru,3,120,360,180.76,179.24,330,12,11,49.79,360
+79,2025-11-01,2025-11,West,France,Hotcakes,Breakfast,McDelivery,7,160,1120,746.57,373.43,580,15,14,33.34,1120
+80,2025-01-01,2025-01,East,Singapore,Quarter Pounder with Cheese,Burgers,Dine-In,4,220,880,551.98,328.02,510,29,26,37.28,880
+81,2025-07-01,2025-07,East,USA,Sprite,Beverages,Drive-Thru,9,90,810,449.86,360.14,190,22,22,44.46,810
+82,2026-06-01,2026-06,South,France,Big Mac,Burgers,Drive-Thru,2,250,500,265.58,234.42,520,30,28,46.88,500
+83,2025-06-01,2025-06,Central,Mexico,Hash Browns,Sides,Drive-Thru,2,90,180,110.43,69.57,140,9,8,38.65,180
+84,2025-04-01,2025-04,North,Canada,Big Mac,Burgers,Drive-Thru,5,250,1250,859.76,390.24,520,30,28,31.22,1250
+85,2026-04-01,2026-04,Central,France,Apple Pie,Desserts,McDelivery,6,100,600,341.69,258.31,230,11,10,43.05,600
+86,2026-04-01,2026-04,West,Canada,Apple Pie,Desserts,Dine-In,5,100,500,253.67,246.33,230,11,10,49.27,500
+87,2026-04-01,2026-04,West,UK,McFlurry Oreo,Desserts,McDelivery,5,190,950,633.94,316.06,510,18,17,33.27,950
+88,2025-09-01,2025-09,Central,India,Chocolate Shake,Beverages,Takeaway,7,170,1190,667.37,522.63,580,16,15,43.92,1190
+89,2025-03-01,2025-03,East,France,Chocolate Shake,Beverages,Dine-In,9,170,1530,999.35,530.65,580,16,15,34.68,1530
+90,2026-05-01,2026-05,East,Singapore,Chocolate Shake,Beverages,Drive-Thru,6,170,1020,609.8,410.2,580,16,15,40.22,1020
+91,2025-03-01,2025-03,Central,Germany,Egg McMuffin,Breakfast,Takeaway,3,180,540,352.01,187.99,310,17,16,34.81,540
+92,2025-04-01,2025-04,South,Japan,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,1,280,280,165.97,114.03,420,25,24,40.72,280
+93,2026-05-01,2026-05,West,Canada,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,5,280,1400,917.22,482.78,420,25,24,34.48,1400
+94,2025-12-01,2025-12,Central,UK,Sundae,Desserts,Drive-Thru,9,120,1080,672.89,407.11,330,12,11,37.7,1080
+95,2026-06-01,2026-06,Central,India,Filet-O-Fish,Burgers,Dine-In,3,190,570,299.96,270.04,390,20,19,47.38,570
+96,2025-09-01,2025-09,Central,Singapore,Hash Browns,Sides,Drive-Thru,3,90,270,142.52,127.48,140,9,8,47.21,270
+97,2026-03-01,2026-03,South,Mexico,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,3,170,510,325.68,184.32,250,15,14,36.14,510
+98,2026-02-01,2026-02,East,UK,Iced Coffee,Beverages,McDelivery,9,150,1350,933.51,416.49,180,15,15,30.85,1350
+99,2026-06-01,2026-06,West,Canada,McChicken,Burgers,McDelivery,8,180,1440,915.95,524.05,400,21,22,36.39,1440
+100,2025-05-01,2025-05,North,USA,Chocolate Shake,Beverages,McDelivery,1,170,170,101.01,68.99,580,16,15,40.58,170
+101,2025-09-01,2025-09,South,USA,Apple Pie,Desserts,Takeaway,1,100,100,53.28,46.72,230,11,10,46.72,100
+102,2026-02-01,2026-02,West,UK,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,3,280,840,460.51,379.49,420,25,24,45.18,840
+103,2025-06-01,2025-06,West,Singapore,Egg McMuffin,Breakfast,Drive-Thru,7,180,1260,811.72,448.28,310,17,16,35.58,1260
+104,2025-10-01,2025-10,North,UK,Sprite,Beverages,Drive-Thru,9,90,810,503.27,306.73,190,22,22,37.87,810
+105,2025-04-01,2025-04,Central,Canada,McChicken,Burgers,Dine-In,6,180,1080,694.4,385.6,400,21,22,35.7,1080
+106,2025-06-01,2025-06,West,India,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,7,280,1960,1054.21,905.79,420,25,24,46.21,1960
+107,2025-09-01,2025-09,West,Germany,Hash Browns,Sides,Takeaway,6,90,540,313.02,226.98,140,9,8,42.03,540
+108,2025-09-01,2025-09,North,Canada,McFlurry Oreo,Desserts,Drive-Thru,8,190,1520,1059.35,460.65,510,18,17,30.31,1520
+109,2025-12-01,2025-12,Central,India,Sprite,Beverages,McDelivery,7,90,630,391.68,238.32,190,22,22,37.83,630
+110,2025-09-01,2025-09,Central,Germany,McChicken,Burgers,Dine-In,8,180,1440,854.95,585.05,400,21,22,40.63,1440
+111,2025-09-01,2025-09,North,USA,Hash Browns,Sides,Takeaway,1,90,90,46.45,43.55,140,9,8,48.39,90
+112,2025-04-01,2025-04,Central,India,Sundae,Desserts,Drive-Thru,8,120,960,597.76,362.24,330,12,11,37.73,960
+113,2025-11-01,2025-11,North,Canada,Filet-O-Fish,Burgers,McDelivery,1,190,190,99.0,91.0,390,20,19,47.89,190
+114,2025-01-01,2025-01,Central,USA,Quarter Pounder with Cheese,Burgers,McDelivery,2,220,440,286.23,153.77,510,29,26,34.95,440
+115,2025-05-01,2025-05,West,UK,Hash Browns,Sides,Takeaway,8,90,720,394.85,325.15,140,9,8,45.16,720
+116,2025-08-01,2025-08,West,UK,Chocolate Shake,Beverages,Drive-Thru,6,170,1020,595.45,424.55,580,16,15,41.62,1020
+117,2026-03-01,2026-03,Central,Japan,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,2,280,560,345.9,214.1,420,25,24,38.23,560
+118,2026-05-01,2026-05,West,India,Big Mac,Burgers,Takeaway,8,250,2000,1378.18,621.82,520,30,28,31.09,2000
+119,2025-05-01,2025-05,East,Australia,Hash Browns,Sides,Takeaway,4,90,360,241.96,118.04,140,9,8,32.79,360
+120,2025-01-01,2025-01,Central,USA,McFlurry Oreo,Desserts,McDelivery,9,190,1710,911.9,798.1,510,18,17,46.67,1710
+121,2025-07-01,2025-07,West,Japan,Hotcakes,Breakfast,Dine-In,2,160,320,195.5,124.5,580,15,14,38.91,320
+122,2025-04-01,2025-04,South,UK,Coca-Cola,Beverages,Dine-In,7,90,630,438.03,191.97,210,24,24,30.47,630
+123,2025-09-01,2025-09,East,USA,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,170,1530,846.52,683.48,250,15,14,44.67,1530
+124,2025-06-01,2025-06,Central,USA,Quarter Pounder with Cheese,Burgers,Takeaway,4,220,880,564.37,315.63,510,29,26,35.87,880
+125,2026-06-01,2026-06,West,Germany,Quarter Pounder with Cheese,Burgers,Dine-In,6,220,1320,913.42,406.58,510,29,26,30.8,1320
+126,2025-07-01,2025-07,South,Mexico,Iced Coffee,Beverages,Dine-In,1,150,150,83.74,66.26,180,15,15,44.17,150
+127,2025-09-01,2025-09,North,France,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,1,280,280,156.07,123.93,420,25,24,44.26,280
+128,2025-03-01,2025-03,Central,Brazil,Egg McMuffin,Breakfast,Drive-Thru,3,180,540,329.13,210.87,310,17,16,39.05,540
+129,2026-04-01,2026-04,Central,Japan,Quarter Pounder with Cheese,Burgers,Takeaway,9,220,1980,1129.4,850.6,510,29,26,42.96,1980
+130,2025-03-01,2025-03,West,Germany,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,1,210,210,105.64,104.36,470,27,25,49.7,210
+131,2026-03-01,2026-03,Central,UK,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,3,170,510,279.16,230.84,250,15,14,45.26,510
+132,2026-01-01,2026-01,North,Singapore,French Fries,Sides,Dine-In,3,110,330,195.9,134.1,320,15,15,40.64,330
+133,2025-05-01,2025-05,West,Canada,Hotcakes,Breakfast,McDelivery,9,160,1440,944.34,495.66,580,15,14,34.42,1440
+134,2025-06-01,2025-06,North,Japan,Iced Coffee,Beverages,Dine-In,9,150,1350,706.15,643.85,180,15,15,47.69,1350
+135,2026-04-01,2026-04,East,USA,Coca-Cola,Beverages,Dine-In,6,90,540,325.33,214.67,210,24,24,39.75,540
+136,2025-09-01,2025-09,South,Australia,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,2,210,420,241.69,178.31,470,27,25,42.45,420
+137,2025-10-01,2025-10,East,Canada,Egg McMuffin,Breakfast,Takeaway,1,180,180,125.01,54.99,310,17,16,30.55,180
+138,2025-04-01,2025-04,South,Brazil,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,8,210,1680,1092.17,587.83,470,27,25,34.99,1680
+139,2025-04-01,2025-04,Central,Australia,McChicken,Burgers,Drive-Thru,3,180,540,270.43,269.57,400,21,22,49.92,540
+140,2026-02-01,2026-02,East,Canada,French Fries,Sides,Takeaway,1,110,110,64.77,45.23,320,15,15,41.12,110
+141,2025-01-01,2025-01,East,France,Sprite,Beverages,Dine-In,2,90,180,93.46,86.54,190,22,22,48.08,180
+142,2026-01-01,2026-01,East,Australia,French Fries,Sides,Takeaway,8,110,880,575.4,304.6,320,15,15,34.61,880
+143,2026-02-01,2026-02,South,USA,Iced Coffee,Beverages,Dine-In,5,150,750,504.0,246.0,180,15,15,32.8,750
+144,2025-07-01,2025-07,West,UK,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,5,280,1400,899.52,500.48,420,25,24,35.75,1400
+145,2025-06-01,2025-06,Central,Singapore,Double Cheeseburger,Burgers,Takeaway,4,160,640,369.3,270.7,450,24,23,42.3,640
+146,2025-07-01,2025-07,Central,Japan,Egg McMuffin,Breakfast,McDelivery,5,180,900,614.16,285.84,310,17,16,31.76,900
+147,2025-12-01,2025-12,East,India,Sprite,Beverages,Drive-Thru,4,90,360,192.65,167.35,190,22,22,46.49,360
+148,2025-10-01,2025-10,South,France,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,7,170,1190,754.49,435.51,250,15,14,36.6,1190
+149,2026-04-01,2026-04,Central,Germany,Quarter Pounder with Cheese,Burgers,McDelivery,5,220,1100,712.34,387.66,510,29,26,35.24,1100
+150,2026-06-01,2026-06,Central,Germany,Hash Browns,Sides,McDelivery,7,90,630,343.45,286.55,140,9,8,45.48,630
+151,2026-05-01,2026-05,Central,UK,McFlurry Oreo,Desserts,Dine-In,6,190,1140,741.28,398.72,510,18,17,34.98,1140
+152,2026-02-01,2026-02,East,UK,Chocolate Shake,Beverages,Takeaway,7,170,1190,687.2,502.8,580,16,15,42.25,1190
+153,2025-12-01,2025-12,South,France,Big Mac,Burgers,Takeaway,2,250,500,273.61,226.39,520,30,28,45.28,500
+154,2026-04-01,2026-04,East,India,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,7,170,1190,717.11,472.89,250,15,14,39.74,1190
+155,2025-04-01,2025-04,West,Brazil,Double Cheeseburger,Burgers,McDelivery,4,160,640,370.89,269.11,450,24,23,42.05,640
+156,2026-05-01,2026-05,East,India,Double Cheeseburger,Burgers,Dine-In,7,160,1120,612.64,507.36,450,24,23,45.3,1120
+157,2025-03-01,2025-03,West,USA,Apple Pie,Desserts,Dine-In,3,100,300,177.66,122.34,230,11,10,40.78,300
+158,2025-07-01,2025-07,South,USA,Egg McMuffin,Breakfast,Dine-In,8,180,1440,818.17,621.83,310,17,16,43.18,1440
+159,2025-12-01,2025-12,North,Germany,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,3,210,630,370.86,259.14,470,27,25,41.13,630
+160,2025-05-01,2025-05,West,USA,McChicken,Burgers,Takeaway,1,180,180,114.69,65.31,400,21,22,36.28,180
+161,2026-04-01,2026-04,North,India,Quarter Pounder with Cheese,Burgers,Takeaway,8,220,1760,1047.4,712.6,510,29,26,40.49,1760
+162,2025-06-01,2025-06,Central,Germany,Coca-Cola,Beverages,Drive-Thru,2,90,180,99.21,80.79,210,24,24,44.88,180
+163,2026-02-01,2026-02,North,Canada,Double Cheeseburger,Burgers,McDelivery,6,160,960,662.63,297.37,450,24,23,30.98,960
+164,2025-09-01,2025-09,East,USA,Coca-Cola,Beverages,Takeaway,2,90,180,115.02,64.98,210,24,24,36.1,180
+165,2025-03-01,2025-03,Central,Brazil,Hotcakes,Breakfast,McDelivery,5,160,800,451.07,348.93,580,15,14,43.62,800
+166,2025-08-01,2025-08,East,India,Chocolate Shake,Beverages,McDelivery,3,170,510,308.81,201.19,580,16,15,39.45,510
+167,2026-05-01,2026-05,East,UK,Sprite,Beverages,Takeaway,5,90,450,262.21,187.79,190,22,22,41.73,450
+168,2025-06-01,2025-06,East,Australia,McFlurry Oreo,Desserts,Dine-In,9,190,1710,960.67,749.33,510,18,17,43.82,1710
+169,2025-08-01,2025-08,East,Singapore,Big Mac,Burgers,Dine-In,4,250,1000,620.17,379.83,520,30,28,37.98,1000
+170,2025-11-01,2025-11,Central,Japan,Sundae,Desserts,Dine-In,7,120,840,522.86,317.14,330,12,11,37.75,840
+171,2025-12-01,2025-12,Central,Japan,Coca-Cola,Beverages,McDelivery,8,90,720,444.15,275.85,210,24,24,38.31,720
+172,2025-01-01,2025-01,East,France,McFlurry Oreo,Desserts,Dine-In,7,190,1330,860.64,469.36,510,18,17,35.29,1330
+173,2025-12-01,2025-12,North,Australia,Coca-Cola,Beverages,Dine-In,8,90,720,366.34,353.66,210,24,24,49.12,720
+174,2025-04-01,2025-04,East,Australia,Apple Pie,Desserts,Dine-In,7,100,700,386.63,313.37,230,11,10,44.77,700
+175,2025-07-01,2025-07,South,India,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,1,280,280,144.36,135.64,420,25,24,48.44,280
+176,2026-06-01,2026-06,Central,Germany,Sprite,Beverages,Dine-In,2,90,180,114.33,65.67,190,22,22,36.48,180
+177,2025-10-01,2025-10,South,USA,Filet-O-Fish,Burgers,Dine-In,2,190,380,256.44,123.56,390,20,19,32.52,380
+178,2025-04-01,2025-04,West,Germany,McChicken,Burgers,Dine-In,7,180,1260,639.27,620.73,400,21,22,49.26,1260
+179,2025-10-01,2025-10,West,UK,Coca-Cola,Beverages,Dine-In,6,90,540,330.13,209.87,210,24,24,38.86,540
+180,2026-02-01,2026-02,Central,Canada,Hash Browns,Sides,Takeaway,3,90,270,149.44,120.56,140,9,8,44.65,270
+181,2025-02-01,2025-02,West,France,McChicken,Burgers,Takeaway,8,180,1440,998.11,441.89,400,21,22,30.69,1440
+182,2025-05-01,2025-05,North,Canada,Big Mac,Burgers,Takeaway,5,250,1250,819.57,430.43,520,30,28,34.43,1250
+183,2025-07-01,2025-07,South,UK,French Fries,Sides,McDelivery,8,110,880,532.2,347.8,320,15,15,39.52,880
+184,2025-06-01,2025-06,South,France,Hash Browns,Sides,Takeaway,1,90,90,60.96,29.04,140,9,8,32.27,90
+185,2025-03-01,2025-03,North,Singapore,McFlurry Oreo,Desserts,Dine-In,7,190,1330,922.26,407.74,510,18,17,30.66,1330
+186,2025-09-01,2025-09,East,USA,Egg McMuffin,Breakfast,McDelivery,4,180,720,388.0,332.0,310,17,16,46.11,720
+187,2026-06-01,2026-06,North,UK,Egg McMuffin,Breakfast,Takeaway,2,180,360,239.34,120.66,310,17,16,33.52,360
+188,2026-06-01,2026-06,South,Germany,McFlurry Oreo,Desserts,McDelivery,3,190,570,304.47,265.53,510,18,17,46.58,570
+189,2025-04-01,2025-04,West,Singapore,Sundae,Desserts,Drive-Thru,5,120,600,370.56,229.44,330,12,11,38.24,600
+190,2025-07-01,2025-07,Central,Canada,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,6,170,1020,606.64,413.36,250,15,14,40.53,1020
+191,2026-06-01,2026-06,South,Australia,Quarter Pounder with Cheese,Burgers,Takeaway,9,220,1980,1126.68,853.32,510,29,26,43.1,1980
+192,2025-02-01,2025-02,West,USA,Hash Browns,Sides,Drive-Thru,3,90,270,149.49,120.51,140,9,8,44.63,270
+193,2025-10-01,2025-10,West,USA,Double Cheeseburger,Burgers,Takeaway,5,160,800,554.82,245.18,450,24,23,30.65,800
+194,2025-11-01,2025-11,North,USA,Hash Browns,Sides,McDelivery,5,90,450,236.79,213.21,140,9,8,47.38,450
+195,2026-02-01,2026-02,Central,India,McChicken,Burgers,Dine-In,4,180,720,454.2,265.8,400,21,22,36.92,720
+196,2025-11-01,2025-11,East,USA,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,1,280,280,175.06,104.94,420,25,24,37.48,280
+197,2026-04-01,2026-04,Central,Brazil,Chocolate Shake,Beverages,Drive-Thru,7,170,1190,757.56,432.44,580,16,15,36.34,1190
+198,2025-02-01,2025-02,West,Japan,McFlurry Oreo,Desserts,Dine-In,8,190,1520,1044.69,475.31,510,18,17,31.27,1520
+199,2025-11-01,2025-11,East,Germany,McFlurry Oreo,Desserts,McDelivery,4,190,760,462.33,297.67,510,18,17,39.17,760
+200,2026-01-01,2026-01,North,Japan,Egg McMuffin,Breakfast,Takeaway,2,180,360,225.83,134.17,310,17,16,37.27,360
+201,2025-02-01,2025-02,West,Japan,Quarter Pounder with Cheese,Burgers,Dine-In,8,220,1760,931.29,828.71,510,29,26,47.09,1760
+202,2025-12-01,2025-12,West,UK,Double Cheeseburger,Burgers,Drive-Thru,5,160,800,418.85,381.15,450,24,23,47.64,800
+203,2025-09-01,2025-09,North,USA,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,8,280,2240,1547.88,692.12,420,25,24,30.9,2240
+204,2026-05-01,2026-05,South,UK,Iced Coffee,Beverages,McDelivery,6,150,900,481.08,418.92,180,15,15,46.55,900
+205,2025-06-01,2025-06,West,Germany,Hash Browns,Sides,Takeaway,7,90,630,351.05,278.95,140,9,8,44.28,630
+206,2025-07-01,2025-07,East,UK,McChicken,Burgers,Takeaway,7,180,1260,724.73,535.27,400,21,22,42.48,1260
+207,2025-09-01,2025-09,East,Germany,Apple Pie,Desserts,Dine-In,4,100,400,258.52,141.48,230,11,10,35.37,400
+208,2025-07-01,2025-07,South,UK,French Fries,Sides,Drive-Thru,3,110,330,170.23,159.77,320,15,15,48.42,330
+209,2025-10-01,2025-10,North,Australia,Coca-Cola,Beverages,McDelivery,8,90,720,481.2,238.8,210,24,24,33.17,720
+210,2025-03-01,2025-03,West,Singapore,Quarter Pounder with Cheese,Burgers,Dine-In,5,220,1100,733.39,366.61,510,29,26,33.33,1100
+211,2026-01-01,2026-01,East,Japan,Chocolate Shake,Beverages,Dine-In,9,170,1530,897.04,632.96,580,16,15,41.37,1530
+212,2025-04-01,2025-04,Central,Canada,French Fries,Sides,Drive-Thru,2,110,220,141.05,78.95,320,15,15,35.89,220
+213,2025-11-01,2025-11,East,Brazil,Hotcakes,Breakfast,McDelivery,6,160,960,662.24,297.76,580,15,14,31.02,960
+214,2025-01-01,2025-01,East,France,Hash Browns,Sides,McDelivery,3,90,270,165.55,104.45,140,9,8,38.69,270
+215,2026-03-01,2026-03,South,Australia,Chocolate Shake,Beverages,McDelivery,2,170,340,222.14,117.86,580,16,15,34.66,340
+216,2026-01-01,2026-01,North,Brazil,Big Mac,Burgers,McDelivery,3,250,750,433.62,316.38,520,30,28,42.18,750
+217,2026-01-01,2026-01,North,USA,Egg McMuffin,Breakfast,Dine-In,1,180,180,116.59,63.41,310,17,16,35.23,180
+218,2025-01-01,2025-01,North,India,Quarter Pounder with Cheese,Burgers,Takeaway,6,220,1320,827.57,492.43,510,29,26,37.31,1320
+219,2025-02-01,2025-02,North,UK,Big Mac,Burgers,Drive-Thru,2,250,500,294.37,205.63,520,30,28,41.13,500
+220,2026-04-01,2026-04,West,India,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,4,280,1120,568.69,551.31,420,25,24,49.22,1120
+221,2025-02-01,2025-02,West,France,Hash Browns,Sides,Dine-In,9,90,810,564.63,245.37,140,9,8,30.29,810
+222,2026-02-01,2026-02,East,Japan,Sundae,Desserts,Drive-Thru,2,120,240,163.11,76.89,330,12,11,32.04,240
+223,2025-12-01,2025-12,North,UK,McChicken,Burgers,Drive-Thru,2,180,360,180.36,179.64,400,21,22,49.9,360
+224,2025-02-01,2025-02,South,India,Quarter Pounder with Cheese,Burgers,Dine-In,5,220,1100,551.23,548.77,510,29,26,49.89,1100
+225,2025-10-01,2025-10,West,USA,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,7,170,1190,641.85,548.15,250,15,14,46.06,1190
+226,2026-04-01,2026-04,South,Brazil,Double Cheeseburger,Burgers,Drive-Thru,6,160,960,654.4,305.6,450,24,23,31.83,960
+227,2025-02-01,2025-02,North,Germany,McChicken,Burgers,Dine-In,3,180,540,315.22,224.78,400,21,22,41.63,540
+228,2025-05-01,2025-05,East,France,Sprite,Beverages,Drive-Thru,8,90,720,362.93,357.07,190,22,22,49.59,720
+229,2025-06-01,2025-06,South,UK,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,9,280,2520,1294.04,1225.96,420,25,24,48.65,2520
+230,2025-02-01,2025-02,North,Germany,Filet-O-Fish,Burgers,Takeaway,8,190,1520,968.02,551.98,390,20,19,36.31,1520
+231,2025-04-01,2025-04,South,Brazil,McFlurry Oreo,Desserts,Dine-In,9,190,1710,1154.05,555.95,510,18,17,32.51,1710
+232,2025-10-01,2025-10,West,Singapore,Iced Coffee,Beverages,McDelivery,1,150,150,94.96,55.04,180,15,15,36.69,150
+233,2025-09-01,2025-09,West,UK,Egg McMuffin,Breakfast,McDelivery,6,180,1080,552.21,527.79,310,17,16,48.87,1080
+234,2025-04-01,2025-04,Central,Canada,Sundae,Desserts,McDelivery,8,120,960,559.66,400.34,330,12,11,41.7,960
+235,2026-03-01,2026-03,North,Canada,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,5,280,1400,853.67,546.33,420,25,24,39.02,1400
+236,2025-04-01,2025-04,South,Japan,Sprite,Beverages,Takeaway,3,90,270,155.31,114.69,190,22,22,42.48,270
+237,2025-05-01,2025-05,Central,Canada,Chocolate Shake,Beverages,Dine-In,3,170,510,313.4,196.6,580,16,15,38.55,510
+238,2026-05-01,2026-05,South,India,Filet-O-Fish,Burgers,McDelivery,5,190,950,504.32,445.68,390,20,19,46.91,950
+239,2025-05-01,2025-05,West,India,Sundae,Desserts,McDelivery,3,120,360,217.55,142.45,330,12,11,39.57,360
+240,2025-02-01,2025-02,North,Germany,Sundae,Desserts,Takeaway,1,120,120,81.05,38.95,330,12,11,32.46,120
+241,2025-01-01,2025-01,West,Germany,Hash Browns,Sides,Dine-In,2,90,180,101.26,78.74,140,9,8,43.74,180
+242,2025-04-01,2025-04,South,Singapore,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,4,210,840,545.95,294.05,470,27,25,35.01,840
+243,2026-01-01,2026-01,West,UK,Hotcakes,Breakfast,Takeaway,6,160,960,650.63,309.37,580,15,14,32.23,960
+244,2026-05-01,2026-05,North,Mexico,Filet-O-Fish,Burgers,Drive-Thru,8,190,1520,880.36,639.64,390,20,19,42.08,1520
+245,2025-04-01,2025-04,South,USA,Hotcakes,Breakfast,Drive-Thru,7,160,1120,700.83,419.17,580,15,14,37.43,1120
+246,2026-05-01,2026-05,North,India,McFlurry Oreo,Desserts,Drive-Thru,7,190,1330,681.19,648.81,510,18,17,48.78,1330
+247,2025-05-01,2025-05,Central,Japan,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,280,2520,1463.92,1056.08,420,25,24,41.91,2520
+248,2025-07-01,2025-07,East,Japan,French Fries,Sides,McDelivery,4,110,440,231.13,208.87,320,15,15,47.47,440
+249,2025-11-01,2025-11,East,USA,Quarter Pounder with Cheese,Burgers,Dine-In,2,220,440,237.72,202.28,510,29,26,45.97,440
+250,2025-02-01,2025-02,West,USA,Coca-Cola,Beverages,Takeaway,4,90,360,243.19,116.81,210,24,24,32.45,360
+251,2025-03-01,2025-03,East,UK,Double Cheeseburger,Burgers,Drive-Thru,3,160,480,313.19,166.81,450,24,23,34.75,480
+252,2025-12-01,2025-12,East,India,McChicken,Burgers,Takeaway,7,180,1260,715.37,544.63,400,21,22,43.22,1260
+253,2026-06-01,2026-06,South,USA,Big Mac,Burgers,Takeaway,2,250,500,282.48,217.52,520,30,28,43.5,500
+254,2025-03-01,2025-03,North,Canada,Quarter Pounder with Cheese,Burgers,Drive-Thru,4,220,880,601.61,278.39,510,29,26,31.64,880
+255,2025-12-01,2025-12,South,India,Big Mac,Burgers,McDelivery,3,250,750,391.31,358.69,520,30,28,47.83,750
+256,2025-04-01,2025-04,South,Brazil,McChicken,Burgers,McDelivery,5,180,900,545.72,354.28,400,21,22,39.36,900
+257,2025-04-01,2025-04,Central,India,Chocolate Shake,Beverages,Drive-Thru,4,170,680,379.29,300.71,580,16,15,44.22,680
+258,2025-07-01,2025-07,North,UK,Chocolate Shake,Beverages,McDelivery,7,170,1190,770.5,419.5,580,16,15,35.25,1190
+259,2025-05-01,2025-05,South,Germany,Double Cheeseburger,Burgers,Takeaway,3,160,480,257.74,222.26,450,24,23,46.3,480
+260,2025-07-01,2025-07,West,India,Iced Coffee,Beverages,McDelivery,9,150,1350,800.29,549.71,180,15,15,40.72,1350
+261,2025-01-01,2025-01,East,Japan,McFlurry Oreo,Desserts,McDelivery,5,190,950,647.75,302.25,510,18,17,31.82,950
+262,2025-10-01,2025-10,West,Japan,Filet-O-Fish,Burgers,McDelivery,5,190,950,501.66,448.34,390,20,19,47.19,950
+263,2025-03-01,2025-03,West,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,8,170,1360,764.44,595.56,250,15,14,43.79,1360
+264,2025-02-01,2025-02,Central,UK,French Fries,Sides,Takeaway,8,110,880,455.52,424.48,320,15,15,48.24,880
+265,2025-02-01,2025-02,Central,Japan,McFlurry Oreo,Desserts,McDelivery,6,190,1140,574.83,565.17,510,18,17,49.58,1140
+266,2026-03-01,2026-03,West,Australia,Big Mac,Burgers,Drive-Thru,7,250,1750,891.83,858.17,520,30,28,49.04,1750
+267,2025-08-01,2025-08,Central,Canada,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,9,280,2520,1494.67,1025.33,420,25,24,40.69,2520
+268,2026-06-01,2026-06,Central,Brazil,Iced Coffee,Beverages,Takeaway,8,150,1200,626.22,573.78,180,15,15,47.82,1200
+269,2025-10-01,2025-10,Central,Australia,French Fries,Sides,Dine-In,5,110,550,318.95,231.05,320,15,15,42.01,550
+270,2025-08-01,2025-08,West,Germany,Sprite,Beverages,Drive-Thru,3,90,270,136.44,133.56,190,22,22,49.47,270
+271,2025-05-01,2025-05,North,France,Coca-Cola,Beverages,McDelivery,7,90,630,439.7,190.3,210,24,24,30.21,630
+272,2026-01-01,2026-01,West,Australia,Chocolate Shake,Beverages,Dine-In,7,170,1190,679.23,510.77,580,16,15,42.92,1190
+273,2026-04-01,2026-04,South,Brazil,Egg McMuffin,Breakfast,Takeaway,9,180,1620,866.68,753.32,310,17,16,46.5,1620
+274,2025-06-01,2025-06,Central,France,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,1,170,170,104.74,65.26,250,15,14,38.39,170
+275,2025-11-01,2025-11,North,India,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,8,210,1680,869.72,810.28,470,27,25,48.23,1680
+276,2026-02-01,2026-02,Central,Canada,Big Mac,Burgers,Drive-Thru,1,250,250,133.8,116.2,520,30,28,46.48,250
+277,2025-01-01,2025-01,West,Brazil,Iced Coffee,Beverages,Drive-Thru,1,150,150,103.27,46.73,180,15,15,31.15,150
+278,2026-05-01,2026-05,West,Germany,French Fries,Sides,Drive-Thru,5,110,550,295.49,254.51,320,15,15,46.27,550
+279,2025-02-01,2025-02,East,UK,Sundae,Desserts,Dine-In,3,120,360,199.91,160.09,330,12,11,44.47,360
+280,2026-03-01,2026-03,West,Australia,Sprite,Beverages,Drive-Thru,5,90,450,263.25,186.75,190,22,22,41.5,450
+281,2025-06-01,2025-06,West,France,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,2,280,560,328.37,231.63,420,25,24,41.36,560
+282,2025-06-01,2025-06,East,UK,McChicken,Burgers,McDelivery,5,180,900,466.51,433.49,400,21,22,48.17,900
+283,2025-10-01,2025-10,East,Canada,Sprite,Beverages,Dine-In,7,90,630,370.34,259.66,190,22,22,41.22,630
+284,2026-06-01,2026-06,South,Canada,Hotcakes,Breakfast,Dine-In,1,160,160,105.52,54.48,580,15,14,34.05,160
+285,2025-05-01,2025-05,Central,Canada,Coca-Cola,Beverages,Drive-Thru,7,90,630,379.27,250.73,210,24,24,39.8,630
+286,2026-03-01,2026-03,North,Canada,McChicken,Burgers,McDelivery,4,180,720,435.78,284.22,400,21,22,39.48,720
+287,2026-04-01,2026-04,South,Mexico,McChicken,Burgers,McDelivery,6,180,1080,683.6,396.4,400,21,22,36.7,1080
+288,2025-05-01,2025-05,South,Singapore,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,1,170,170,101.69,68.31,250,15,14,40.18,170
+289,2025-11-01,2025-11,North,France,Iced Coffee,Beverages,Takeaway,9,150,1350,726.14,623.86,180,15,15,46.21,1350
+290,2025-07-01,2025-07,North,Japan,Hash Browns,Sides,McDelivery,6,90,540,286.25,253.75,140,9,8,46.99,540
+291,2025-11-01,2025-11,East,Brazil,Big Mac,Burgers,McDelivery,2,250,500,257.76,242.24,520,30,28,48.45,500
+292,2026-02-01,2026-02,Central,Australia,Quarter Pounder with Cheese,Burgers,McDelivery,7,220,1540,1065.34,474.66,510,29,26,30.82,1540
+293,2025-02-01,2025-02,Central,Singapore,Big Mac,Burgers,Dine-In,8,250,2000,1252.58,747.42,520,30,28,37.37,2000
+294,2025-10-01,2025-10,North,UK,Egg McMuffin,Breakfast,Drive-Thru,2,180,360,249.98,110.02,310,17,16,30.56,360
+295,2025-03-01,2025-03,North,Germany,McFlurry Oreo,Desserts,Drive-Thru,7,190,1330,676.31,653.69,510,18,17,49.15,1330
+296,2026-03-01,2026-03,Central,Japan,Chocolate Shake,Beverages,Dine-In,2,170,340,211.42,128.58,580,16,15,37.82,340
+297,2025-01-01,2025-01,East,Australia,McChicken,Burgers,McDelivery,1,180,180,94.13,85.87,400,21,22,47.71,180
+298,2025-10-01,2025-10,East,France,Sundae,Desserts,McDelivery,2,120,240,137.6,102.4,330,12,11,42.67,240
+299,2025-08-01,2025-08,South,Singapore,Filet-O-Fish,Burgers,McDelivery,2,190,380,193.78,186.22,390,20,19,49.01,380
+300,2025-02-01,2025-02,Central,Brazil,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,2,170,340,207.41,132.59,250,15,14,39.0,340
+301,2025-10-01,2025-10,North,Australia,Hotcakes,Breakfast,Drive-Thru,6,160,960,527.93,432.07,580,15,14,45.01,960
+302,2025-08-01,2025-08,West,Mexico,Iced Coffee,Beverages,Takeaway,4,150,600,325.86,274.14,180,15,15,45.69,600
+303,2025-11-01,2025-11,East,Canada,Double Cheeseburger,Burgers,McDelivery,7,160,1120,677.5,442.5,450,24,23,39.51,1120
+304,2026-03-01,2026-03,Central,India,Hash Browns,Sides,McDelivery,5,90,450,306.08,143.92,140,9,8,31.98,450
+305,2025-09-01,2025-09,East,Singapore,Chocolate Shake,Beverages,McDelivery,1,170,170,109.91,60.09,580,16,15,35.35,170
+306,2026-02-01,2026-02,East,Singapore,Filet-O-Fish,Burgers,Takeaway,6,190,1140,611.33,528.67,390,20,19,46.37,1140
+307,2025-03-01,2025-03,East,India,Chocolate Shake,Beverages,McDelivery,7,170,1190,762.83,427.17,580,16,15,35.9,1190
+308,2026-01-01,2026-01,East,India,McChicken,Burgers,Takeaway,4,180,720,413.46,306.54,400,21,22,42.58,720
+309,2025-10-01,2025-10,Central,Germany,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,7,170,1190,749.35,440.65,250,15,14,37.03,1190
+310,2025-10-01,2025-10,Central,USA,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,4,280,1120,576.68,543.32,420,25,24,48.51,1120
+311,2025-08-01,2025-08,West,France,Big Mac,Burgers,Takeaway,8,250,2000,1109.53,890.47,520,30,28,44.52,2000
+312,2025-07-01,2025-07,Central,USA,Egg McMuffin,Breakfast,Dine-In,9,180,1620,1018.51,601.49,310,17,16,37.13,1620
+313,2025-10-01,2025-10,North,UK,French Fries,Sides,McDelivery,2,110,220,132.86,87.14,320,15,15,39.61,220
+314,2025-02-01,2025-02,South,USA,Coca-Cola,Beverages,McDelivery,6,90,540,315.71,224.29,210,24,24,41.54,540
+315,2025-07-01,2025-07,West,USA,Hotcakes,Breakfast,Dine-In,6,160,960,662.64,297.36,580,15,14,30.98,960
+316,2026-03-01,2026-03,North,France,McFlurry Oreo,Desserts,Drive-Thru,7,190,1330,781.58,548.42,510,18,17,41.23,1330
+317,2025-09-01,2025-09,South,Canada,Sundae,Desserts,Dine-In,7,120,840,469.74,370.26,330,12,11,44.08,840
+318,2025-06-01,2025-06,South,Mexico,Chocolate Shake,Beverages,McDelivery,5,170,850,518.14,331.86,580,16,15,39.04,850
+319,2026-06-01,2026-06,West,Brazil,Big Mac,Burgers,Takeaway,3,250,750,476.19,273.81,520,30,28,36.51,750
+320,2026-06-01,2026-06,Central,France,McChicken,Burgers,McDelivery,8,180,1440,829.09,610.91,400,21,22,42.42,1440
+321,2026-01-01,2026-01,Central,Mexico,Double Cheeseburger,Burgers,McDelivery,8,160,1280,792.04,487.96,450,24,23,38.12,1280
+322,2025-11-01,2025-11,North,Singapore,Iced Coffee,Beverages,McDelivery,6,150,900,524.04,375.96,180,15,15,41.77,900
+323,2025-10-01,2025-10,West,France,Chocolate Shake,Beverages,Dine-In,4,170,680,464.02,215.98,580,16,15,31.76,680
+324,2026-06-01,2026-06,South,USA,Egg McMuffin,Breakfast,Takeaway,8,180,1440,864.64,575.36,310,17,16,39.96,1440
+325,2025-06-01,2025-06,West,USA,French Fries,Sides,Takeaway,5,110,550,371.72,178.28,320,15,15,32.41,550
+326,2026-03-01,2026-03,South,Japan,French Fries,Sides,McDelivery,9,110,990,672.81,317.19,320,15,15,32.04,990
+327,2025-02-01,2025-02,Central,USA,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,3,280,840,422.2,417.8,420,25,24,49.74,840
+328,2025-06-01,2025-06,East,France,Filet-O-Fish,Burgers,McDelivery,1,190,190,102.77,87.23,390,20,19,45.91,190
+329,2025-02-01,2025-02,West,France,Apple Pie,Desserts,McDelivery,9,100,900,457.64,442.36,230,11,10,49.15,900
+330,2025-10-01,2025-10,North,USA,McFlurry Oreo,Desserts,Takeaway,8,190,1520,938.39,581.61,510,18,17,38.26,1520
+331,2025-06-01,2025-06,West,USA,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,9,280,2520,1356.27,1163.73,420,25,24,46.18,2520
+332,2025-09-01,2025-09,East,UK,Apple Pie,Desserts,McDelivery,2,100,200,139.41,60.59,230,11,10,30.3,200
+333,2025-04-01,2025-04,West,Mexico,Double Cheeseburger,Burgers,Takeaway,6,160,960,590.41,369.59,450,24,23,38.5,960
+334,2025-07-01,2025-07,East,France,Sundae,Desserts,Dine-In,7,120,840,500.73,339.27,330,12,11,40.39,840
+335,2025-10-01,2025-10,North,Canada,Sprite,Beverages,McDelivery,4,90,360,189.95,170.05,190,22,22,47.24,360
+336,2025-12-01,2025-12,West,France,Filet-O-Fish,Burgers,Dine-In,9,190,1710,1159.31,550.69,390,20,19,32.2,1710
+337,2025-08-01,2025-08,North,Australia,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,8,170,1360,753.6,606.4,250,15,14,44.59,1360
+338,2025-02-01,2025-02,Central,Canada,Hotcakes,Breakfast,McDelivery,7,160,1120,622.44,497.56,580,15,14,44.42,1120
+339,2025-07-01,2025-07,South,Singapore,Double Cheeseburger,Burgers,Dine-In,5,160,800,532.74,267.26,450,24,23,33.41,800
+340,2026-05-01,2026-05,East,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,280,2520,1311.03,1208.97,420,25,24,47.98,2520
+341,2026-04-01,2026-04,East,Germany,Hash Browns,Sides,Takeaway,5,90,450,231.59,218.41,140,9,8,48.54,450
+342,2026-01-01,2026-01,South,Singapore,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,8,170,1360,700.29,659.71,250,15,14,48.51,1360
+343,2025-01-01,2025-01,North,USA,Hash Browns,Sides,Takeaway,3,90,270,156.35,113.65,140,9,8,42.09,270
+344,2025-06-01,2025-06,East,Brazil,Sundae,Desserts,Dine-In,6,120,720,437.93,282.07,330,12,11,39.18,720
+345,2025-06-01,2025-06,East,Canada,Iced Coffee,Beverages,Takeaway,2,150,300,152.91,147.09,180,15,15,49.03,300
+346,2025-12-01,2025-12,East,Singapore,Hotcakes,Breakfast,Dine-In,5,160,800,468.72,331.28,580,15,14,41.41,800
+347,2026-05-01,2026-05,North,France,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,1,210,210,105.74,104.26,470,27,25,49.65,210
+348,2025-10-01,2025-10,East,France,Sundae,Desserts,Drive-Thru,6,120,720,485.03,234.97,330,12,11,32.63,720
+349,2025-06-01,2025-06,Central,UK,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,5,280,1400,846.04,553.96,420,25,24,39.57,1400
+350,2025-06-01,2025-06,East,Brazil,Filet-O-Fish,Burgers,Dine-In,7,190,1330,855.91,474.09,390,20,19,35.65,1330
+351,2026-05-01,2026-05,South,Germany,Hotcakes,Breakfast,McDelivery,9,160,1440,769.29,670.71,580,15,14,46.58,1440
+352,2025-07-01,2025-07,Central,India,Big Mac,Burgers,Takeaway,6,250,1500,1003.51,496.49,520,30,28,33.1,1500
+353,2025-04-01,2025-04,East,Singapore,Filet-O-Fish,Burgers,Drive-Thru,3,190,570,377.34,192.66,390,20,19,33.8,570
+354,2025-11-01,2025-11,East,Australia,Hash Browns,Sides,Takeaway,9,90,810,540.3,269.7,140,9,8,33.3,810
+355,2025-09-01,2025-09,Central,Singapore,Hash Browns,Sides,McDelivery,6,90,540,278.61,261.39,140,9,8,48.41,540
+356,2025-07-01,2025-07,North,UK,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,9,170,1530,791.55,738.45,250,15,14,48.26,1530
+357,2025-03-01,2025-03,North,Mexico,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,9,280,2520,1483.36,1036.64,420,25,24,41.14,2520
+358,2026-03-01,2026-03,West,Germany,McFlurry Oreo,Desserts,Dine-In,3,190,570,383.14,186.86,510,18,17,32.78,570
+359,2025-11-01,2025-11,North,Singapore,Iced Coffee,Beverages,Dine-In,9,150,1350,880.7,469.3,180,15,15,34.76,1350
+360,2026-06-01,2026-06,South,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,8,280,2240,1301.88,938.12,420,25,24,41.88,2240
+361,2026-06-01,2026-06,South,France,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,6,170,1020,606.51,413.49,250,15,14,40.54,1020
+362,2026-04-01,2026-04,Central,India,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,1,280,280,168.04,111.96,420,25,24,39.99,280
+363,2025-06-01,2025-06,West,Australia,Sprite,Beverages,McDelivery,8,90,720,392.58,327.42,190,22,22,45.48,720
+364,2025-11-01,2025-11,South,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,8,170,1360,760.19,599.81,250,15,14,44.1,1360
+365,2025-09-01,2025-09,North,France,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,2,280,560,285.13,274.87,420,25,24,49.08,560
+366,2026-01-01,2026-01,South,Canada,McChicken,Burgers,McDelivery,5,180,900,573.43,326.57,400,21,22,36.29,900
+367,2025-04-01,2025-04,West,Mexico,Apple Pie,Desserts,McDelivery,3,100,300,203.69,96.31,230,11,10,32.1,300
+368,2026-04-01,2026-04,East,Mexico,Sundae,Desserts,Drive-Thru,8,120,960,622.23,337.77,330,12,11,35.18,960
+369,2026-02-01,2026-02,North,Germany,Big Mac,Burgers,McDelivery,6,250,1500,918.63,581.37,520,30,28,38.76,1500
+370,2026-06-01,2026-06,South,Brazil,Hotcakes,Breakfast,Dine-In,4,160,640,386.47,253.53,580,15,14,39.61,640
+371,2026-03-01,2026-03,South,USA,Iced Coffee,Beverages,Takeaway,1,150,150,93.09,56.91,180,15,15,37.94,150
+372,2025-11-01,2025-11,West,India,Iced Coffee,Beverages,Dine-In,1,150,150,103.21,46.79,180,15,15,31.19,150
+373,2026-01-01,2026-01,East,Australia,Sundae,Desserts,Takeaway,8,120,960,666.42,293.58,330,12,11,30.58,960
+374,2026-03-01,2026-03,Central,Brazil,Chocolate Shake,Beverages,Dine-In,4,170,680,407.9,272.1,580,16,15,40.01,680
+375,2026-03-01,2026-03,South,Australia,Sprite,Beverages,Drive-Thru,7,90,630,403.63,226.37,190,22,22,35.93,630
+376,2025-07-01,2025-07,Central,Japan,Sundae,Desserts,Takeaway,6,120,720,501.75,218.25,330,12,11,30.31,720
+377,2025-02-01,2025-02,South,France,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,7,170,1190,755.05,434.95,250,15,14,36.55,1190
+378,2025-09-01,2025-09,East,France,Sprite,Beverages,Takeaway,5,90,450,234.1,215.9,190,22,22,47.98,450
+379,2025-07-01,2025-07,South,Japan,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,4,280,1120,662.72,457.28,420,25,24,40.83,1120
+380,2025-07-01,2025-07,North,Germany,Big Mac,Burgers,Dine-In,5,250,1250,689.24,560.76,520,30,28,44.86,1250
+381,2025-04-01,2025-04,West,Germany,Chocolate Shake,Beverages,Drive-Thru,4,170,680,368.71,311.29,580,16,15,45.78,680
+382,2025-02-01,2025-02,East,Brazil,Apple Pie,Desserts,Dine-In,5,100,500,250.76,249.24,230,11,10,49.85,500
+383,2025-12-01,2025-12,Central,France,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,3,280,840,437.34,402.66,420,25,24,47.94,840
+384,2026-03-01,2026-03,South,Mexico,Chocolate Shake,Beverages,Dine-In,5,170,850,469.57,380.43,580,16,15,44.76,850
+385,2026-03-01,2026-03,East,USA,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,7,210,1470,957.35,512.65,470,27,25,34.87,1470
+386,2026-04-01,2026-04,East,Mexico,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,6,170,1020,581.36,438.64,250,15,14,43.0,1020
+387,2025-11-01,2025-11,West,Canada,Double Cheeseburger,Burgers,Takeaway,8,160,1280,719.36,560.64,450,24,23,43.8,1280
+388,2025-02-01,2025-02,South,Japan,Quarter Pounder with Cheese,Burgers,Takeaway,2,220,440,232.27,207.73,510,29,26,47.21,440
+389,2025-06-01,2025-06,West,Mexico,Sprite,Beverages,Takeaway,8,90,720,389.99,330.01,190,22,22,45.83,720
+390,2026-01-01,2026-01,West,Brazil,Coca-Cola,Beverages,Takeaway,8,90,720,370.45,349.55,210,24,24,48.55,720
+391,2025-07-01,2025-07,Central,USA,McChicken,Burgers,McDelivery,7,180,1260,698.62,561.38,400,21,22,44.55,1260
+392,2025-01-01,2025-01,West,Australia,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,8,280,2240,1373.58,866.42,420,25,24,38.68,2240
+393,2025-06-01,2025-06,Central,India,Filet-O-Fish,Burgers,Dine-In,5,190,950,543.05,406.95,390,20,19,42.84,950
+394,2025-09-01,2025-09,Central,Australia,Sprite,Beverages,Dine-In,2,90,180,124.66,55.34,190,22,22,30.74,180
+395,2026-04-01,2026-04,Central,Singapore,Egg McMuffin,Breakfast,McDelivery,3,180,540,314.42,225.58,310,17,16,41.77,540
+396,2025-02-01,2025-02,West,Australia,Hash Browns,Sides,McDelivery,4,90,360,223.02,136.98,140,9,8,38.05,360
+397,2025-01-01,2025-01,Central,Japan,Filet-O-Fish,Burgers,Dine-In,6,190,1140,608.1,531.9,390,20,19,46.66,1140
+398,2026-04-01,2026-04,West,Singapore,Coca-Cola,Beverages,Drive-Thru,4,90,360,218.52,141.48,210,24,24,39.3,360
+399,2025-12-01,2025-12,North,Germany,Double Cheeseburger,Burgers,Takeaway,1,160,160,89.26,70.74,450,24,23,44.21,160
+400,2026-02-01,2026-02,North,Australia,McChicken,Burgers,Takeaway,4,180,720,429.23,290.77,400,21,22,40.38,720
+401,2025-04-01,2025-04,South,Japan,Sundae,Desserts,Drive-Thru,3,120,360,248.79,111.21,330,12,11,30.89,360
+402,2025-10-01,2025-10,West,Mexico,Hotcakes,Breakfast,Dine-In,3,160,480,251.02,228.98,580,15,14,47.7,480
+403,2026-03-01,2026-03,East,Singapore,Egg McMuffin,Breakfast,McDelivery,9,180,1620,1046.01,573.99,310,17,16,35.43,1620
+404,2025-05-01,2025-05,South,Canada,Egg McMuffin,Breakfast,Drive-Thru,5,180,900,575.07,324.93,310,17,16,36.1,900
+405,2025-11-01,2025-11,East,USA,Big Mac,Burgers,Takeaway,5,250,1250,868.62,381.38,520,30,28,30.51,1250
+406,2026-02-01,2026-02,South,Germany,Quarter Pounder with Cheese,Burgers,Dine-In,5,220,1100,593.2,506.8,510,29,26,46.07,1100
+407,2026-03-01,2026-03,Central,UK,Filet-O-Fish,Burgers,McDelivery,2,190,380,220.81,159.19,390,20,19,41.89,380
+408,2026-01-01,2026-01,West,Canada,Chocolate Shake,Beverages,Dine-In,2,170,340,221.1,118.9,580,16,15,34.97,340
+409,2025-01-01,2025-01,South,Singapore,French Fries,Sides,Drive-Thru,9,110,990,517.33,472.67,320,15,15,47.74,990
+410,2025-10-01,2025-10,South,India,Iced Coffee,Beverages,Dine-In,9,150,1350,796.57,553.43,180,15,15,40.99,1350
+411,2025-12-01,2025-12,Central,France,Quarter Pounder with Cheese,Burgers,Takeaway,3,220,660,444.5,215.5,510,29,26,32.65,660
+412,2025-12-01,2025-12,West,Germany,Sprite,Beverages,Dine-In,5,90,450,270.6,179.4,190,22,22,39.87,450
+413,2025-02-01,2025-02,North,Canada,McChicken,Burgers,Drive-Thru,1,180,180,108.17,71.83,400,21,22,39.91,180
+414,2025-05-01,2025-05,East,Australia,Quarter Pounder with Cheese,Burgers,Takeaway,4,220,880,450.53,429.47,510,29,26,48.8,880
+415,2026-04-01,2026-04,West,Japan,McChicken,Burgers,Drive-Thru,3,180,540,366.28,173.72,400,21,22,32.17,540
+416,2026-06-01,2026-06,East,Singapore,Iced Coffee,Beverages,Drive-Thru,3,150,450,228.28,221.72,180,15,15,49.27,450
+417,2025-07-01,2025-07,Central,USA,McChicken,Burgers,McDelivery,7,180,1260,658.96,601.04,400,21,22,47.7,1260
+418,2025-10-01,2025-10,North,India,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,4,280,1120,659.34,460.66,420,25,24,41.13,1120
+419,2025-06-01,2025-06,North,Japan,McChicken,Burgers,Takeaway,3,180,540,372.62,167.38,400,21,22,31.0,540
+420,2026-02-01,2026-02,East,Singapore,Double Cheeseburger,Burgers,Drive-Thru,3,160,480,320.37,159.63,450,24,23,33.26,480
+421,2025-05-01,2025-05,North,France,Egg McMuffin,Breakfast,Dine-In,3,180,540,305.72,234.28,310,17,16,43.39,540
+422,2025-03-01,2025-03,West,USA,French Fries,Sides,Drive-Thru,7,110,770,441.05,328.95,320,15,15,42.72,770
+423,2026-02-01,2026-02,North,UK,McFlurry Oreo,Desserts,Dine-In,3,190,570,313.54,256.46,510,18,17,44.99,570
+424,2025-04-01,2025-04,South,India,French Fries,Sides,Drive-Thru,7,110,770,486.46,283.54,320,15,15,36.82,770
+425,2025-06-01,2025-06,South,Mexico,Apple Pie,Desserts,Drive-Thru,9,100,900,585.49,314.51,230,11,10,34.95,900
+426,2026-04-01,2026-04,South,UK,Double Cheeseburger,Burgers,Drive-Thru,7,160,1120,781.15,338.85,450,24,23,30.25,1120
+427,2026-06-01,2026-06,North,Canada,Apple Pie,Desserts,McDelivery,2,100,200,101.49,98.51,230,11,10,49.26,200
+428,2025-06-01,2025-06,North,Australia,Hash Browns,Sides,Drive-Thru,5,90,450,239.4,210.6,140,9,8,46.8,450
+429,2025-04-01,2025-04,West,Canada,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,6,210,1260,866.93,393.07,470,27,25,31.2,1260
+430,2025-01-01,2025-01,East,France,Egg McMuffin,Breakfast,Takeaway,4,180,720,488.94,231.06,310,17,16,32.09,720
+431,2025-04-01,2025-04,East,Singapore,Apple Pie,Desserts,Drive-Thru,4,100,400,204.22,195.78,230,11,10,48.94,400
+432,2025-04-01,2025-04,West,Germany,Double Cheeseburger,Burgers,Takeaway,2,160,320,209.84,110.16,450,24,23,34.42,320
+433,2025-05-01,2025-05,North,Singapore,Egg McMuffin,Breakfast,Takeaway,6,180,1080,596.91,483.09,310,17,16,44.73,1080
+434,2026-03-01,2026-03,North,USA,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,2,170,340,229.41,110.59,250,15,14,32.53,340
+435,2025-04-01,2025-04,East,Singapore,Double Cheeseburger,Burgers,McDelivery,7,160,1120,683.29,436.71,450,24,23,38.99,1120
+436,2026-06-01,2026-06,West,India,French Fries,Sides,Drive-Thru,2,110,220,137.44,82.56,320,15,15,37.53,220
+437,2025-09-01,2025-09,Central,Australia,Big Mac,Burgers,Drive-Thru,9,250,2250,1223.85,1026.15,520,30,28,45.61,2250
+438,2025-10-01,2025-10,West,India,McChicken,Burgers,Dine-In,2,180,360,222.59,137.41,400,21,22,38.17,360
+439,2025-09-01,2025-09,Central,Mexico,Iced Coffee,Beverages,Drive-Thru,9,150,1350,745.74,604.26,180,15,15,44.76,1350
+440,2025-02-01,2025-02,East,Brazil,Hash Browns,Sides,Dine-In,1,90,90,58.8,31.2,140,9,8,34.67,90
+441,2026-05-01,2026-05,South,Singapore,Big Mac,Burgers,Dine-In,6,250,1500,952.72,547.28,520,30,28,36.49,1500
+442,2025-03-01,2025-03,West,Singapore,Hotcakes,Breakfast,Drive-Thru,2,160,320,213.6,106.4,580,15,14,33.25,320
+443,2025-02-01,2025-02,West,Germany,Quarter Pounder with Cheese,Burgers,McDelivery,4,220,880,553.02,326.98,510,29,26,37.16,880
+444,2025-05-01,2025-05,West,Japan,Big Mac,Burgers,McDelivery,4,250,1000,562.22,437.78,520,30,28,43.78,1000
+445,2025-04-01,2025-04,West,France,McFlurry Oreo,Desserts,Dine-In,3,190,570,319.1,250.9,510,18,17,44.02,570
+446,2025-11-01,2025-11,West,Canada,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,4,210,840,484.39,355.61,470,27,25,42.33,840
+447,2025-02-01,2025-02,West,Singapore,Double Cheeseburger,Burgers,Drive-Thru,2,160,320,161.25,158.75,450,24,23,49.61,320
+448,2025-02-01,2025-02,North,Mexico,Iced Coffee,Beverages,Dine-In,1,150,150,97.69,52.31,180,15,15,34.87,150
+449,2025-12-01,2025-12,North,India,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,8,280,2240,1390.98,849.02,420,25,24,37.9,2240
+450,2026-03-01,2026-03,West,Canada,Filet-O-Fish,Burgers,Drive-Thru,8,190,1520,797.65,722.35,390,20,19,47.52,1520
+451,2025-10-01,2025-10,North,Australia,Apple Pie,Desserts,McDelivery,5,100,500,306.38,193.62,230,11,10,38.72,500
+452,2025-05-01,2025-05,South,USA,Hotcakes,Breakfast,Drive-Thru,4,160,640,403.57,236.43,580,15,14,36.94,640
+453,2025-01-01,2025-01,East,India,Big Mac,Burgers,Dine-In,3,250,750,439.09,310.91,520,30,28,41.45,750
+454,2026-05-01,2026-05,West,India,Coca-Cola,Beverages,Takeaway,6,90,540,338.32,201.68,210,24,24,37.35,540
+455,2026-01-01,2026-01,East,Brazil,Double Cheeseburger,Burgers,Takeaway,4,160,640,342.57,297.43,450,24,23,46.47,640
+456,2025-12-01,2025-12,East,Mexico,Coca-Cola,Beverages,Dine-In,8,90,720,442.61,277.39,210,24,24,38.53,720
+457,2026-03-01,2026-03,South,Canada,Hotcakes,Breakfast,Dine-In,5,160,800,467.7,332.3,580,15,14,41.54,800
+458,2025-02-01,2025-02,South,Singapore,Iced Coffee,Beverages,Takeaway,8,150,1200,832.46,367.54,180,15,15,30.63,1200
+459,2025-11-01,2025-11,North,Germany,McFlurry Oreo,Desserts,Drive-Thru,1,190,190,117.76,72.24,510,18,17,38.02,190
+460,2025-02-01,2025-02,Central,UK,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,5,280,1400,803.29,596.71,420,25,24,42.62,1400
+461,2025-05-01,2025-05,West,France,Sprite,Beverages,Drive-Thru,6,90,540,274.61,265.39,190,22,22,49.15,540
+462,2025-09-01,2025-09,East,UK,French Fries,Sides,Dine-In,1,110,110,62.92,47.08,320,15,15,42.8,110
+463,2025-11-01,2025-11,North,India,Hotcakes,Breakfast,Drive-Thru,7,160,1120,620.9,499.1,580,15,14,44.56,1120
+464,2025-09-01,2025-09,South,Canada,Quarter Pounder with Cheese,Burgers,Dine-In,8,220,1760,997.93,762.07,510,29,26,43.3,1760
+465,2026-05-01,2026-05,Central,India,Apple Pie,Desserts,Drive-Thru,7,100,700,438.04,261.96,230,11,10,37.42,700
+466,2026-01-01,2026-01,East,Japan,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,5,210,1050,699.76,350.24,470,27,25,33.36,1050
+467,2026-02-01,2026-02,West,Canada,Chocolate Shake,Beverages,Dine-In,6,170,1020,658.88,361.12,580,16,15,35.4,1020
+468,2025-07-01,2025-07,North,Japan,Quarter Pounder with Cheese,Burgers,Takeaway,6,220,1320,688.07,631.93,510,29,26,47.87,1320
+469,2026-01-01,2026-01,South,Japan,Apple Pie,Desserts,McDelivery,1,100,100,56.75,43.25,230,11,10,43.25,100
+470,2025-03-01,2025-03,West,Brazil,Sprite,Beverages,Takeaway,1,90,90,49.01,40.99,190,22,22,45.54,90
+471,2025-12-01,2025-12,Central,Canada,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,9,280,2520,1460.01,1059.99,420,25,24,42.06,2520
+472,2026-04-01,2026-04,Central,UK,Coca-Cola,Beverages,McDelivery,9,90,810,458.56,351.44,210,24,24,43.39,810
+473,2025-05-01,2025-05,East,Japan,Iced Coffee,Beverages,Dine-In,6,150,900,592.61,307.39,180,15,15,34.15,900
+474,2025-07-01,2025-07,North,Canada,French Fries,Sides,Drive-Thru,7,110,770,518.54,251.46,320,15,15,32.66,770
+475,2026-04-01,2026-04,North,UK,Filet-O-Fish,Burgers,Dine-In,7,190,1330,893.1,436.9,390,20,19,32.85,1330
+476,2026-04-01,2026-04,North,India,Egg McMuffin,Breakfast,McDelivery,6,180,1080,676.88,403.12,310,17,16,37.33,1080
+477,2025-06-01,2025-06,East,France,French Fries,Sides,McDelivery,2,110,220,134.06,85.94,320,15,15,39.06,220
+478,2025-11-01,2025-11,East,UK,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,3,170,510,333.73,176.27,250,15,14,34.56,510
+479,2026-05-01,2026-05,West,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,3,280,840,443.61,396.39,420,25,24,47.19,840
+480,2025-04-01,2025-04,North,France,Quarter Pounder with Cheese,Burgers,Dine-In,6,220,1320,686.54,633.46,510,29,26,47.99,1320
+481,2025-05-01,2025-05,South,USA,Sprite,Beverages,Takeaway,8,90,720,483.4,236.6,190,22,22,32.86,720
+482,2025-06-01,2025-06,West,USA,McChicken,Burgers,Drive-Thru,5,180,900,609.38,290.62,400,21,22,32.29,900
+483,2025-09-01,2025-09,West,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,6,280,1680,1077.4,602.6,420,25,24,35.87,1680
+484,2026-02-01,2026-02,East,Germany,Filet-O-Fish,Burgers,McDelivery,1,190,190,108.68,81.32,390,20,19,42.8,190
+485,2026-05-01,2026-05,South,UK,Coca-Cola,Beverages,Takeaway,5,90,450,282.44,167.56,210,24,24,37.24,450
+486,2025-04-01,2025-04,Central,Japan,Coca-Cola,Beverages,Takeaway,3,90,270,152.89,117.11,210,24,24,43.37,270
+487,2025-10-01,2025-10,West,USA,Hotcakes,Breakfast,Drive-Thru,6,160,960,627.45,332.55,580,15,14,34.64,960
+488,2025-12-01,2025-12,South,Japan,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,5,210,1050,643.14,406.86,470,27,25,38.75,1050
+489,2025-08-01,2025-08,Central,India,Sundae,Desserts,Dine-In,8,120,960,615.8,344.2,330,12,11,35.85,960
+490,2026-02-01,2026-02,East,Brazil,Hash Browns,Sides,Takeaway,2,90,180,106.73,73.27,140,9,8,40.71,180
+491,2025-10-01,2025-10,Central,USA,Chocolate Shake,Beverages,Dine-In,6,170,1020,540.18,479.82,580,16,15,47.04,1020
+492,2025-05-01,2025-05,North,Brazil,Big Mac,Burgers,Takeaway,7,250,1750,1106.54,643.46,520,30,28,36.77,1750
+493,2025-03-01,2025-03,South,Australia,Double Cheeseburger,Burgers,Dine-In,1,160,160,80.41,79.59,450,24,23,49.74,160
+494,2025-02-01,2025-02,East,Canada,Sprite,Beverages,Drive-Thru,6,90,540,352.75,187.25,190,22,22,34.68,540
+495,2025-01-01,2025-01,North,India,Hotcakes,Breakfast,Dine-In,3,160,480,325.76,154.24,580,15,14,32.13,480
+496,2025-10-01,2025-10,East,Australia,Quarter Pounder with Cheese,Burgers,McDelivery,6,220,1320,789.05,530.95,510,29,26,40.22,1320
+497,2026-05-01,2026-05,North,Brazil,Sundae,Desserts,Takeaway,1,120,120,71.66,48.34,330,12,11,40.28,120
+498,2025-09-01,2025-09,Central,UK,Sundae,Desserts,Dine-In,8,120,960,636.74,323.26,330,12,11,33.67,960
+499,2026-05-01,2026-05,North,Australia,French Fries,Sides,McDelivery,6,110,660,362.63,297.37,320,15,15,45.06,660
+500,2025-08-01,2025-08,East,USA,Big Mac,Burgers,Drive-Thru,3,250,750,426.06,323.94,520,30,28,43.19,750
+501,2025-03-01,2025-03,East,India,Double Cheeseburger,Burgers,McDelivery,8,160,1280,802.96,477.04,450,24,23,37.27,1280
+502,2025-11-01,2025-11,South,India,French Fries,Sides,McDelivery,6,110,660,400.15,259.85,320,15,15,39.37,660
+503,2025-06-01,2025-06,West,Brazil,Quarter Pounder with Cheese,Burgers,Dine-In,5,220,1100,642.59,457.41,510,29,26,41.58,1100
+504,2025-03-01,2025-03,East,France,Double Cheeseburger,Burgers,Takeaway,3,160,480,270.24,209.76,450,24,23,43.7,480
+505,2025-09-01,2025-09,North,Canada,Chocolate Shake,Beverages,Takeaway,7,170,1190,773.91,416.09,580,16,15,34.97,1190
+506,2026-04-01,2026-04,West,Germany,Double Cheeseburger,Burgers,McDelivery,9,160,1440,936.01,503.99,450,24,23,35.0,1440
+507,2025-03-01,2025-03,East,Brazil,Coca-Cola,Beverages,Takeaway,9,90,810,560.34,249.66,210,24,24,30.82,810
+508,2025-01-01,2025-01,East,Germany,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,1,210,210,145.08,64.92,470,27,25,30.91,210
+509,2026-04-01,2026-04,North,Singapore,Hotcakes,Breakfast,McDelivery,6,160,960,497.68,462.32,580,15,14,48.16,960
+510,2026-02-01,2026-02,East,Germany,Apple Pie,Desserts,McDelivery,9,100,900,595.32,304.68,230,11,10,33.85,900
+511,2026-01-01,2026-01,East,Germany,McChicken,Burgers,Dine-In,6,180,1080,647.95,432.05,400,21,22,40.0,1080
+512,2025-07-01,2025-07,East,UK,Filet-O-Fish,Burgers,Dine-In,8,190,1520,918.74,601.26,390,20,19,39.56,1520
+513,2025-06-01,2025-06,West,Mexico,Sundae,Desserts,Takeaway,4,120,480,265.94,214.06,330,12,11,44.6,480
+514,2025-01-01,2025-01,North,Australia,French Fries,Sides,Takeaway,1,110,110,70.8,39.2,320,15,15,35.64,110
+515,2025-03-01,2025-03,North,Singapore,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,5,170,850,554.54,295.46,250,15,14,34.76,850
+516,2025-09-01,2025-09,Central,India,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,9,210,1890,1308.78,581.22,470,27,25,30.75,1890
+517,2025-06-01,2025-06,Central,UK,Iced Coffee,Beverages,McDelivery,1,150,150,87.29,62.71,180,15,15,41.81,150
+518,2025-04-01,2025-04,South,France,Quarter Pounder with Cheese,Burgers,Dine-In,4,220,880,569.96,310.04,510,29,26,35.23,880
+519,2025-05-01,2025-05,East,UK,Iced Coffee,Beverages,Drive-Thru,3,150,450,307.46,142.54,180,15,15,31.68,450
+520,2026-05-01,2026-05,North,UK,Sundae,Desserts,Takeaway,9,120,1080,630.56,449.44,330,12,11,41.61,1080
+521,2025-09-01,2025-09,West,Singapore,Filet-O-Fish,Burgers,McDelivery,8,190,1520,771.26,748.74,390,20,19,49.26,1520
+522,2025-09-01,2025-09,Central,Singapore,Big Mac,Burgers,Dine-In,9,250,2250,1164.39,1085.61,520,30,28,48.25,2250
+523,2026-04-01,2026-04,South,UK,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,3,210,630,386.67,243.33,470,27,25,38.62,630
+524,2025-04-01,2025-04,North,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,2,280,560,335.99,224.01,420,25,24,40.0,560
+525,2025-12-01,2025-12,West,USA,Iced Coffee,Beverages,Takeaway,5,150,750,500.85,249.15,180,15,15,33.22,750
+526,2026-02-01,2026-02,Central,Mexico,Egg McMuffin,Breakfast,McDelivery,4,180,720,377.05,342.95,310,17,16,47.63,720
+527,2025-01-01,2025-01,South,India,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,5,280,1400,889.2,510.8,420,25,24,36.49,1400
+528,2025-01-01,2025-01,West,Mexico,Apple Pie,Desserts,Drive-Thru,5,100,500,256.58,243.42,230,11,10,48.68,500
+529,2025-12-01,2025-12,East,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,9,170,1530,1057.76,472.24,250,15,14,30.87,1530
+530,2025-03-01,2025-03,West,Mexico,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,2,170,340,223.94,116.06,250,15,14,34.14,340
+531,2025-06-01,2025-06,North,USA,Coca-Cola,Beverages,Takeaway,3,90,270,161.06,108.94,210,24,24,40.35,270
+532,2026-04-01,2026-04,East,USA,French Fries,Sides,Drive-Thru,5,110,550,321.72,228.28,320,15,15,41.51,550
+533,2025-06-01,2025-06,Central,India,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,6,170,1020,657.02,362.98,250,15,14,35.59,1020
+534,2026-03-01,2026-03,Central,Australia,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,7,210,1470,786.65,683.35,470,27,25,46.49,1470
+535,2025-11-01,2025-11,West,India,Apple Pie,Desserts,Dine-In,5,100,500,301.55,198.45,230,11,10,39.69,500
+536,2025-05-01,2025-05,East,Singapore,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,3,170,510,275.03,234.97,250,15,14,46.07,510
+537,2025-11-01,2025-11,East,Australia,Big Mac,Burgers,Drive-Thru,6,250,1500,827.82,672.18,520,30,28,44.81,1500
+538,2025-11-01,2025-11,South,India,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,2,210,420,273.92,146.08,470,27,25,34.78,420
+539,2025-10-01,2025-10,South,Canada,Double Cheeseburger,Burgers,Dine-In,3,160,480,296.23,183.77,450,24,23,38.29,480
+540,2025-10-01,2025-10,East,UK,French Fries,Sides,Drive-Thru,6,110,660,433.43,226.57,320,15,15,34.33,660
+541,2026-05-01,2026-05,South,Germany,Filet-O-Fish,Burgers,Drive-Thru,4,190,760,476.09,283.91,390,20,19,37.36,760
+542,2026-04-01,2026-04,Central,Singapore,Iced Coffee,Beverages,Dine-In,5,150,750,493.87,256.13,180,15,15,34.15,750
+543,2025-03-01,2025-03,South,Canada,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,3,170,510,306.22,203.78,250,15,14,39.96,510
+544,2026-06-01,2026-06,South,India,Quarter Pounder with Cheese,Burgers,McDelivery,8,220,1760,1159.74,600.26,510,29,26,34.11,1760
+545,2026-02-01,2026-02,North,UK,Apple Pie,Desserts,McDelivery,3,100,300,163.62,136.38,230,11,10,45.46,300
+546,2025-01-01,2025-01,East,France,Egg McMuffin,Breakfast,Dine-In,6,180,1080,610.74,469.26,310,17,16,43.45,1080
+547,2026-06-01,2026-06,South,Germany,Hash Browns,Sides,Drive-Thru,6,90,540,297.09,242.91,140,9,8,44.98,540
+548,2025-01-01,2025-01,West,Australia,Chocolate Shake,Beverages,McDelivery,5,170,850,441.89,408.11,580,16,15,48.01,850
+549,2025-03-01,2025-03,West,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,3,280,840,422.12,417.88,420,25,24,49.75,840
+550,2026-01-01,2026-01,Central,Germany,French Fries,Sides,Takeaway,7,110,770,392.56,377.44,320,15,15,49.02,770
+551,2025-03-01,2025-03,East,USA,Iced Coffee,Beverages,McDelivery,9,150,1350,746.29,603.71,180,15,15,44.72,1350
+552,2026-01-01,2026-01,South,Japan,Quarter Pounder with Cheese,Burgers,Dine-In,7,220,1540,883.77,656.23,510,29,26,42.61,1540
+553,2026-04-01,2026-04,West,USA,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,6,280,1680,920.81,759.19,420,25,24,45.19,1680
+554,2025-11-01,2025-11,East,India,Hotcakes,Breakfast,Takeaway,2,160,320,167.7,152.3,580,15,14,47.59,320
+555,2025-01-01,2025-01,South,USA,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,2,170,340,230.19,109.81,250,15,14,32.3,340
+556,2025-04-01,2025-04,East,Singapore,French Fries,Sides,Takeaway,6,110,660,364.1,295.9,320,15,15,44.83,660
+557,2025-04-01,2025-04,West,UK,Egg McMuffin,Breakfast,Drive-Thru,2,180,360,211.31,148.69,310,17,16,41.3,360
+558,2025-01-01,2025-01,East,UK,Egg McMuffin,Breakfast,Drive-Thru,7,180,1260,784.14,475.86,310,17,16,37.77,1260
+559,2026-05-01,2026-05,East,Mexico,Hash Browns,Sides,Drive-Thru,5,90,450,247.85,202.15,140,9,8,44.92,450
+560,2026-04-01,2026-04,West,Canada,Big Mac,Burgers,Dine-In,6,250,1500,753.24,746.76,520,30,28,49.78,1500
+561,2025-04-01,2025-04,South,UK,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,2,280,560,314.75,245.25,420,25,24,43.79,560
+562,2025-12-01,2025-12,West,Germany,Quarter Pounder with Cheese,Burgers,Drive-Thru,2,220,440,285.25,154.75,510,29,26,35.17,440
+563,2025-05-01,2025-05,West,Germany,Sundae,Desserts,Takeaway,4,120,480,332.19,147.81,330,12,11,30.79,480
+564,2026-01-01,2026-01,North,France,Hash Browns,Sides,Takeaway,9,90,810,531.27,278.73,140,9,8,34.41,810
+565,2025-03-01,2025-03,West,France,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,5,210,1050,558.39,491.61,470,27,25,46.82,1050
+566,2025-04-01,2025-04,South,Germany,Sundae,Desserts,McDelivery,6,120,720,406.16,313.84,330,12,11,43.59,720
+567,2025-09-01,2025-09,West,Mexico,Iced Coffee,Beverages,Takeaway,7,150,1050,712.28,337.72,180,15,15,32.16,1050
+568,2026-03-01,2026-03,East,Germany,Sundae,Desserts,Dine-In,4,120,480,266.73,213.27,330,12,11,44.43,480
+569,2025-01-01,2025-01,South,Singapore,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,4,170,680,417.56,262.44,250,15,14,38.59,680
+570,2026-06-01,2026-06,East,Australia,Coca-Cola,Beverages,Takeaway,4,90,360,237.53,122.47,210,24,24,34.02,360
+571,2025-09-01,2025-09,South,Brazil,French Fries,Sides,McDelivery,4,110,440,237.84,202.16,320,15,15,45.95,440
+572,2025-08-01,2025-08,Central,Australia,Big Mac,Burgers,Dine-In,4,250,1000,510.35,489.65,520,30,28,48.96,1000
+573,2026-04-01,2026-04,South,India,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,6,210,1260,863.61,396.39,470,27,25,31.46,1260
+574,2025-04-01,2025-04,South,Japan,Big Mac,Burgers,Drive-Thru,2,250,500,315.16,184.84,520,30,28,36.97,500
+575,2026-04-01,2026-04,East,Japan,Big Mac,Burgers,Dine-In,4,250,1000,655.21,344.79,520,30,28,34.48,1000
+576,2026-05-01,2026-05,North,Singapore,Coca-Cola,Beverages,McDelivery,7,90,630,390.97,239.03,210,24,24,37.94,630
+577,2025-07-01,2025-07,Central,Canada,Coca-Cola,Beverages,Takeaway,4,90,360,204.23,155.77,210,24,24,43.27,360
+578,2025-10-01,2025-10,West,Canada,Quarter Pounder with Cheese,Burgers,Dine-In,9,220,1980,1200.71,779.29,510,29,26,39.36,1980
+579,2025-11-01,2025-11,North,Canada,Hash Browns,Sides,Takeaway,8,90,720,496.5,223.5,140,9,8,31.04,720
+580,2025-10-01,2025-10,North,India,Sundae,Desserts,Drive-Thru,3,120,360,190.31,169.69,330,12,11,47.14,360
+581,2025-05-01,2025-05,Central,Germany,Chocolate Shake,Beverages,McDelivery,6,170,1020,707.68,312.32,580,16,15,30.62,1020
+582,2025-03-01,2025-03,Central,UK,Big Mac,Burgers,Drive-Thru,9,250,2250,1366.45,883.55,520,30,28,39.27,2250
+583,2025-11-01,2025-11,Central,Brazil,Hotcakes,Breakfast,Drive-Thru,5,160,800,538.01,261.99,580,15,14,32.75,800
+584,2025-11-01,2025-11,East,Canada,Hash Browns,Sides,McDelivery,2,90,180,100.88,79.12,140,9,8,43.96,180
+585,2026-05-01,2026-05,South,Japan,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,3,280,840,462.22,377.78,420,25,24,44.97,840
+586,2025-03-01,2025-03,West,Japan,Egg McMuffin,Breakfast,McDelivery,5,180,900,585.32,314.68,310,17,16,34.96,900
+587,2025-06-01,2025-06,Central,Germany,French Fries,Sides,Dine-In,2,110,220,124.63,95.37,320,15,15,43.35,220
+588,2026-06-01,2026-06,West,UK,McChicken,Burgers,Takeaway,1,180,180,124.89,55.11,400,21,22,30.62,180
+589,2026-04-01,2026-04,Central,Mexico,Double Cheeseburger,Burgers,McDelivery,2,160,320,189.69,130.31,450,24,23,40.72,320
+590,2025-05-01,2025-05,Central,UK,McFlurry Oreo,Desserts,Drive-Thru,7,190,1330,881.95,448.05,510,18,17,33.69,1330
+591,2025-12-01,2025-12,West,Canada,French Fries,Sides,Dine-In,6,110,660,378.89,281.11,320,15,15,42.59,660
+592,2026-03-01,2026-03,East,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,4,280,1120,659.0,461.0,420,25,24,41.16,1120
+593,2026-02-01,2026-02,South,Canada,Quarter Pounder with Cheese,Burgers,McDelivery,3,220,660,410.88,249.12,510,29,26,37.75,660
+594,2026-06-01,2026-06,North,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,9,280,2520,1687.93,832.07,420,25,24,33.02,2520
+595,2025-09-01,2025-09,East,Mexico,Egg McMuffin,Breakfast,Takeaway,3,180,540,325.32,214.68,310,17,16,39.76,540
+596,2025-10-01,2025-10,East,Canada,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,9,170,1530,939.41,590.59,250,15,14,38.6,1530
+597,2025-08-01,2025-08,West,Canada,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,9,210,1890,1016.2,873.8,470,27,25,46.23,1890
+598,2025-06-01,2025-06,North,India,Filet-O-Fish,Burgers,Drive-Thru,3,190,570,395.7,174.3,390,20,19,30.58,570
+599,2026-04-01,2026-04,West,Germany,Egg McMuffin,Breakfast,McDelivery,2,180,360,203.1,156.9,310,17,16,43.58,360
+600,2025-02-01,2025-02,North,UK,Hash Browns,Sides,Takeaway,3,90,270,139.89,130.11,140,9,8,48.19,270
+601,2026-03-01,2026-03,West,UK,Chocolate Shake,Beverages,Drive-Thru,6,170,1020,629.65,390.35,580,16,15,38.27,1020
+602,2026-03-01,2026-03,North,Mexico,McChicken,Burgers,Dine-In,1,180,180,118.26,61.74,400,21,22,34.3,180
+603,2026-03-01,2026-03,East,Mexico,Double Cheeseburger,Burgers,Takeaway,6,160,960,650.42,309.58,450,24,23,32.25,960
+604,2026-05-01,2026-05,North,Australia,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,6,280,1680,1062.06,617.94,420,25,24,36.78,1680
+605,2026-02-01,2026-02,East,Canada,McChicken,Burgers,McDelivery,9,180,1620,959.29,660.71,400,21,22,40.78,1620
+606,2025-01-01,2025-01,North,UK,Coca-Cola,Beverages,Takeaway,9,90,810,473.29,336.71,210,24,24,41.57,810
+607,2025-10-01,2025-10,Central,USA,Egg McMuffin,Breakfast,Dine-In,5,180,900,510.03,389.97,310,17,16,43.33,900
+608,2025-12-01,2025-12,South,Australia,Hotcakes,Breakfast,Dine-In,9,160,1440,944.69,495.31,580,15,14,34.4,1440
+609,2026-04-01,2026-04,South,Japan,Quarter Pounder with Cheese,Burgers,Drive-Thru,4,220,880,593.86,286.14,510,29,26,32.52,880
+610,2025-10-01,2025-10,West,India,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,3,210,630,376.32,253.68,470,27,25,40.27,630
+611,2025-02-01,2025-02,South,UK,Egg McMuffin,Breakfast,Takeaway,6,180,1080,635.27,444.73,310,17,16,41.18,1080
+612,2025-12-01,2025-12,Central,France,McFlurry Oreo,Desserts,Dine-In,8,190,1520,923.89,596.11,510,18,17,39.22,1520
+613,2025-05-01,2025-05,South,Australia,Egg McMuffin,Breakfast,Dine-In,6,180,1080,681.61,398.39,310,17,16,36.89,1080
+614,2025-07-01,2025-07,East,India,Filet-O-Fish,Burgers,Takeaway,5,190,950,571.39,378.61,390,20,19,39.85,950
+615,2026-05-01,2026-05,South,Australia,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,5,280,1400,961.05,438.95,420,25,24,31.35,1400
+616,2025-12-01,2025-12,South,France,French Fries,Sides,Drive-Thru,7,110,770,463.97,306.03,320,15,15,39.74,770
+617,2025-12-01,2025-12,South,France,McFlurry Oreo,Desserts,Drive-Thru,5,190,950,482.34,467.66,510,18,17,49.23,950
+618,2026-04-01,2026-04,South,Australia,French Fries,Sides,Dine-In,1,110,110,69.77,40.23,320,15,15,36.57,110
+619,2025-10-01,2025-10,West,Australia,Hash Browns,Sides,Dine-In,1,90,90,57.67,32.33,140,9,8,35.92,90
+620,2025-03-01,2025-03,North,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,8,280,2240,1540.99,699.01,420,25,24,31.21,2240
+621,2025-11-01,2025-11,North,Australia,Big Mac,Burgers,Dine-In,2,250,500,299.91,200.09,520,30,28,40.02,500
+622,2026-03-01,2026-03,Central,India,Coca-Cola,Beverages,Dine-In,6,90,540,375.77,164.23,210,24,24,30.41,540
+623,2025-09-01,2025-09,East,Canada,French Fries,Sides,Takeaway,5,110,550,293.06,256.94,320,15,15,46.72,550
+624,2025-09-01,2025-09,South,France,Double Cheeseburger,Burgers,Dine-In,7,160,1120,681.61,438.39,450,24,23,39.14,1120
+625,2026-06-01,2026-06,Central,Canada,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,7,210,1470,823.33,646.67,470,27,25,43.99,1470
+626,2026-03-01,2026-03,East,France,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,6,170,1020,695.36,324.64,250,15,14,31.83,1020
+627,2025-06-01,2025-06,South,Australia,Coca-Cola,Beverages,McDelivery,6,90,540,302.84,237.16,210,24,24,43.92,540
+628,2025-04-01,2025-04,West,India,McFlurry Oreo,Desserts,McDelivery,6,190,1140,681.83,458.17,510,18,17,40.19,1140
+629,2026-01-01,2026-01,West,France,French Fries,Sides,McDelivery,3,110,330,215.24,114.76,320,15,15,34.78,330
+630,2025-04-01,2025-04,West,Australia,McFlurry Oreo,Desserts,Takeaway,2,190,380,233.43,146.57,510,18,17,38.57,380
+631,2025-06-01,2025-06,Central,UK,Iced Coffee,Beverages,Drive-Thru,8,150,1200,726.45,473.55,180,15,15,39.46,1200
+632,2025-05-01,2025-05,Central,UK,Coca-Cola,Beverages,McDelivery,6,90,540,282.65,257.35,210,24,24,47.66,540
+633,2025-01-01,2025-01,South,UK,Chocolate Shake,Beverages,Takeaway,5,170,850,505.16,344.84,580,16,15,40.57,850
+634,2025-08-01,2025-08,South,Australia,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,6,280,1680,957.55,722.45,420,25,24,43.0,1680
+635,2025-04-01,2025-04,Central,India,Filet-O-Fish,Burgers,Drive-Thru,6,190,1140,645.66,494.34,390,20,19,43.36,1140
+636,2025-05-01,2025-05,West,Brazil,Filet-O-Fish,Burgers,Takeaway,8,190,1520,911.5,608.5,390,20,19,40.03,1520
+637,2026-01-01,2026-01,East,Singapore,Apple Pie,Desserts,McDelivery,7,100,700,471.21,228.79,230,11,10,32.68,700
+638,2026-03-01,2026-03,East,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,3,170,510,324.49,185.51,250,15,14,36.37,510
+639,2025-05-01,2025-05,West,India,McChicken,Burgers,Dine-In,9,180,1620,954.18,665.82,400,21,22,41.1,1620
+640,2025-05-01,2025-05,Central,Brazil,McFlurry Oreo,Desserts,Drive-Thru,1,190,190,130.89,59.11,510,18,17,31.11,190
+641,2025-07-01,2025-07,West,Germany,Apple Pie,Desserts,Takeaway,2,100,200,117.66,82.34,230,11,10,41.17,200
+642,2025-10-01,2025-10,North,India,McFlurry Oreo,Desserts,Dine-In,7,190,1330,752.67,577.33,510,18,17,43.41,1330
+643,2026-05-01,2026-05,West,Brazil,McFlurry Oreo,Desserts,Dine-In,4,190,760,468.2,291.8,510,18,17,38.39,760
+644,2025-04-01,2025-04,North,Canada,Hotcakes,Breakfast,Takeaway,2,160,320,200.39,119.61,580,15,14,37.38,320
+645,2025-07-01,2025-07,North,UK,McChicken,Burgers,Dine-In,6,180,1080,590.92,489.08,400,21,22,45.29,1080
+646,2025-12-01,2025-12,West,Singapore,Sprite,Beverages,Takeaway,2,90,180,106.99,73.01,190,22,22,40.56,180
+647,2025-04-01,2025-04,West,Canada,Quarter Pounder with Cheese,Burgers,Drive-Thru,1,220,220,152.65,67.35,510,29,26,30.61,220
+648,2025-08-01,2025-08,South,Mexico,Hash Browns,Sides,Takeaway,6,90,540,306.7,233.3,140,9,8,43.2,540
+649,2025-06-01,2025-06,South,UK,Quarter Pounder with Cheese,Burgers,Drive-Thru,4,220,880,444.66,435.34,510,29,26,49.47,880
+650,2025-11-01,2025-11,West,Australia,Iced Coffee,Beverages,Dine-In,1,150,150,90.53,59.47,180,15,15,39.65,150
+651,2026-04-01,2026-04,West,Canada,French Fries,Sides,Drive-Thru,1,110,110,64.78,45.22,320,15,15,41.11,110
+652,2026-06-01,2026-06,Central,France,Apple Pie,Desserts,Drive-Thru,8,100,800,422.84,377.16,230,11,10,47.14,800
+653,2025-08-01,2025-08,West,India,McChicken,Burgers,Dine-In,3,180,540,277.71,262.29,400,21,22,48.57,540
+654,2025-07-01,2025-07,East,France,French Fries,Sides,Takeaway,1,110,110,61.21,48.79,320,15,15,44.35,110
+655,2025-12-01,2025-12,East,Australia,Coca-Cola,Beverages,Takeaway,9,90,810,487.34,322.66,210,24,24,39.83,810
+656,2025-02-01,2025-02,North,Singapore,Sundae,Desserts,Takeaway,8,120,960,564.3,395.7,330,12,11,41.22,960
+657,2026-01-01,2026-01,North,UK,French Fries,Sides,McDelivery,2,110,220,133.44,86.56,320,15,15,39.35,220
+658,2026-03-01,2026-03,West,Mexico,Coca-Cola,Beverages,Dine-In,3,90,270,174.13,95.87,210,24,24,35.51,270
+659,2025-12-01,2025-12,North,France,Double Cheeseburger,Burgers,McDelivery,8,160,1280,878.36,401.64,450,24,23,31.38,1280
+660,2026-03-01,2026-03,South,Australia,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,2,170,340,196.45,143.55,250,15,14,42.22,340
+661,2026-02-01,2026-02,South,France,Sundae,Desserts,Dine-In,8,120,960,528.54,431.46,330,12,11,44.94,960
+662,2026-06-01,2026-06,South,India,Coca-Cola,Beverages,McDelivery,8,90,720,385.03,334.97,210,24,24,46.52,720
+663,2026-04-01,2026-04,West,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,9,170,1530,784.51,745.49,250,15,14,48.72,1530
+664,2025-07-01,2025-07,West,UK,Hotcakes,Breakfast,Takeaway,8,160,1280,678.99,601.01,580,15,14,46.95,1280
+665,2026-02-01,2026-02,Central,Mexico,Iced Coffee,Beverages,McDelivery,4,150,600,353.22,246.78,180,15,15,41.13,600
+666,2025-07-01,2025-07,West,France,Big Mac,Burgers,Drive-Thru,5,250,1250,862.88,387.12,520,30,28,30.97,1250
+667,2025-02-01,2025-02,West,Australia,Hotcakes,Breakfast,Dine-In,3,160,480,253.09,226.91,580,15,14,47.27,480
+668,2025-01-01,2025-01,North,Australia,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,6,280,1680,870.36,809.64,420,25,24,48.19,1680
+669,2025-12-01,2025-12,Central,Canada,McFlurry Oreo,Desserts,Dine-In,7,190,1330,798.47,531.53,510,18,17,39.96,1330
+670,2026-06-01,2026-06,North,Mexico,Big Mac,Burgers,Drive-Thru,2,250,500,313.11,186.89,520,30,28,37.38,500
+671,2025-12-01,2025-12,East,UK,Quarter Pounder with Cheese,Burgers,Dine-In,1,220,220,129.2,90.8,510,29,26,41.27,220
+672,2026-06-01,2026-06,Central,Japan,Filet-O-Fish,Burgers,McDelivery,9,190,1710,857.59,852.41,390,20,19,49.85,1710
+673,2025-05-01,2025-05,South,Japan,Double Cheeseburger,Burgers,Drive-Thru,2,160,320,222.1,97.9,450,24,23,30.59,320
+674,2025-11-01,2025-11,Central,India,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,4,170,680,354.53,325.47,250,15,14,47.86,680
+675,2026-06-01,2026-06,West,Australia,French Fries,Sides,Drive-Thru,1,110,110,65.43,44.57,320,15,15,40.52,110
+676,2025-02-01,2025-02,West,France,Sundae,Desserts,McDelivery,2,120,240,141.03,98.97,330,12,11,41.24,240
+677,2025-06-01,2025-06,West,Mexico,McFlurry Oreo,Desserts,Takeaway,1,190,190,111.09,78.91,510,18,17,41.53,190
+678,2025-09-01,2025-09,West,France,McChicken,Burgers,Takeaway,2,180,360,236.13,123.87,400,21,22,34.41,360
+679,2025-08-01,2025-08,East,Mexico,Double Cheeseburger,Burgers,Dine-In,2,160,320,210.49,109.51,450,24,23,34.22,320
+680,2025-05-01,2025-05,Central,Australia,Sundae,Desserts,Takeaway,3,120,360,245.66,114.34,330,12,11,31.76,360
+681,2025-11-01,2025-11,West,Brazil,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,4,210,840,510.91,329.09,470,27,25,39.18,840
+682,2025-05-01,2025-05,West,France,Filet-O-Fish,Burgers,Takeaway,1,190,190,128.85,61.15,390,20,19,32.18,190
+683,2026-04-01,2026-04,South,India,Filet-O-Fish,Burgers,Takeaway,9,190,1710,1029.81,680.19,390,20,19,39.78,1710
+684,2025-06-01,2025-06,East,Australia,Quarter Pounder with Cheese,Burgers,Takeaway,6,220,1320,725.23,594.77,510,29,26,45.06,1320
+685,2025-04-01,2025-04,South,Singapore,McChicken,Burgers,Takeaway,2,180,360,226.01,133.99,400,21,22,37.22,360
+686,2025-08-01,2025-08,South,Singapore,Sundae,Desserts,McDelivery,1,120,120,70.67,49.33,330,12,11,41.11,120
+687,2025-06-01,2025-06,North,Germany,McChicken,Burgers,Drive-Thru,3,180,540,270.89,269.11,400,21,22,49.84,540
+688,2025-07-01,2025-07,Central,Japan,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,3,210,630,344.3,285.7,470,27,25,45.35,630
+689,2025-02-01,2025-02,East,India,Iced Coffee,Beverages,Dine-In,5,150,750,524.08,225.92,180,15,15,30.12,750
+690,2026-06-01,2026-06,Central,France,Iced Coffee,Beverages,Dine-In,9,150,1350,936.27,413.73,180,15,15,30.65,1350
+691,2025-06-01,2025-06,Central,Australia,French Fries,Sides,Drive-Thru,1,110,110,55.47,54.53,320,15,15,49.57,110
+692,2025-08-01,2025-08,West,France,Egg McMuffin,Breakfast,Takeaway,9,180,1620,1049.32,570.68,310,17,16,35.23,1620
+693,2025-08-01,2025-08,North,Japan,Hash Browns,Sides,McDelivery,1,90,90,52.78,37.22,140,9,8,41.36,90
+694,2026-06-01,2026-06,West,Brazil,Sprite,Beverages,Dine-In,3,90,270,162.9,107.1,190,22,22,39.67,270
+695,2025-02-01,2025-02,West,Singapore,McFlurry Oreo,Desserts,Takeaway,3,190,570,395.28,174.72,510,18,17,30.65,570
+696,2025-01-01,2025-01,East,Australia,Chocolate Shake,Beverages,Dine-In,6,170,1020,541.79,478.21,580,16,15,46.88,1020
+697,2025-11-01,2025-11,Central,Mexico,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,8,280,2240,1237.39,1002.61,420,25,24,44.76,2240
+698,2026-04-01,2026-04,Central,UK,McChicken,Burgers,Drive-Thru,1,180,180,96.51,83.49,400,21,22,46.38,180
+699,2025-01-01,2025-01,West,Japan,Iced Coffee,Beverages,McDelivery,2,150,300,199.22,100.78,180,15,15,33.59,300
+700,2025-09-01,2025-09,North,UK,Sprite,Beverages,McDelivery,3,90,270,158.16,111.84,190,22,22,41.42,270
+701,2025-01-01,2025-01,North,Australia,Sundae,Desserts,Dine-In,1,120,120,72.86,47.14,330,12,11,39.28,120
+702,2025-08-01,2025-08,Central,Canada,Filet-O-Fish,Burgers,Takeaway,6,190,1140,739.13,400.87,390,20,19,35.16,1140
+703,2025-11-01,2025-11,East,France,Chocolate Shake,Beverages,Drive-Thru,2,170,340,221.74,118.26,580,16,15,34.78,340
+704,2025-10-01,2025-10,West,France,Filet-O-Fish,Burgers,Takeaway,6,190,1140,763.39,376.61,390,20,19,33.04,1140
+705,2026-01-01,2026-01,East,India,Hotcakes,Breakfast,Drive-Thru,6,160,960,598.09,361.91,580,15,14,37.7,960
+706,2025-12-01,2025-12,North,India,McChicken,Burgers,McDelivery,7,180,1260,798.69,461.31,400,21,22,36.61,1260
+707,2026-05-01,2026-05,North,Singapore,Iced Coffee,Beverages,McDelivery,9,150,1350,887.3,462.7,180,15,15,34.27,1350
+708,2026-02-01,2026-02,South,Singapore,Quarter Pounder with Cheese,Burgers,Drive-Thru,6,220,1320,706.26,613.74,510,29,26,46.5,1320
+709,2026-03-01,2026-03,North,Canada,Quarter Pounder with Cheese,Burgers,Takeaway,5,220,1100,741.21,358.79,510,29,26,32.62,1100
+710,2025-09-01,2025-09,North,Australia,French Fries,Sides,McDelivery,6,110,660,370.04,289.96,320,15,15,43.93,660
+711,2025-01-01,2025-01,South,India,Apple Pie,Desserts,Drive-Thru,5,100,500,347.2,152.8,230,11,10,30.56,500
+712,2025-07-01,2025-07,South,Germany,Big Mac,Burgers,Drive-Thru,4,250,1000,632.31,367.69,520,30,28,36.77,1000
+713,2025-06-01,2025-06,West,Singapore,Coca-Cola,Beverages,Takeaway,7,90,630,403.53,226.47,210,24,24,35.95,630
+714,2026-04-01,2026-04,North,USA,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,8,210,1680,1041.73,638.27,470,27,25,37.99,1680
+715,2025-07-01,2025-07,North,Japan,McFlurry Oreo,Desserts,McDelivery,3,190,570,299.06,270.94,510,18,17,47.53,570
+716,2026-01-01,2026-01,East,Brazil,French Fries,Sides,Dine-In,5,110,550,345.04,204.96,320,15,15,37.27,550
+717,2025-11-01,2025-11,East,Germany,Chocolate Shake,Beverages,Drive-Thru,7,170,1190,739.8,450.2,580,16,15,37.83,1190
+718,2026-04-01,2026-04,South,Canada,Apple Pie,Desserts,McDelivery,7,100,700,413.51,286.49,230,11,10,40.93,700
+719,2026-04-01,2026-04,Central,India,French Fries,Sides,Dine-In,1,110,110,65.32,44.68,320,15,15,40.62,110
+720,2025-04-01,2025-04,South,USA,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,1,170,170,103.62,66.38,250,15,14,39.05,170
+721,2025-10-01,2025-10,South,UK,Quarter Pounder with Cheese,Burgers,Takeaway,5,220,1100,697.09,402.91,510,29,26,36.63,1100
+722,2025-04-01,2025-04,West,Mexico,Sundae,Desserts,Dine-In,5,120,600,336.44,263.56,330,12,11,43.93,600
+723,2025-11-01,2025-11,South,France,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,3,280,840,459.47,380.53,420,25,24,45.3,840
+724,2026-04-01,2026-04,Central,Japan,French Fries,Sides,Dine-In,5,110,550,310.22,239.78,320,15,15,43.6,550
+725,2025-09-01,2025-09,West,Canada,Sundae,Desserts,Dine-In,3,120,360,223.13,136.87,330,12,11,38.02,360
+726,2026-05-01,2026-05,Central,Japan,Hash Browns,Sides,Dine-In,4,90,360,250.59,109.41,140,9,8,30.39,360
+727,2025-12-01,2025-12,West,Canada,Quarter Pounder with Cheese,Burgers,Dine-In,9,220,1980,1154.36,825.64,510,29,26,41.7,1980
+728,2025-10-01,2025-10,East,Australia,Hotcakes,Breakfast,Dine-In,7,160,1120,741.07,378.93,580,15,14,33.83,1120
+729,2026-03-01,2026-03,North,Canada,Hotcakes,Breakfast,McDelivery,3,160,480,249.68,230.32,580,15,14,47.98,480
+730,2025-03-01,2025-03,North,India,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,9,210,1890,1178.66,711.34,470,27,25,37.64,1890
+731,2025-06-01,2025-06,South,Australia,Apple Pie,Desserts,McDelivery,9,100,900,606.71,293.29,230,11,10,32.59,900
+732,2025-03-01,2025-03,West,Canada,Big Mac,Burgers,McDelivery,9,250,2250,1491.14,758.86,520,30,28,33.73,2250
+733,2026-04-01,2026-04,North,Brazil,Big Mac,Burgers,Takeaway,3,250,750,503.02,246.98,520,30,28,32.93,750
+734,2025-09-01,2025-09,East,Singapore,Coca-Cola,Beverages,McDelivery,4,90,360,231.97,128.03,210,24,24,35.56,360
+735,2026-01-01,2026-01,West,Australia,Apple Pie,Desserts,Dine-In,9,100,900,501.64,398.36,230,11,10,44.26,900
+736,2025-06-01,2025-06,Central,Japan,Apple Pie,Desserts,Drive-Thru,6,100,600,333.44,266.56,230,11,10,44.43,600
+737,2025-12-01,2025-12,South,Canada,Filet-O-Fish,Burgers,Dine-In,5,190,950,543.18,406.82,390,20,19,42.82,950
+738,2025-09-01,2025-09,East,UK,Iced Coffee,Beverages,Dine-In,6,150,900,581.5,318.5,180,15,15,35.39,900
+739,2025-08-01,2025-08,Central,Brazil,Quarter Pounder with Cheese,Burgers,Takeaway,9,220,1980,1344.93,635.07,510,29,26,32.07,1980
+740,2025-03-01,2025-03,South,Mexico,Filet-O-Fish,Burgers,Dine-In,2,190,380,196.04,183.96,390,20,19,48.41,380
+741,2026-02-01,2026-02,Central,Brazil,Double Cheeseburger,Burgers,Dine-In,6,160,960,588.44,371.56,450,24,23,38.7,960
+742,2025-07-01,2025-07,East,USA,Egg McMuffin,Breakfast,Drive-Thru,7,180,1260,774.18,485.82,310,17,16,38.56,1260
+743,2025-10-01,2025-10,East,India,Quarter Pounder with Cheese,Burgers,McDelivery,2,220,440,256.45,183.55,510,29,26,41.72,440
+744,2025-02-01,2025-02,East,Brazil,McChicken,Burgers,Drive-Thru,2,180,360,210.34,149.66,400,21,22,41.57,360
+745,2025-11-01,2025-11,East,India,French Fries,Sides,Drive-Thru,1,110,110,72.98,37.02,320,15,15,33.65,110
+746,2025-11-01,2025-11,East,Australia,Hotcakes,Breakfast,Dine-In,3,160,480,270.56,209.44,580,15,14,43.63,480
+747,2025-11-01,2025-11,West,UK,Apple Pie,Desserts,Drive-Thru,5,100,500,296.6,203.4,230,11,10,40.68,500
+748,2025-12-01,2025-12,South,Singapore,McFlurry Oreo,Desserts,Dine-In,9,190,1710,1043.45,666.55,510,18,17,38.98,1710
+749,2025-02-01,2025-02,East,Canada,McFlurry Oreo,Desserts,Drive-Thru,6,190,1140,644.19,495.81,510,18,17,43.49,1140
+750,2025-07-01,2025-07,North,India,Filet-O-Fish,Burgers,McDelivery,6,190,1140,659.11,480.89,390,20,19,42.18,1140
+751,2025-05-01,2025-05,South,France,McChicken,Burgers,Dine-In,1,180,180,102.67,77.33,400,21,22,42.96,180
+752,2026-03-01,2026-03,Central,France,French Fries,Sides,Dine-In,4,110,440,265.8,174.2,320,15,15,39.59,440
+753,2025-09-01,2025-09,West,India,McFlurry Oreo,Desserts,Takeaway,8,190,1520,904.95,615.05,510,18,17,40.46,1520
+754,2025-08-01,2025-08,North,Japan,Quarter Pounder with Cheese,Burgers,McDelivery,3,220,660,428.29,231.71,510,29,26,35.11,660
+755,2025-05-01,2025-05,East,Canada,Coca-Cola,Beverages,Dine-In,9,90,810,468.28,341.72,210,24,24,42.19,810
+756,2025-02-01,2025-02,West,USA,Filet-O-Fish,Burgers,McDelivery,5,190,950,603.2,346.8,390,20,19,36.51,950
+757,2025-10-01,2025-10,East,Australia,McChicken,Burgers,Dine-In,4,180,720,397.55,322.45,400,21,22,44.78,720
+758,2026-03-01,2026-03,Central,UK,French Fries,Sides,McDelivery,4,110,440,291.17,148.83,320,15,15,33.83,440
+759,2026-05-01,2026-05,Central,Brazil,Hotcakes,Breakfast,McDelivery,3,160,480,287.52,192.48,580,15,14,40.1,480
+760,2025-03-01,2025-03,North,India,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,3,170,510,271.13,238.87,250,15,14,46.84,510
+761,2026-03-01,2026-03,West,UK,Hotcakes,Breakfast,Takeaway,9,160,1440,727.95,712.05,580,15,14,49.45,1440
+762,2025-12-01,2025-12,South,Australia,Sprite,Beverages,Takeaway,1,90,90,62.51,27.49,190,22,22,30.54,90
+763,2025-04-01,2025-04,North,USA,Quarter Pounder with Cheese,Burgers,Dine-In,8,220,1760,926.07,833.93,510,29,26,47.38,1760
+764,2025-03-01,2025-03,Central,France,Big Mac,Burgers,Drive-Thru,7,250,1750,957.93,792.07,520,30,28,45.26,1750
+765,2025-06-01,2025-06,East,Australia,Double Cheeseburger,Burgers,Drive-Thru,4,160,640,416.14,223.86,450,24,23,34.98,640
+766,2025-08-01,2025-08,North,Japan,Iced Coffee,Beverages,Dine-In,6,150,900,498.4,401.6,180,15,15,44.62,900
+767,2026-04-01,2026-04,North,France,McChicken,Burgers,Dine-In,9,180,1620,948.38,671.62,400,21,22,41.46,1620
+768,2025-02-01,2025-02,East,Brazil,Hash Browns,Sides,McDelivery,8,90,720,401.98,318.02,140,9,8,44.17,720
+769,2025-02-01,2025-02,North,Germany,Sundae,Desserts,Dine-In,2,120,240,122.1,117.9,330,12,11,49.12,240
+770,2026-06-01,2026-06,South,Japan,Iced Coffee,Beverages,McDelivery,3,150,450,296.13,153.87,180,15,15,34.19,450
+771,2025-10-01,2025-10,North,UK,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,5,280,1400,878.92,521.08,420,25,24,37.22,1400
+772,2026-02-01,2026-02,East,UK,McFlurry Oreo,Desserts,Takeaway,6,190,1140,666.3,473.7,510,18,17,41.55,1140
+773,2025-12-01,2025-12,East,Japan,Egg McMuffin,Breakfast,Dine-In,2,180,360,198.62,161.38,310,17,16,44.83,360
+774,2025-07-01,2025-07,West,Canada,Big Mac,Burgers,Takeaway,7,250,1750,1210.99,539.01,520,30,28,30.8,1750
+775,2026-04-01,2026-04,North,France,Big Mac,Burgers,Drive-Thru,1,250,250,160.48,89.52,520,30,28,35.81,250
+776,2026-01-01,2026-01,Central,USA,McChicken,Burgers,Takeaway,8,180,1440,1006.53,433.47,400,21,22,30.1,1440
+777,2025-12-01,2025-12,Central,Japan,Hotcakes,Breakfast,Dine-In,6,160,960,622.46,337.54,580,15,14,35.16,960
+778,2026-03-01,2026-03,North,Australia,Big Mac,Burgers,Dine-In,5,250,1250,698.62,551.38,520,30,28,44.11,1250
+779,2026-06-01,2026-06,East,Canada,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,6,210,1260,674.64,585.36,470,27,25,46.46,1260
+780,2025-12-01,2025-12,East,India,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,7,280,1960,1224.43,735.57,420,25,24,37.53,1960
+781,2026-03-01,2026-03,East,Canada,McChicken,Burgers,McDelivery,1,180,180,110.33,69.67,400,21,22,38.71,180
+782,2025-04-01,2025-04,North,Mexico,French Fries,Sides,Dine-In,3,110,330,214.83,115.17,320,15,15,34.9,330
+783,2025-12-01,2025-12,North,Australia,Hotcakes,Breakfast,Drive-Thru,8,160,1280,790.11,489.89,580,15,14,38.27,1280
+784,2025-07-01,2025-07,South,Canada,Sprite,Beverages,Drive-Thru,8,90,720,397.2,322.8,190,22,22,44.83,720
+785,2025-10-01,2025-10,North,Mexico,Iced Coffee,Beverages,Drive-Thru,3,150,450,298.85,151.15,180,15,15,33.59,450
+786,2026-01-01,2026-01,North,France,Filet-O-Fish,Burgers,Drive-Thru,8,190,1520,840.8,679.2,390,20,19,44.68,1520
+787,2026-05-01,2026-05,East,Japan,Coca-Cola,Beverages,Drive-Thru,7,90,630,427.95,202.05,210,24,24,32.07,630
+788,2025-10-01,2025-10,West,France,Big Mac,Burgers,Dine-In,2,250,500,301.92,198.08,520,30,28,39.62,500
+789,2025-01-01,2025-01,South,USA,Big Mac,Burgers,McDelivery,2,250,500,290.97,209.03,520,30,28,41.81,500
+790,2025-06-01,2025-06,West,Japan,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,2,170,340,185.46,154.54,250,15,14,45.45,340
+791,2025-04-01,2025-04,Central,India,Double Cheeseburger,Burgers,McDelivery,9,160,1440,810.08,629.92,450,24,23,43.74,1440
+792,2025-09-01,2025-09,East,India,Big Mac,Burgers,Dine-In,5,250,1250,761.34,488.66,520,30,28,39.09,1250
+793,2025-10-01,2025-10,East,Germany,French Fries,Sides,Dine-In,5,110,550,346.93,203.07,320,15,15,36.92,550
+794,2025-06-01,2025-06,West,Canada,Big Mac,Burgers,Dine-In,1,250,250,164.6,85.4,520,30,28,34.16,250
+795,2025-05-01,2025-05,East,Canada,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,5,210,1050,686.61,363.39,470,27,25,34.61,1050
+796,2025-08-01,2025-08,East,France,Quarter Pounder with Cheese,Burgers,McDelivery,2,220,440,221.71,218.29,510,29,26,49.61,440
+797,2026-06-01,2026-06,South,Germany,Chocolate Shake,Beverages,Takeaway,6,170,1020,659.73,360.27,580,16,15,35.32,1020
+798,2026-04-01,2026-04,South,USA,McChicken,Burgers,Dine-In,8,180,1440,997.96,442.04,400,21,22,30.7,1440
+799,2025-01-01,2025-01,North,Brazil,McFlurry Oreo,Desserts,Drive-Thru,4,190,760,512.66,247.34,510,18,17,32.54,760
+800,2025-01-01,2025-01,North,Australia,McChicken,Burgers,Dine-In,4,180,720,476.68,243.32,400,21,22,33.79,720
+801,2026-03-01,2026-03,North,USA,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,4,210,840,492.71,347.29,470,27,25,41.34,840
+802,2025-05-01,2025-05,Central,Singapore,McFlurry Oreo,Desserts,Takeaway,4,190,760,493.23,266.77,510,18,17,35.1,760
+803,2026-03-01,2026-03,Central,Japan,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,4,280,1120,708.92,411.08,420,25,24,36.7,1120
+804,2025-04-01,2025-04,West,France,Iced Coffee,Beverages,McDelivery,9,150,1350,894.41,455.59,180,15,15,33.75,1350
+805,2025-01-01,2025-01,South,USA,French Fries,Sides,Drive-Thru,9,110,990,571.27,418.73,320,15,15,42.3,990
+806,2026-01-01,2026-01,North,Japan,Apple Pie,Desserts,Drive-Thru,1,100,100,67.96,32.04,230,11,10,32.04,100
+807,2026-05-01,2026-05,West,Singapore,Apple Pie,Desserts,Dine-In,5,100,500,349.51,150.49,230,11,10,30.1,500
+808,2025-09-01,2025-09,South,USA,Hotcakes,Breakfast,Drive-Thru,6,160,960,626.77,333.23,580,15,14,34.71,960
+809,2026-02-01,2026-02,South,Singapore,Filet-O-Fish,Burgers,Dine-In,9,190,1710,1163.51,546.49,390,20,19,31.96,1710
+810,2026-06-01,2026-06,Central,UK,Sundae,Desserts,Drive-Thru,1,120,120,63.52,56.48,330,12,11,47.07,120
+811,2025-06-01,2025-06,South,France,Filet-O-Fish,Burgers,Dine-In,6,190,1140,583.53,556.47,390,20,19,48.81,1140
+812,2026-06-01,2026-06,North,UK,Sprite,Beverages,McDelivery,4,90,360,237.83,122.17,190,22,22,33.94,360
+813,2025-06-01,2025-06,East,Japan,Chocolate Shake,Beverages,Drive-Thru,2,170,340,199.99,140.01,580,16,15,41.18,340
+814,2025-12-01,2025-12,North,Mexico,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,1,170,170,115.85,54.15,250,15,14,31.85,170
+815,2026-04-01,2026-04,Central,India,Quarter Pounder with Cheese,Burgers,Drive-Thru,2,220,440,244.36,195.64,510,29,26,44.46,440
+816,2025-04-01,2025-04,East,Brazil,Big Mac,Burgers,McDelivery,9,250,2250,1228.27,1021.73,520,30,28,45.41,2250
+817,2026-03-01,2026-03,East,Brazil,Apple Pie,Desserts,Takeaway,6,100,600,345.42,254.58,230,11,10,42.43,600
+818,2025-09-01,2025-09,East,India,Big Mac,Burgers,Dine-In,8,250,2000,1161.25,838.75,520,30,28,41.94,2000
+819,2026-05-01,2026-05,West,UK,Iced Coffee,Beverages,Dine-In,4,150,600,326.55,273.45,180,15,15,45.58,600
+820,2025-02-01,2025-02,West,Australia,Sundae,Desserts,Dine-In,5,120,600,418.94,181.06,330,12,11,30.18,600
+821,2025-06-01,2025-06,South,Germany,Big Mac,Burgers,McDelivery,9,250,2250,1537.76,712.24,520,30,28,31.66,2250
+822,2025-05-01,2025-05,Central,UK,Filet-O-Fish,Burgers,Drive-Thru,6,190,1140,766.01,373.99,390,20,19,32.81,1140
+823,2026-02-01,2026-02,West,USA,Double Cheeseburger,Burgers,Drive-Thru,1,160,160,87.0,73.0,450,24,23,45.62,160
+824,2025-05-01,2025-05,North,France,Egg McMuffin,Breakfast,McDelivery,1,180,180,106.64,73.36,310,17,16,40.76,180
+825,2026-01-01,2026-01,Central,UK,Filet-O-Fish,Burgers,Takeaway,1,190,190,117.03,72.97,390,20,19,38.41,190
+826,2025-09-01,2025-09,East,UK,Big Mac,Burgers,Takeaway,5,250,1250,731.58,518.42,520,30,28,41.47,1250
+827,2025-01-01,2025-01,West,UK,Filet-O-Fish,Burgers,Dine-In,2,190,380,244.57,135.43,390,20,19,35.64,380
+828,2025-09-01,2025-09,East,France,Hotcakes,Breakfast,McDelivery,9,160,1440,813.03,626.97,580,15,14,43.54,1440
+829,2025-02-01,2025-02,West,Brazil,Coca-Cola,Beverages,McDelivery,9,90,810,534.67,275.33,210,24,24,33.99,810
+830,2025-11-01,2025-11,South,Brazil,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,3,210,630,321.16,308.84,470,27,25,49.02,630
+831,2025-03-01,2025-03,East,Singapore,Quarter Pounder with Cheese,Burgers,Takeaway,5,220,1100,619.2,480.8,510,29,26,43.71,1100
+832,2025-01-01,2025-01,Central,Canada,Iced Coffee,Beverages,Dine-In,6,150,900,499.22,400.78,180,15,15,44.53,900
+833,2025-03-01,2025-03,South,Singapore,Filet-O-Fish,Burgers,McDelivery,8,190,1520,1047.59,472.41,390,20,19,31.08,1520
+834,2025-10-01,2025-10,Central,Mexico,Double Cheeseburger,Burgers,Dine-In,7,160,1120,648.56,471.44,450,24,23,42.09,1120
+835,2025-03-01,2025-03,West,Mexico,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,6,170,1020,533.4,486.6,250,15,14,47.71,1020
+836,2025-08-01,2025-08,West,Brazil,McFlurry Oreo,Desserts,Takeaway,2,190,380,219.19,160.81,510,18,17,42.32,380
+837,2025-08-01,2025-08,North,Japan,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,7,280,1960,1114.65,845.35,420,25,24,43.13,1960
+838,2025-08-01,2025-08,East,USA,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,1,170,170,100.14,69.86,250,15,14,41.09,170
+839,2025-07-01,2025-07,North,Singapore,Chocolate Shake,Beverages,McDelivery,4,170,680,444.1,235.9,580,16,15,34.69,680
+840,2026-02-01,2026-02,West,France,Filet-O-Fish,Burgers,Takeaway,4,190,760,449.94,310.06,390,20,19,40.8,760
+841,2025-12-01,2025-12,South,France,McChicken,Burgers,Drive-Thru,5,180,900,482.35,417.65,400,21,22,46.41,900
+842,2025-02-01,2025-02,South,Brazil,McFlurry Oreo,Desserts,Takeaway,9,190,1710,1040.18,669.82,510,18,17,39.17,1710
+843,2026-01-01,2026-01,West,Mexico,Coca-Cola,Beverages,McDelivery,7,90,630,343.59,286.41,210,24,24,45.46,630
+844,2026-01-01,2026-01,East,Germany,Hotcakes,Breakfast,Takeaway,1,160,160,95.44,64.56,580,15,14,40.35,160
+845,2025-10-01,2025-10,North,Germany,Double Cheeseburger,Burgers,Dine-In,9,160,1440,784.18,655.82,450,24,23,45.54,1440
+846,2026-04-01,2026-04,West,Canada,Quarter Pounder with Cheese,Burgers,Takeaway,3,220,660,384.68,275.32,510,29,26,41.72,660
+847,2025-10-01,2025-10,Central,Singapore,McFlurry Oreo,Desserts,McDelivery,1,190,190,131.07,58.93,510,18,17,31.02,190
+848,2025-12-01,2025-12,East,Brazil,Quarter Pounder with Cheese,Burgers,Dine-In,7,220,1540,1071.39,468.61,510,29,26,30.43,1540
+849,2025-07-01,2025-07,East,Germany,Chocolate Shake,Beverages,McDelivery,6,170,1020,539.57,480.43,580,16,15,47.1,1020
+850,2025-11-01,2025-11,East,Canada,Hash Browns,Sides,Drive-Thru,3,90,270,146.78,123.22,140,9,8,45.64,270
+851,2026-02-01,2026-02,North,Singapore,Chocolate Shake,Beverages,Dine-In,4,170,680,433.12,246.88,580,16,15,36.31,680
+852,2026-03-01,2026-03,South,Canada,McFlurry Oreo,Desserts,Dine-In,6,190,1140,611.71,528.29,510,18,17,46.34,1140
+853,2025-10-01,2025-10,West,Canada,McFlurry Oreo,Desserts,Dine-In,4,190,760,486.97,273.03,510,18,17,35.92,760
+854,2026-06-01,2026-06,North,Canada,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,1,280,280,190.84,89.16,420,25,24,31.84,280
+855,2026-03-01,2026-03,South,Singapore,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,1,210,210,145.94,64.06,470,27,25,30.5,210
+856,2026-04-01,2026-04,West,Canada,Double Cheeseburger,Burgers,McDelivery,6,160,960,552.13,407.87,450,24,23,42.49,960
+857,2026-05-01,2026-05,North,Canada,Sundae,Desserts,Drive-Thru,4,120,480,321.52,158.48,330,12,11,33.02,480
+858,2025-01-01,2025-01,West,India,Chocolate Shake,Beverages,Dine-In,8,170,1360,858.46,501.54,580,16,15,36.88,1360
+859,2026-03-01,2026-03,Central,Brazil,Hotcakes,Breakfast,Takeaway,4,160,640,332.71,307.29,580,15,14,48.01,640
+860,2025-01-01,2025-01,East,Japan,Iced Coffee,Beverages,Drive-Thru,5,150,750,393.69,356.31,180,15,15,47.51,750
+861,2025-11-01,2025-11,East,USA,Big Mac,Burgers,Dine-In,7,250,1750,1163.32,586.68,520,30,28,33.52,1750
+862,2025-07-01,2025-07,Central,Canada,McFlurry Oreo,Desserts,Takeaway,3,190,570,374.04,195.96,510,18,17,34.38,570
+863,2025-04-01,2025-04,East,UK,Egg McMuffin,Breakfast,Takeaway,1,180,180,113.61,66.39,310,17,16,36.88,180
+864,2025-07-01,2025-07,South,Germany,McFlurry Oreo,Desserts,Drive-Thru,7,190,1330,927.77,402.23,510,18,17,30.24,1330
+865,2025-11-01,2025-11,North,France,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,3,280,840,482.25,357.75,420,25,24,42.59,840
+866,2025-12-01,2025-12,South,USA,Iced Coffee,Beverages,McDelivery,3,150,450,301.41,148.59,180,15,15,33.02,450
+867,2026-03-01,2026-03,East,USA,Filet-O-Fish,Burgers,McDelivery,6,190,1140,650.83,489.17,390,20,19,42.91,1140
+868,2025-11-01,2025-11,Central,Canada,Apple Pie,Desserts,Drive-Thru,9,100,900,532.18,367.82,230,11,10,40.87,900
+869,2025-03-01,2025-03,East,Canada,McChicken,Burgers,McDelivery,8,180,1440,956.95,483.05,400,21,22,33.55,1440
+870,2025-05-01,2025-05,Central,Singapore,Apple Pie,Desserts,Drive-Thru,6,100,600,418.72,181.28,230,11,10,30.21,600
+871,2026-03-01,2026-03,Central,India,Hash Browns,Sides,Dine-In,1,90,90,53.04,36.96,140,9,8,41.07,90
+872,2026-02-01,2026-02,South,Australia,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,1,170,170,97.46,72.54,250,15,14,42.67,170
+873,2025-08-01,2025-08,West,UK,Egg McMuffin,Breakfast,McDelivery,5,180,900,572.19,327.81,310,17,16,36.42,900
+874,2025-08-01,2025-08,South,Japan,Chocolate Shake,Beverages,McDelivery,9,170,1530,1005.46,524.54,580,16,15,34.28,1530
+875,2025-01-01,2025-01,North,India,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,6,210,1260,840.98,419.02,470,27,25,33.26,1260
+876,2025-09-01,2025-09,South,Germany,McFlurry Oreo,Desserts,Takeaway,7,190,1330,717.58,612.42,510,18,17,46.05,1330
+877,2025-09-01,2025-09,North,Mexico,Hotcakes,Breakfast,Takeaway,1,160,160,111.92,48.08,580,15,14,30.05,160
+878,2025-08-01,2025-08,East,USA,Double Cheeseburger,Burgers,Dine-In,6,160,960,624.68,335.32,450,24,23,34.93,960
+879,2026-04-01,2026-04,South,Brazil,Hash Browns,Sides,Takeaway,8,90,720,415.57,304.43,140,9,8,42.28,720
+880,2025-01-01,2025-01,East,Singapore,McFlurry Oreo,Desserts,Takeaway,6,190,1140,793.29,346.71,510,18,17,30.41,1140
+881,2025-09-01,2025-09,South,UK,Sundae,Desserts,Dine-In,1,120,120,77.15,42.85,330,12,11,35.71,120
+882,2026-03-01,2026-03,Central,Mexico,French Fries,Sides,Dine-In,2,110,220,112.9,107.1,320,15,15,48.68,220
+883,2025-03-01,2025-03,Central,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,3,280,840,496.78,343.22,420,25,24,40.86,840
+884,2025-07-01,2025-07,North,USA,Chocolate Shake,Beverages,Takeaway,2,170,340,203.0,137.0,580,16,15,40.29,340
+885,2025-04-01,2025-04,Central,Japan,French Fries,Sides,Takeaway,9,110,990,531.81,458.19,320,15,15,46.28,990
+886,2025-08-01,2025-08,South,Singapore,Chocolate Shake,Beverages,McDelivery,6,170,1020,530.63,489.37,580,16,15,47.98,1020
+887,2025-08-01,2025-08,East,India,Iced Coffee,Beverages,Takeaway,7,150,1050,619.73,430.27,180,15,15,40.98,1050
+888,2026-05-01,2026-05,South,USA,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,3,170,510,346.33,163.67,250,15,14,32.09,510
+889,2025-08-01,2025-08,South,Brazil,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,3,210,630,336.45,293.55,470,27,25,46.6,630
+890,2025-05-01,2025-05,North,France,Egg McMuffin,Breakfast,Drive-Thru,1,180,180,118.16,61.84,310,17,16,34.36,180
+891,2025-05-01,2025-05,West,Brazil,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,7,170,1190,651.51,538.49,250,15,14,45.25,1190
+892,2025-05-01,2025-05,Central,UK,Filet-O-Fish,Burgers,Drive-Thru,6,190,1140,762.77,377.23,390,20,19,33.09,1140
+893,2025-05-01,2025-05,Central,Canada,Filet-O-Fish,Burgers,Drive-Thru,5,190,950,659.73,290.27,390,20,19,30.55,950
+894,2025-04-01,2025-04,South,Australia,McFlurry Oreo,Desserts,Dine-In,2,190,380,226.76,153.24,510,18,17,40.33,380
+895,2025-10-01,2025-10,South,France,Hotcakes,Breakfast,Dine-In,4,160,640,438.74,201.26,580,15,14,31.45,640
+896,2026-02-01,2026-02,North,Australia,Sundae,Desserts,Dine-In,7,120,840,550.69,289.31,330,12,11,34.44,840
+897,2025-11-01,2025-11,East,UK,Sundae,Desserts,Dine-In,7,120,840,502.98,337.02,330,12,11,40.12,840
+898,2026-02-01,2026-02,Central,USA,Filet-O-Fish,Burgers,Takeaway,9,190,1710,881.55,828.45,390,20,19,48.45,1710
+899,2025-03-01,2025-03,Central,Germany,McFlurry Oreo,Desserts,Takeaway,2,190,380,193.43,186.57,510,18,17,49.1,380
+900,2025-10-01,2025-10,North,USA,Iced Coffee,Beverages,McDelivery,9,150,1350,837.68,512.32,180,15,15,37.95,1350
+901,2025-01-01,2025-01,South,France,Sprite,Beverages,McDelivery,4,90,360,213.11,146.89,190,22,22,40.8,360
+902,2025-11-01,2025-11,North,Australia,Quarter Pounder with Cheese,Burgers,McDelivery,7,220,1540,1034.56,505.44,510,29,26,32.82,1540
+903,2025-03-01,2025-03,West,Singapore,French Fries,Sides,McDelivery,5,110,550,297.41,252.59,320,15,15,45.93,550
+904,2025-11-01,2025-11,East,Singapore,Chocolate Shake,Beverages,McDelivery,9,170,1530,961.1,568.9,580,16,15,37.18,1530
+905,2025-11-01,2025-11,South,Singapore,Iced Coffee,Beverages,Takeaway,3,150,450,302.71,147.29,180,15,15,32.73,450
+906,2025-07-01,2025-07,Central,Singapore,Hash Browns,Sides,Dine-In,3,90,270,161.14,108.86,140,9,8,40.32,270
+907,2025-03-01,2025-03,West,USA,Chocolate Shake,Beverages,McDelivery,8,170,1360,834.28,525.72,580,16,15,38.66,1360
+908,2025-06-01,2025-06,West,USA,Big Mac,Burgers,Drive-Thru,5,250,1250,728.82,521.18,520,30,28,41.69,1250
+909,2025-09-01,2025-09,East,Canada,Hash Browns,Sides,Dine-In,4,90,360,235.17,124.83,140,9,8,34.67,360
+910,2025-05-01,2025-05,West,Singapore,Sprite,Beverages,Dine-In,6,90,540,283.16,256.84,190,22,22,47.56,540
+911,2025-06-01,2025-06,East,Canada,Sundae,Desserts,Dine-In,5,120,600,372.47,227.53,330,12,11,37.92,600
+912,2025-11-01,2025-11,West,Germany,French Fries,Sides,McDelivery,7,110,770,459.91,310.09,320,15,15,40.27,770
+913,2025-01-01,2025-01,Central,India,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,280,2520,1755.68,764.32,420,25,24,30.33,2520
+914,2025-10-01,2025-10,North,UK,Egg McMuffin,Breakfast,Drive-Thru,2,180,360,241.95,118.05,310,17,16,32.79,360
+915,2025-12-01,2025-12,South,Japan,Sundae,Desserts,Takeaway,5,120,600,328.26,271.74,330,12,11,45.29,600
+916,2026-04-01,2026-04,North,Mexico,Coca-Cola,Beverages,Drive-Thru,4,90,360,227.29,132.71,210,24,24,36.86,360
+917,2025-03-01,2025-03,Central,Canada,Double Cheeseburger,Burgers,Dine-In,2,160,320,164.31,155.69,450,24,23,48.65,320
+918,2026-02-01,2026-02,North,Brazil,Big Mac,Burgers,Drive-Thru,8,250,2000,1235.1,764.9,520,30,28,38.25,2000
+919,2025-12-01,2025-12,Central,India,French Fries,Sides,Drive-Thru,7,110,770,469.37,300.63,320,15,15,39.04,770
+920,2025-09-01,2025-09,West,Mexico,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,7,210,1470,799.25,670.75,470,27,25,45.63,1470
+921,2026-06-01,2026-06,West,France,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,2,170,340,188.54,151.46,250,15,14,44.55,340
+922,2025-05-01,2025-05,South,UK,Double Cheeseburger,Burgers,Dine-In,5,160,800,476.93,323.07,450,24,23,40.38,800
+923,2025-04-01,2025-04,East,Japan,Hash Browns,Sides,Drive-Thru,4,90,360,191.42,168.58,140,9,8,46.83,360
+924,2025-05-01,2025-05,South,Germany,McFlurry Oreo,Desserts,McDelivery,3,190,570,327.13,242.87,510,18,17,42.61,570
+925,2025-07-01,2025-07,West,UK,Sundae,Desserts,Takeaway,8,120,960,498.36,461.64,330,12,11,48.09,960
+926,2025-12-01,2025-12,West,USA,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,6,280,1680,925.72,754.28,420,25,24,44.9,1680
+927,2025-09-01,2025-09,West,Germany,Iced Coffee,Beverages,Drive-Thru,2,150,300,155.92,144.08,180,15,15,48.03,300
+928,2025-03-01,2025-03,Central,Germany,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,8,170,1360,722.94,637.06,250,15,14,46.84,1360
+929,2025-03-01,2025-03,North,USA,French Fries,Sides,McDelivery,2,110,220,124.88,95.12,320,15,15,43.24,220
+930,2026-02-01,2026-02,West,Brazil,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,4,170,680,385.63,294.37,250,15,14,43.29,680
+931,2025-11-01,2025-11,North,Brazil,McFlurry Oreo,Desserts,Drive-Thru,2,190,380,243.21,136.79,510,18,17,36.0,380
+932,2026-03-01,2026-03,West,Japan,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,7,210,1470,764.75,705.25,470,27,25,47.98,1470
+933,2025-02-01,2025-02,East,Germany,McChicken,Burgers,McDelivery,3,180,540,331.02,208.98,400,21,22,38.7,540
+934,2025-01-01,2025-01,North,UK,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,5,210,1050,598.76,451.24,470,27,25,42.98,1050
+935,2026-04-01,2026-04,West,Japan,Coca-Cola,Beverages,Drive-Thru,4,90,360,229.12,130.88,210,24,24,36.36,360
+936,2025-03-01,2025-03,North,Brazil,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,1,170,170,118.42,51.58,250,15,14,30.34,170
+937,2025-09-01,2025-09,North,Australia,Sundae,Desserts,McDelivery,5,120,600,313.75,286.25,330,12,11,47.71,600
+938,2025-08-01,2025-08,Central,France,McChicken,Burgers,Takeaway,3,180,540,374.58,165.42,400,21,22,30.63,540
+939,2026-01-01,2026-01,North,India,Egg McMuffin,Breakfast,Dine-In,9,180,1620,1098.1,521.9,310,17,16,32.22,1620
+940,2026-02-01,2026-02,Central,India,Sundae,Desserts,Takeaway,1,120,120,62.89,57.11,330,12,11,47.59,120
+941,2025-03-01,2025-03,West,Singapore,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,9,210,1890,1013.27,876.73,470,27,25,46.39,1890
+942,2026-02-01,2026-02,East,USA,Big Mac,Burgers,Dine-In,7,250,1750,890.29,859.71,520,30,28,49.13,1750
+943,2025-07-01,2025-07,South,India,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,5,170,850,521.39,328.61,250,15,14,38.66,850
+944,2025-10-01,2025-10,North,USA,Apple Pie,Desserts,Dine-In,8,100,800,553.78,246.22,230,11,10,30.78,800
+945,2025-11-01,2025-11,West,Canada,Iced Coffee,Beverages,Takeaway,9,150,1350,864.53,485.47,180,15,15,35.96,1350
+946,2025-08-01,2025-08,East,Canada,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,2,170,340,216.41,123.59,250,15,14,36.35,340
+947,2025-12-01,2025-12,Central,France,Quarter Pounder with Cheese,Burgers,Drive-Thru,7,220,1540,979.39,560.61,510,29,26,36.4,1540
+948,2025-05-01,2025-05,North,UK,Sprite,Beverages,Takeaway,6,90,540,282.78,257.22,190,22,22,47.63,540
+949,2025-03-01,2025-03,Central,Japan,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,4,170,680,458.16,221.84,250,15,14,32.62,680
+950,2025-08-01,2025-08,East,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,280,2520,1673.08,846.92,420,25,24,33.61,2520
+951,2025-07-01,2025-07,Central,Singapore,Big Mac,Burgers,Takeaway,9,250,2250,1284.18,965.82,520,30,28,42.93,2250
+952,2025-05-01,2025-05,South,India,Egg McMuffin,Breakfast,Drive-Thru,1,180,180,103.69,76.31,310,17,16,42.39,180
+953,2025-07-01,2025-07,Central,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,9,170,1530,989.42,540.58,250,15,14,35.33,1530
+954,2025-11-01,2025-11,Central,Canada,Quarter Pounder with Cheese,Burgers,Dine-In,1,220,220,125.96,94.04,510,29,26,42.75,220
+955,2025-11-01,2025-11,East,France,Hotcakes,Breakfast,Takeaway,6,160,960,502.89,457.11,580,15,14,47.62,960
+956,2025-08-01,2025-08,West,Australia,Coca-Cola,Beverages,McDelivery,8,90,720,409.69,310.31,210,24,24,43.1,720
+957,2025-03-01,2025-03,Central,Brazil,Sprite,Beverages,McDelivery,1,90,90,60.85,29.15,190,22,22,32.39,90
+958,2025-02-01,2025-02,South,Australia,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,170,1530,872.89,657.11,250,15,14,42.95,1530
+959,2025-07-01,2025-07,South,Mexico,Quarter Pounder with Cheese,Burgers,Takeaway,1,220,220,119.86,100.14,510,29,26,45.52,220
+960,2025-09-01,2025-09,East,Mexico,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,2,170,340,174.84,165.16,250,15,14,48.58,340
+961,2026-06-01,2026-06,North,Singapore,Sprite,Beverages,McDelivery,7,90,630,323.61,306.39,190,22,22,48.63,630
+962,2026-01-01,2026-01,West,Brazil,McFlurry Oreo,Desserts,Takeaway,1,190,190,113.81,76.19,510,18,17,40.1,190
+963,2026-04-01,2026-04,East,Singapore,Egg McMuffin,Breakfast,McDelivery,2,180,360,206.42,153.58,310,17,16,42.66,360
+964,2025-11-01,2025-11,West,UK,Hotcakes,Breakfast,McDelivery,6,160,960,522.39,437.61,580,15,14,45.58,960
+965,2026-03-01,2026-03,West,Australia,Iced Coffee,Beverages,Drive-Thru,3,150,450,282.5,167.5,180,15,15,37.22,450
+966,2026-06-01,2026-06,North,Mexico,Quarter Pounder with Cheese,Burgers,McDelivery,4,220,880,585.11,294.89,510,29,26,33.51,880
+967,2025-01-01,2025-01,East,Canada,Quarter Pounder with Cheese,Burgers,McDelivery,8,220,1760,916.82,843.18,510,29,26,47.91,1760
+968,2025-04-01,2025-04,North,Australia,Hash Browns,Sides,Drive-Thru,7,90,630,379.37,250.63,140,9,8,39.78,630
+969,2025-12-01,2025-12,East,Japan,Filet-O-Fish,Burgers,Drive-Thru,2,190,380,238.96,141.04,390,20,19,37.12,380
+970,2025-01-01,2025-01,South,Singapore,Iced Coffee,Beverages,Takeaway,5,150,750,521.37,228.63,180,15,15,30.48,750
+971,2025-06-01,2025-06,South,Australia,Coca-Cola,Beverages,Dine-In,6,90,540,337.77,202.23,210,24,24,37.45,540
+972,2025-03-01,2025-03,South,India,Hotcakes,Breakfast,Takeaway,2,160,320,212.3,107.7,580,15,14,33.66,320
+973,2025-04-01,2025-04,North,Canada,Sundae,Desserts,McDelivery,3,120,360,209.74,150.26,330,12,11,41.74,360
+974,2025-11-01,2025-11,West,Brazil,McFlurry Oreo,Desserts,McDelivery,3,190,570,352.98,217.02,510,18,17,38.07,570
+975,2025-11-01,2025-11,South,USA,Sprite,Beverages,Takeaway,4,90,360,237.08,122.92,190,22,22,34.14,360
+976,2025-07-01,2025-07,South,UK,McFlurry Oreo,Desserts,McDelivery,5,190,950,641.0,309.0,510,18,17,32.53,950
+977,2025-01-01,2025-01,West,Canada,Apple Pie,Desserts,Takeaway,6,100,600,303.63,296.37,230,11,10,49.4,600
+978,2026-02-01,2026-02,North,Germany,Quarter Pounder with Cheese,Burgers,Takeaway,3,220,660,357.03,302.97,510,29,26,45.9,660
+979,2025-06-01,2025-06,Central,Brazil,McChicken,Burgers,McDelivery,7,180,1260,811.46,448.54,400,21,22,35.6,1260
+980,2025-08-01,2025-08,South,Mexico,Hotcakes,Breakfast,Takeaway,3,160,480,316.37,163.63,580,15,14,34.09,480
+981,2025-08-01,2025-08,North,Canada,McFlurry Oreo,Desserts,Takeaway,3,190,570,285.57,284.43,510,18,17,49.9,570
+982,2026-04-01,2026-04,North,Japan,Sprite,Beverages,Takeaway,9,90,810,426.67,383.33,190,22,22,47.32,810
+983,2025-04-01,2025-04,West,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,6,280,1680,1171.45,508.55,420,25,24,30.27,1680
+984,2025-03-01,2025-03,South,India,Sprite,Beverages,Drive-Thru,1,90,90,51.58,38.42,190,22,22,42.69,90
+985,2025-07-01,2025-07,North,France,Egg McMuffin,Breakfast,McDelivery,3,180,540,270.53,269.47,310,17,16,49.9,540
+986,2025-02-01,2025-02,Central,India,Quarter Pounder with Cheese,Burgers,Dine-In,3,220,660,427.9,232.1,510,29,26,35.17,660
+987,2026-02-01,2026-02,East,Canada,Big Mac,Burgers,Drive-Thru,3,250,750,512.45,237.55,520,30,28,31.67,750
+988,2025-08-01,2025-08,East,Germany,Double Cheeseburger,Burgers,Drive-Thru,7,160,1120,649.82,470.18,450,24,23,41.98,1120
+989,2025-04-01,2025-04,South,Brazil,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,4,170,680,445.63,234.37,250,15,14,34.47,680
+990,2026-02-01,2026-02,East,Japan,Chocolate Shake,Beverages,McDelivery,6,170,1020,512.69,507.31,580,16,15,49.74,1020
+991,2025-05-01,2025-05,South,USA,Filet-O-Fish,Burgers,Dine-In,6,190,1140,668.14,471.86,390,20,19,41.39,1140
+992,2026-03-01,2026-03,Central,Singapore,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,1,170,170,103.11,66.89,250,15,14,39.35,170
+993,2025-11-01,2025-11,West,USA,McFlurry Oreo,Desserts,McDelivery,4,190,760,402.54,357.46,510,18,17,47.03,760
+994,2026-06-01,2026-06,East,Singapore,Egg McMuffin,Breakfast,McDelivery,5,180,900,585.56,314.44,310,17,16,34.94,900
+995,2025-04-01,2025-04,East,France,Hotcakes,Breakfast,Takeaway,6,160,960,516.23,443.77,580,15,14,46.23,960
+996,2025-06-01,2025-06,West,Brazil,Filet-O-Fish,Burgers,McDelivery,5,190,950,623.03,326.97,390,20,19,34.42,950
+997,2025-06-01,2025-06,West,Australia,French Fries,Sides,Dine-In,9,110,990,571.01,418.99,320,15,15,42.32,990
+998,2025-08-01,2025-08,West,France,Hash Browns,Sides,Drive-Thru,8,90,720,454.85,265.15,140,9,8,36.83,720
+999,2025-12-01,2025-12,South,Brazil,Sprite,Beverages,Dine-In,9,90,810,517.16,292.84,190,22,22,36.15,810
+1000,2025-12-01,2025-12,North,USA,Iced Coffee,Beverages,Takeaway,9,150,1350,820.59,529.41,180,15,15,39.22,1350
+1001,2025-01-01,2025-01,South,Canada,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,5,170,850,507.09,342.91,250,15,14,40.34,850
+1002,2025-05-01,2025-05,East,Brazil,Iced Coffee,Beverages,McDelivery,9,150,1350,857.91,492.09,180,15,15,36.45,1350
+1003,2026-06-01,2026-06,West,USA,Sprite,Beverages,Drive-Thru,6,90,540,371.71,168.29,190,22,22,31.16,540
+1004,2025-01-01,2025-01,South,India,French Fries,Sides,Takeaway,7,110,770,523.63,246.37,320,15,15,32.0,770
+1005,2026-05-01,2026-05,North,UK,French Fries,Sides,Drive-Thru,5,110,550,312.52,237.48,320,15,15,43.18,550
+1006,2025-10-01,2025-10,Central,Mexico,Egg McMuffin,Breakfast,McDelivery,6,180,1080,710.42,369.58,310,17,16,34.22,1080
+1007,2025-10-01,2025-10,South,India,McFlurry Oreo,Desserts,Drive-Thru,8,190,1520,894.43,625.57,510,18,17,41.16,1520
+1008,2025-05-01,2025-05,West,France,Iced Coffee,Beverages,McDelivery,3,150,450,299.67,150.33,180,15,15,33.41,450
+1009,2025-03-01,2025-03,Central,Australia,Hotcakes,Breakfast,Dine-In,5,160,800,535.44,264.56,580,15,14,33.07,800
+1010,2025-06-01,2025-06,North,Brazil,Hash Browns,Sides,Drive-Thru,1,90,90,49.23,40.77,140,9,8,45.3,90
+1011,2026-01-01,2026-01,North,UK,Hash Browns,Sides,Drive-Thru,8,90,720,490.37,229.63,140,9,8,31.89,720
+1012,2025-12-01,2025-12,West,Japan,Double Cheeseburger,Burgers,Drive-Thru,3,160,480,258.86,221.14,450,24,23,46.07,480
+1013,2025-07-01,2025-07,South,France,Apple Pie,Desserts,McDelivery,8,100,800,414.43,385.57,230,11,10,48.2,800
+1014,2026-02-01,2026-02,North,Mexico,Hotcakes,Breakfast,Drive-Thru,9,160,1440,942.89,497.11,580,15,14,34.52,1440
+1015,2025-10-01,2025-10,South,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,3,280,840,573.8,266.2,420,25,24,31.69,840
+1016,2025-10-01,2025-10,South,Canada,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,1,210,210,115.07,94.93,470,27,25,45.2,210
+1017,2025-10-01,2025-10,South,India,McChicken,Burgers,Dine-In,8,180,1440,974.47,465.53,400,21,22,32.33,1440
+1018,2025-12-01,2025-12,North,Singapore,Hash Browns,Sides,McDelivery,7,90,630,401.29,228.71,140,9,8,36.3,630
+1019,2025-12-01,2025-12,East,Brazil,Quarter Pounder with Cheese,Burgers,Takeaway,1,220,220,152.05,67.95,510,29,26,30.89,220
+1020,2026-05-01,2026-05,West,Canada,Filet-O-Fish,Burgers,McDelivery,7,190,1330,847.71,482.29,390,20,19,36.26,1330
+1021,2026-01-01,2026-01,West,Brazil,Hotcakes,Breakfast,Dine-In,6,160,960,508.93,451.07,580,15,14,46.99,960
+1022,2025-08-01,2025-08,East,India,Big Mac,Burgers,McDelivery,1,250,250,126.77,123.23,520,30,28,49.29,250
+1023,2025-04-01,2025-04,Central,Brazil,Hash Browns,Sides,Dine-In,5,90,450,256.28,193.72,140,9,8,43.05,450
+1024,2025-03-01,2025-03,North,Brazil,Coca-Cola,Beverages,McDelivery,4,90,360,234.41,125.59,210,24,24,34.89,360
+1025,2026-06-01,2026-06,North,Brazil,Coca-Cola,Beverages,Drive-Thru,1,90,90,51.01,38.99,210,24,24,43.32,90
+1026,2026-02-01,2026-02,North,Japan,French Fries,Sides,McDelivery,2,110,220,115.05,104.95,320,15,15,47.7,220
+1027,2025-10-01,2025-10,East,UK,Sprite,Beverages,Dine-In,8,90,720,474.6,245.4,190,22,22,34.08,720
+1028,2025-11-01,2025-11,North,Canada,French Fries,Sides,Drive-Thru,9,110,990,534.55,455.45,320,15,15,46.01,990
+1029,2025-04-01,2025-04,South,Australia,Hash Browns,Sides,McDelivery,1,90,90,48.44,41.56,140,9,8,46.18,90
+1030,2025-12-01,2025-12,West,Japan,Sprite,Beverages,McDelivery,3,90,270,137.44,132.56,190,22,22,49.1,270
+1031,2026-01-01,2026-01,North,USA,French Fries,Sides,McDelivery,8,110,880,511.73,368.27,320,15,15,41.85,880
+1032,2025-03-01,2025-03,South,Singapore,Quarter Pounder with Cheese,Burgers,Drive-Thru,4,220,880,567.03,312.97,510,29,26,35.56,880
+1033,2025-03-01,2025-03,South,USA,French Fries,Sides,Takeaway,5,110,550,329.22,220.78,320,15,15,40.14,550
+1034,2026-03-01,2026-03,South,India,Filet-O-Fish,Burgers,Takeaway,1,190,190,111.23,78.77,390,20,19,41.46,190
+1035,2025-01-01,2025-01,East,UK,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,7,170,1190,807.09,382.91,250,15,14,32.18,1190
+1036,2025-01-01,2025-01,West,Germany,Sundae,Desserts,Drive-Thru,7,120,840,420.97,419.03,330,12,11,49.88,840
+1037,2025-07-01,2025-07,East,India,Double Cheeseburger,Burgers,Takeaway,3,160,480,286.56,193.44,450,24,23,40.3,480
+1038,2025-10-01,2025-10,West,Mexico,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,9,280,2520,1520.1,999.9,420,25,24,39.68,2520
+1039,2026-06-01,2026-06,South,Mexico,Egg McMuffin,Breakfast,Drive-Thru,5,180,900,504.56,395.44,310,17,16,43.94,900
+1040,2025-01-01,2025-01,Central,Germany,McChicken,Burgers,Dine-In,4,180,720,458.45,261.55,400,21,22,36.33,720
+1041,2026-03-01,2026-03,West,India,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,3,210,630,355.47,274.53,470,27,25,43.58,630
+1042,2025-06-01,2025-06,West,Mexico,French Fries,Sides,Dine-In,3,110,330,207.25,122.75,320,15,15,37.2,330
+1043,2026-01-01,2026-01,West,Mexico,McFlurry Oreo,Desserts,McDelivery,6,190,1140,737.33,402.67,510,18,17,35.32,1140
+1044,2026-04-01,2026-04,South,Brazil,Hash Browns,Sides,McDelivery,5,90,450,256.32,193.68,140,9,8,43.04,450
+1045,2025-12-01,2025-12,North,Germany,Sundae,Desserts,Dine-In,8,120,960,640.64,319.36,330,12,11,33.27,960
+1046,2025-07-01,2025-07,West,Brazil,Apple Pie,Desserts,Drive-Thru,9,100,900,586.69,313.31,230,11,10,34.81,900
+1047,2025-02-01,2025-02,South,UK,Sundae,Desserts,McDelivery,5,120,600,385.63,214.37,330,12,11,35.73,600
+1048,2026-05-01,2026-05,South,Australia,McChicken,Burgers,McDelivery,2,180,360,207.45,152.55,400,21,22,42.38,360
+1049,2026-02-01,2026-02,South,Canada,Double Cheeseburger,Burgers,Drive-Thru,2,160,320,196.7,123.3,450,24,23,38.53,320
+1050,2026-03-01,2026-03,North,Mexico,Coca-Cola,Beverages,McDelivery,7,90,630,336.32,293.68,210,24,24,46.62,630
+1051,2025-10-01,2025-10,North,Japan,Apple Pie,Desserts,Drive-Thru,9,100,900,458.28,441.72,230,11,10,49.08,900
+1052,2025-12-01,2025-12,West,Mexico,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,7,210,1470,807.44,662.56,470,27,25,45.07,1470
+1053,2026-05-01,2026-05,East,Australia,Egg McMuffin,Breakfast,Drive-Thru,9,180,1620,839.48,780.52,310,17,16,48.18,1620
+1054,2026-05-01,2026-05,South,Germany,Coca-Cola,Beverages,Takeaway,8,90,720,438.0,282.0,210,24,24,39.17,720
+1055,2025-07-01,2025-07,South,Japan,Coca-Cola,Beverages,Takeaway,8,90,720,405.1,314.9,210,24,24,43.74,720
+1056,2025-03-01,2025-03,North,Brazil,Filet-O-Fish,Burgers,Dine-In,9,190,1710,938.16,771.84,390,20,19,45.14,1710
+1057,2025-06-01,2025-06,Central,India,McFlurry Oreo,Desserts,Dine-In,8,190,1520,996.7,523.3,510,18,17,34.43,1520
+1058,2025-03-01,2025-03,South,Germany,Egg McMuffin,Breakfast,Takeaway,8,180,1440,907.8,532.2,310,17,16,36.96,1440
+1059,2026-05-01,2026-05,East,Brazil,Chocolate Shake,Beverages,Dine-In,9,170,1530,820.83,709.17,580,16,15,46.35,1530
+1060,2025-10-01,2025-10,East,Mexico,Egg McMuffin,Breakfast,Dine-In,2,180,360,181.83,178.17,310,17,16,49.49,360
+1061,2026-02-01,2026-02,West,India,Iced Coffee,Beverages,McDelivery,1,150,150,98.51,51.49,180,15,15,34.33,150
+1062,2025-10-01,2025-10,North,Germany,Egg McMuffin,Breakfast,Drive-Thru,3,180,540,348.69,191.31,310,17,16,35.43,540
+1063,2025-01-01,2025-01,North,USA,Filet-O-Fish,Burgers,Takeaway,1,190,190,101.32,88.68,390,20,19,46.67,190
+1064,2025-06-01,2025-06,West,Germany,Big Mac,Burgers,Drive-Thru,6,250,1500,863.12,636.88,520,30,28,42.46,1500
+1065,2025-06-01,2025-06,West,Singapore,French Fries,Sides,Drive-Thru,1,110,110,62.79,47.21,320,15,15,42.92,110
+1066,2026-03-01,2026-03,East,France,Iced Coffee,Beverages,Takeaway,7,150,1050,534.71,515.29,180,15,15,49.08,1050
+1067,2026-02-01,2026-02,West,Singapore,Hotcakes,Breakfast,Drive-Thru,5,160,800,521.22,278.78,580,15,14,34.85,800
+1068,2025-08-01,2025-08,North,Mexico,Double Cheeseburger,Burgers,Drive-Thru,6,160,960,571.41,388.59,450,24,23,40.48,960
+1069,2025-07-01,2025-07,West,France,Apple Pie,Desserts,Dine-In,3,100,300,189.74,110.26,230,11,10,36.75,300
+1070,2025-06-01,2025-06,Central,Germany,Egg McMuffin,Breakfast,Takeaway,2,180,360,199.88,160.12,310,17,16,44.48,360
+1071,2026-05-01,2026-05,West,Canada,Quarter Pounder with Cheese,Burgers,Dine-In,4,220,880,542.05,337.95,510,29,26,38.4,880
+1072,2025-09-01,2025-09,North,Brazil,McChicken,Burgers,Drive-Thru,1,180,180,122.96,57.04,400,21,22,31.69,180
+1073,2025-08-01,2025-08,South,USA,Sundae,Desserts,McDelivery,6,120,720,410.01,309.99,330,12,11,43.05,720
+1074,2025-03-01,2025-03,West,USA,Sundae,Desserts,Dine-In,6,120,720,451.22,268.78,330,12,11,37.33,720
+1075,2026-05-01,2026-05,North,Japan,McChicken,Burgers,Dine-In,6,180,1080,692.72,387.28,400,21,22,35.86,1080
+1076,2025-10-01,2025-10,South,India,Sprite,Beverages,McDelivery,1,90,90,51.96,38.04,190,22,22,42.27,90
+1077,2026-04-01,2026-04,Central,USA,Sundae,Desserts,McDelivery,4,120,480,261.7,218.3,330,12,11,45.48,480
+1078,2025-05-01,2025-05,West,Singapore,Sundae,Desserts,Takeaway,1,120,120,79.57,40.43,330,12,11,33.69,120
+1079,2025-09-01,2025-09,South,France,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,8,280,2240,1150.92,1089.08,420,25,24,48.62,2240
+1080,2025-01-01,2025-01,West,Canada,Big Mac,Burgers,Takeaway,6,250,1500,835.66,664.34,520,30,28,44.29,1500
+1081,2025-01-01,2025-01,West,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,8,170,1360,909.37,450.63,250,15,14,33.13,1360
+1082,2025-04-01,2025-04,South,Mexico,Sundae,Desserts,Takeaway,1,120,120,78.93,41.07,330,12,11,34.22,120
+1083,2025-04-01,2025-04,North,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,6,280,1680,1007.88,672.12,420,25,24,40.01,1680
+1084,2026-06-01,2026-06,Central,Brazil,McChicken,Burgers,Dine-In,6,180,1080,719.58,360.42,400,21,22,33.37,1080
+1085,2026-05-01,2026-05,South,Singapore,McChicken,Burgers,McDelivery,8,180,1440,836.78,603.22,400,21,22,41.89,1440
+1086,2025-11-01,2025-11,Central,Canada,McChicken,Burgers,McDelivery,5,180,900,596.41,303.59,400,21,22,33.73,900
+1087,2025-10-01,2025-10,West,India,Coca-Cola,Beverages,Dine-In,5,90,450,294.39,155.61,210,24,24,34.58,450
+1088,2025-10-01,2025-10,West,Singapore,McFlurry Oreo,Desserts,Drive-Thru,9,190,1710,1115.15,594.85,510,18,17,34.79,1710
+1089,2025-04-01,2025-04,Central,Australia,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,4,210,840,541.27,298.73,470,27,25,35.56,840
+1090,2025-03-01,2025-03,North,Singapore,Hotcakes,Breakfast,Drive-Thru,5,160,800,487.22,312.78,580,15,14,39.1,800
+1091,2026-01-01,2026-01,North,USA,Sprite,Beverages,Drive-Thru,7,90,630,384.93,245.07,190,22,22,38.9,630
+1092,2025-07-01,2025-07,East,Singapore,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,8,170,1360,853.4,506.6,250,15,14,37.25,1360
+1093,2026-05-01,2026-05,South,Mexico,Coca-Cola,Beverages,Takeaway,6,90,540,351.14,188.86,210,24,24,34.97,540
+1094,2025-04-01,2025-04,South,Germany,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,6,170,1020,605.24,414.76,250,15,14,40.66,1020
+1095,2025-07-01,2025-07,Central,Mexico,Sundae,Desserts,McDelivery,2,120,240,138.35,101.65,330,12,11,42.35,240
+1096,2026-04-01,2026-04,East,France,Apple Pie,Desserts,McDelivery,8,100,800,506.05,293.95,230,11,10,36.74,800
+1097,2025-10-01,2025-10,South,France,McChicken,Burgers,McDelivery,8,180,1440,911.28,528.72,400,21,22,36.72,1440
+1098,2025-11-01,2025-11,Central,Mexico,Iced Coffee,Beverages,Dine-In,1,150,150,102.9,47.1,180,15,15,31.4,150
+1099,2026-03-01,2026-03,North,USA,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,3,210,630,367.52,262.48,470,27,25,41.66,630
+1100,2025-03-01,2025-03,South,UK,Apple Pie,Desserts,Dine-In,3,100,300,155.11,144.89,230,11,10,48.3,300
+1101,2025-11-01,2025-11,North,Japan,Chocolate Shake,Beverages,McDelivery,5,170,850,431.45,418.55,580,16,15,49.24,850
+1102,2026-01-01,2026-01,Central,Australia,Sprite,Beverages,Takeaway,5,90,450,269.41,180.59,190,22,22,40.13,450
+1103,2025-05-01,2025-05,East,Brazil,Sprite,Beverages,Drive-Thru,4,90,360,217.15,142.85,190,22,22,39.68,360
+1104,2026-03-01,2026-03,West,Mexico,Apple Pie,Desserts,Drive-Thru,2,100,200,127.18,72.82,230,11,10,36.41,200
+1105,2026-03-01,2026-03,North,USA,French Fries,Sides,Dine-In,6,110,660,415.17,244.83,320,15,15,37.1,660
+1106,2025-02-01,2025-02,South,Australia,Hotcakes,Breakfast,Drive-Thru,3,160,480,322.08,157.92,580,15,14,32.9,480
+1107,2026-02-01,2026-02,West,UK,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,5,170,850,562.77,287.23,250,15,14,33.79,850
+1108,2025-05-01,2025-05,East,Australia,Big Mac,Burgers,Dine-In,8,250,2000,1190.94,809.06,520,30,28,40.45,2000
+1109,2025-11-01,2025-11,South,Brazil,Double Cheeseburger,Burgers,Dine-In,9,160,1440,841.22,598.78,450,24,23,41.58,1440
+1110,2025-12-01,2025-12,North,Singapore,McChicken,Burgers,Drive-Thru,7,180,1260,640.8,619.2,400,21,22,49.14,1260
+1111,2025-10-01,2025-10,South,Germany,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,5,280,1400,763.18,636.82,420,25,24,45.49,1400
+1112,2025-10-01,2025-10,West,USA,Chocolate Shake,Beverages,Drive-Thru,2,170,340,225.61,114.39,580,16,15,33.64,340
+1113,2025-05-01,2025-05,Central,USA,McFlurry Oreo,Desserts,McDelivery,2,190,380,236.23,143.77,510,18,17,37.83,380
+1114,2025-02-01,2025-02,West,Mexico,French Fries,Sides,Dine-In,4,110,440,222.06,217.94,320,15,15,49.53,440
+1115,2026-06-01,2026-06,Central,France,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,9,210,1890,1129.65,760.35,470,27,25,40.23,1890
+1116,2026-05-01,2026-05,West,Japan,Coca-Cola,Beverages,Drive-Thru,7,90,630,319.17,310.83,210,24,24,49.34,630
+1117,2025-07-01,2025-07,East,USA,Egg McMuffin,Breakfast,Drive-Thru,8,180,1440,931.06,508.94,310,17,16,35.34,1440
+1118,2025-07-01,2025-07,East,Canada,McChicken,Burgers,Takeaway,2,180,360,228.8,131.2,400,21,22,36.44,360
+1119,2025-02-01,2025-02,West,Singapore,French Fries,Sides,Drive-Thru,1,110,110,65.37,44.63,320,15,15,40.57,110
+1120,2025-07-01,2025-07,West,Japan,Sprite,Beverages,McDelivery,3,90,270,138.2,131.8,190,22,22,48.81,270
+1121,2025-01-01,2025-01,North,Mexico,Filet-O-Fish,Burgers,McDelivery,6,190,1140,656.66,483.34,390,20,19,42.4,1140
+1122,2025-07-01,2025-07,Central,France,French Fries,Sides,McDelivery,3,110,330,227.27,102.73,320,15,15,31.13,330
+1123,2026-03-01,2026-03,Central,USA,French Fries,Sides,Takeaway,4,110,440,281.33,158.67,320,15,15,36.06,440
+1124,2025-12-01,2025-12,Central,India,Hotcakes,Breakfast,Dine-In,9,160,1440,899.02,540.98,580,15,14,37.57,1440
+1125,2025-10-01,2025-10,West,Germany,Coca-Cola,Beverages,Takeaway,3,90,270,181.15,88.85,210,24,24,32.91,270
+1126,2026-01-01,2026-01,West,Japan,Sundae,Desserts,Takeaway,2,120,240,163.43,76.57,330,12,11,31.9,240
+1127,2025-09-01,2025-09,Central,Mexico,French Fries,Sides,Dine-In,6,110,660,382.73,277.27,320,15,15,42.01,660
+1128,2025-06-01,2025-06,Central,UK,Iced Coffee,Beverages,Drive-Thru,7,150,1050,544.56,505.44,180,15,15,48.14,1050
+1129,2026-03-01,2026-03,East,Mexico,Iced Coffee,Beverages,Dine-In,3,150,450,229.58,220.42,180,15,15,48.98,450
+1130,2025-12-01,2025-12,Central,Japan,Iced Coffee,Beverages,Dine-In,2,150,300,161.45,138.55,180,15,15,46.18,300
+1131,2025-12-01,2025-12,North,Germany,McChicken,Burgers,Drive-Thru,5,180,900,530.37,369.63,400,21,22,41.07,900
+1132,2026-01-01,2026-01,Central,Canada,Sundae,Desserts,Dine-In,6,120,720,432.92,287.08,330,12,11,39.87,720
+1133,2025-11-01,2025-11,East,Brazil,Quarter Pounder with Cheese,Burgers,Takeaway,8,220,1760,1026.3,733.7,510,29,26,41.69,1760
+1134,2026-03-01,2026-03,South,France,Filet-O-Fish,Burgers,Takeaway,8,190,1520,1020.13,499.87,390,20,19,32.89,1520
+1135,2026-01-01,2026-01,West,Australia,McFlurry Oreo,Desserts,Takeaway,8,190,1520,906.41,613.59,510,18,17,40.37,1520
+1136,2026-03-01,2026-03,South,Canada,Iced Coffee,Beverages,Takeaway,8,150,1200,671.57,528.43,180,15,15,44.04,1200
+1137,2026-01-01,2026-01,North,Brazil,Sprite,Beverages,McDelivery,3,90,270,135.6,134.4,190,22,22,49.78,270
+1138,2026-05-01,2026-05,East,Brazil,Hotcakes,Breakfast,Drive-Thru,6,160,960,601.21,358.79,580,15,14,37.37,960
+1139,2025-05-01,2025-05,West,France,French Fries,Sides,McDelivery,6,110,660,388.43,271.57,320,15,15,41.15,660
+1140,2025-08-01,2025-08,South,USA,Chocolate Shake,Beverages,McDelivery,4,170,680,367.87,312.13,580,16,15,45.9,680
+1141,2025-10-01,2025-10,South,Japan,Apple Pie,Desserts,Dine-In,1,100,100,60.69,39.31,230,11,10,39.31,100
+1142,2025-09-01,2025-09,North,USA,Quarter Pounder with Cheese,Burgers,Drive-Thru,9,220,1980,1375.84,604.16,510,29,26,30.51,1980
+1143,2025-03-01,2025-03,West,France,McChicken,Burgers,Drive-Thru,3,180,540,329.07,210.93,400,21,22,39.06,540
+1144,2025-12-01,2025-12,South,Mexico,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,7,280,1960,1133.76,826.24,420,25,24,42.16,1960
+1145,2025-05-01,2025-05,North,France,Iced Coffee,Beverages,Drive-Thru,5,150,750,381.58,368.42,180,15,15,49.12,750
+1146,2025-07-01,2025-07,East,Japan,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,170,1530,969.05,560.95,250,15,14,36.66,1530
+1147,2025-11-01,2025-11,West,Mexico,McChicken,Burgers,Takeaway,1,180,180,105.37,74.63,400,21,22,41.46,180
+1148,2025-02-01,2025-02,South,Mexico,McChicken,Burgers,Drive-Thru,3,180,540,296.79,243.21,400,21,22,45.04,540
+1149,2025-08-01,2025-08,South,Mexico,Double Cheeseburger,Burgers,Takeaway,2,160,320,203.92,116.08,450,24,23,36.28,320
+1150,2026-04-01,2026-04,West,Germany,McChicken,Burgers,McDelivery,4,180,720,441.02,278.98,400,21,22,38.75,720
+1151,2026-06-01,2026-06,South,Australia,McFlurry Oreo,Desserts,Drive-Thru,4,190,760,530.97,229.03,510,18,17,30.14,760
+1152,2025-02-01,2025-02,North,France,Hash Browns,Sides,Dine-In,3,90,270,168.04,101.96,140,9,8,37.76,270
+1153,2025-05-01,2025-05,South,Germany,Sundae,Desserts,Drive-Thru,5,120,600,341.23,258.77,330,12,11,43.13,600
+1154,2026-02-01,2026-02,North,Japan,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,4,210,840,453.03,386.97,470,27,25,46.07,840
+1155,2026-01-01,2026-01,South,Brazil,McChicken,Burgers,Dine-In,9,180,1620,942.15,677.85,400,21,22,41.84,1620
+1156,2025-06-01,2025-06,Central,Australia,Coca-Cola,Beverages,Takeaway,7,90,630,365.65,264.35,210,24,24,41.96,630
+1157,2025-08-01,2025-08,South,UK,McFlurry Oreo,Desserts,Dine-In,5,190,950,515.73,434.27,510,18,17,45.71,950
+1158,2026-03-01,2026-03,North,Canada,Hash Browns,Sides,McDelivery,5,90,450,280.43,169.57,140,9,8,37.68,450
+1159,2025-12-01,2025-12,Central,India,Sundae,Desserts,Drive-Thru,2,120,240,154.84,85.16,330,12,11,35.48,240
+1160,2026-04-01,2026-04,North,Brazil,Hash Browns,Sides,Dine-In,4,90,360,198.56,161.44,140,9,8,44.84,360
+1161,2026-03-01,2026-03,East,Australia,Sundae,Desserts,McDelivery,5,120,600,348.4,251.6,330,12,11,41.93,600
+1162,2025-07-01,2025-07,South,India,Egg McMuffin,Breakfast,Takeaway,1,180,180,115.48,64.52,310,17,16,35.84,180
+1163,2025-09-01,2025-09,East,Singapore,Coca-Cola,Beverages,Drive-Thru,7,90,630,381.73,248.27,210,24,24,39.41,630
+1164,2026-06-01,2026-06,West,France,McFlurry Oreo,Desserts,Drive-Thru,4,190,760,456.07,303.93,510,18,17,39.99,760
+1165,2026-06-01,2026-06,West,UK,French Fries,Sides,Takeaway,6,110,660,454.86,205.14,320,15,15,31.08,660
+1166,2025-02-01,2025-02,Central,Canada,Hash Browns,Sides,McDelivery,5,90,450,255.76,194.24,140,9,8,43.16,450
+1167,2026-04-01,2026-04,North,France,Apple Pie,Desserts,Dine-In,8,100,800,439.66,360.34,230,11,10,45.04,800
+1168,2026-02-01,2026-02,Central,France,Filet-O-Fish,Burgers,Drive-Thru,2,190,380,230.76,149.24,390,20,19,39.27,380
+1169,2025-03-01,2025-03,Central,Germany,Apple Pie,Desserts,Drive-Thru,9,100,900,516.5,383.5,230,11,10,42.61,900
+1170,2025-04-01,2025-04,South,France,Iced Coffee,Beverages,McDelivery,5,150,750,410.28,339.72,180,15,15,45.3,750
+1171,2025-12-01,2025-12,North,India,McChicken,Burgers,Drive-Thru,6,180,1080,614.0,466.0,400,21,22,43.15,1080
+1172,2025-05-01,2025-05,North,Brazil,Sundae,Desserts,Takeaway,2,120,240,148.36,91.64,330,12,11,38.18,240
+1173,2025-12-01,2025-12,South,USA,Apple Pie,Desserts,Takeaway,1,100,100,66.56,33.44,230,11,10,33.44,100
+1174,2025-02-01,2025-02,South,UK,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,2,170,340,188.7,151.3,250,15,14,44.5,340
+1175,2026-02-01,2026-02,West,Germany,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,4,210,840,428.24,411.76,470,27,25,49.02,840
+1176,2026-02-01,2026-02,West,Australia,Coca-Cola,Beverages,Drive-Thru,6,90,540,309.01,230.99,210,24,24,42.78,540
+1177,2025-09-01,2025-09,Central,Singapore,Chocolate Shake,Beverages,Drive-Thru,6,170,1020,640.05,379.95,580,16,15,37.25,1020
+1178,2026-03-01,2026-03,East,Germany,Double Cheeseburger,Burgers,Drive-Thru,7,160,1120,629.07,490.93,450,24,23,43.83,1120
+1179,2026-02-01,2026-02,North,Japan,Quarter Pounder with Cheese,Burgers,Takeaway,7,220,1540,790.14,749.86,510,29,26,48.69,1540
+1180,2026-05-01,2026-05,South,Canada,Big Mac,Burgers,McDelivery,4,250,1000,686.45,313.55,520,30,28,31.36,1000
+1181,2026-04-01,2026-04,West,Japan,Sprite,Beverages,McDelivery,1,90,90,54.83,35.17,190,22,22,39.08,90
+1182,2025-05-01,2025-05,North,Mexico,Coca-Cola,Beverages,Dine-In,1,90,90,46.43,43.57,210,24,24,48.41,90
+1183,2025-09-01,2025-09,South,Germany,Double Cheeseburger,Burgers,Takeaway,4,160,640,326.3,313.7,450,24,23,49.02,640
+1184,2025-02-01,2025-02,West,Singapore,Quarter Pounder with Cheese,Burgers,Dine-In,6,220,1320,724.74,595.26,510,29,26,45.1,1320
+1185,2025-09-01,2025-09,North,India,Sprite,Beverages,Dine-In,8,90,720,464.93,255.07,190,22,22,35.43,720
+1186,2025-12-01,2025-12,North,France,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,3,170,510,277.74,232.26,250,15,14,45.54,510
+1187,2025-04-01,2025-04,East,Mexico,Coca-Cola,Beverages,Takeaway,7,90,630,326.61,303.39,210,24,24,48.16,630
+1188,2026-01-01,2026-01,North,Singapore,French Fries,Sides,McDelivery,4,110,440,260.7,179.3,320,15,15,40.75,440
+1189,2025-10-01,2025-10,South,France,Sprite,Beverages,Dine-In,8,90,720,374.49,345.51,190,22,22,47.99,720
+1190,2026-02-01,2026-02,East,Mexico,McChicken,Burgers,Drive-Thru,3,180,540,305.2,234.8,400,21,22,43.48,540
+1191,2025-04-01,2025-04,East,France,Chocolate Shake,Beverages,Drive-Thru,6,170,1020,685.72,334.28,580,16,15,32.77,1020
+1192,2026-02-01,2026-02,North,Australia,Hotcakes,Breakfast,Dine-In,8,160,1280,768.29,511.71,580,15,14,39.98,1280
+1193,2026-06-01,2026-06,Central,India,Filet-O-Fish,Burgers,Drive-Thru,8,190,1520,779.76,740.24,390,20,19,48.7,1520
+1194,2025-10-01,2025-10,Central,Germany,Chocolate Shake,Beverages,Dine-In,2,170,340,216.63,123.37,580,16,15,36.29,340
+1195,2025-12-01,2025-12,East,UK,Sprite,Beverages,McDelivery,2,90,180,108.65,71.35,190,22,22,39.64,180
+1196,2026-02-01,2026-02,East,Canada,Iced Coffee,Beverages,Takeaway,8,150,1200,790.69,409.31,180,15,15,34.11,1200
+1197,2025-06-01,2025-06,East,India,Filet-O-Fish,Burgers,Takeaway,3,190,570,311.26,258.74,390,20,19,45.39,570
+1198,2026-01-01,2026-01,South,Australia,Egg McMuffin,Breakfast,Drive-Thru,4,180,720,402.67,317.33,310,17,16,44.07,720
+1199,2026-03-01,2026-03,East,France,Sprite,Beverages,Drive-Thru,4,90,360,184.53,175.47,190,22,22,48.74,360
+1200,2026-06-01,2026-06,West,France,French Fries,Sides,McDelivery,2,110,220,110.29,109.71,320,15,15,49.87,220
+1201,2025-10-01,2025-10,West,Japan,Iced Coffee,Beverages,McDelivery,7,150,1050,558.63,491.37,180,15,15,46.8,1050
+1202,2025-06-01,2025-06,North,Germany,McChicken,Burgers,McDelivery,8,180,1440,836.73,603.27,400,21,22,41.89,1440
+1203,2026-06-01,2026-06,East,USA,Apple Pie,Desserts,Takeaway,5,100,500,349.37,150.63,230,11,10,30.13,500
+1204,2025-04-01,2025-04,West,Canada,Filet-O-Fish,Burgers,Dine-In,9,190,1710,1105.57,604.43,390,20,19,35.35,1710
+1205,2025-10-01,2025-10,Central,Germany,Sundae,Desserts,Takeaway,9,120,1080,754.97,325.03,330,12,11,30.1,1080
+1206,2025-08-01,2025-08,North,Canada,Coca-Cola,Beverages,McDelivery,7,90,630,392.78,237.22,210,24,24,37.65,630
+1207,2025-10-01,2025-10,East,Brazil,French Fries,Sides,Drive-Thru,5,110,550,346.9,203.1,320,15,15,36.93,550
+1208,2025-03-01,2025-03,West,Japan,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,6,210,1260,862.79,397.21,470,27,25,31.52,1260
+1209,2025-11-01,2025-11,Central,Japan,Big Mac,Burgers,Takeaway,5,250,1250,675.98,574.02,520,30,28,45.92,1250
+1210,2025-03-01,2025-03,Central,Germany,Chocolate Shake,Beverages,McDelivery,5,170,850,517.53,332.47,580,16,15,39.11,850
+1211,2025-04-01,2025-04,North,India,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,9,210,1890,980.68,909.32,470,27,25,48.11,1890
+1212,2025-06-01,2025-06,Central,Mexico,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,6,280,1680,1047.45,632.55,420,25,24,37.65,1680
+1213,2026-06-01,2026-06,Central,UK,Hotcakes,Breakfast,Takeaway,3,160,480,251.99,228.01,580,15,14,47.5,480
+1214,2026-03-01,2026-03,Central,Canada,Apple Pie,Desserts,McDelivery,6,100,600,318.06,281.94,230,11,10,46.99,600
+1215,2025-03-01,2025-03,West,UK,Hash Browns,Sides,Drive-Thru,8,90,720,395.21,324.79,140,9,8,45.11,720
+1216,2025-01-01,2025-01,North,Mexico,Coca-Cola,Beverages,Drive-Thru,6,90,540,304.31,235.69,210,24,24,43.65,540
+1217,2026-04-01,2026-04,South,Japan,Chocolate Shake,Beverages,Dine-In,2,170,340,195.37,144.63,580,16,15,42.54,340
+1218,2025-12-01,2025-12,West,Canada,Sprite,Beverages,Dine-In,8,90,720,391.81,328.19,190,22,22,45.58,720
+1219,2026-04-01,2026-04,East,Japan,Coca-Cola,Beverages,Takeaway,2,90,180,111.65,68.35,210,24,24,37.97,180
+1220,2025-10-01,2025-10,Central,UK,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,7,210,1470,992.96,477.04,470,27,25,32.45,1470
+1221,2025-09-01,2025-09,South,UK,Egg McMuffin,Breakfast,Drive-Thru,5,180,900,476.04,423.96,310,17,16,47.11,900
+1222,2025-02-01,2025-02,West,Singapore,McFlurry Oreo,Desserts,Drive-Thru,3,190,570,294.58,275.42,510,18,17,48.32,570
+1223,2025-10-01,2025-10,East,France,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,1,210,210,109.65,100.35,470,27,25,47.79,210
+1224,2025-12-01,2025-12,South,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,1,280,280,141.87,138.13,420,25,24,49.33,280
+1225,2026-01-01,2026-01,East,India,Chocolate Shake,Beverages,Takeaway,7,170,1190,749.44,440.56,580,16,15,37.02,1190
+1226,2025-02-01,2025-02,North,Brazil,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,8,170,1360,694.07,665.93,250,15,14,48.97,1360
+1227,2025-07-01,2025-07,Central,Canada,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,8,280,2240,1467.95,772.05,420,25,24,34.47,2240
+1228,2025-09-01,2025-09,West,Canada,Quarter Pounder with Cheese,Burgers,Dine-In,1,220,220,144.76,75.24,510,29,26,34.2,220
+1229,2025-03-01,2025-03,Central,Brazil,Hotcakes,Breakfast,McDelivery,2,160,320,205.61,114.39,580,15,14,35.75,320
+1230,2025-07-01,2025-07,South,USA,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,6,210,1260,835.82,424.18,470,27,25,33.67,1260
+1231,2026-03-01,2026-03,East,Brazil,Chocolate Shake,Beverages,McDelivery,5,170,850,457.64,392.36,580,16,15,46.16,850
+1232,2025-09-01,2025-09,West,Brazil,Hash Browns,Sides,Dine-In,6,90,540,286.99,253.01,140,9,8,46.85,540
+1233,2026-03-01,2026-03,North,Germany,Quarter Pounder with Cheese,Burgers,Drive-Thru,5,220,1100,756.85,343.15,510,29,26,31.2,1100
+1234,2025-07-01,2025-07,West,Germany,Double Cheeseburger,Burgers,Drive-Thru,9,160,1440,958.56,481.44,450,24,23,33.43,1440
+1235,2025-11-01,2025-11,East,USA,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,5,210,1050,525.14,524.86,470,27,25,49.99,1050
+1236,2025-06-01,2025-06,Central,Australia,French Fries,Sides,McDelivery,4,110,440,264.01,175.99,320,15,15,40.0,440
+1237,2026-04-01,2026-04,South,Germany,Double Cheeseburger,Burgers,Takeaway,6,160,960,586.45,373.55,450,24,23,38.91,960
+1238,2025-10-01,2025-10,Central,Japan,Big Mac,Burgers,McDelivery,5,250,1250,782.76,467.24,520,30,28,37.38,1250
+1239,2025-10-01,2025-10,West,Japan,Sprite,Beverages,Takeaway,3,90,270,135.59,134.41,190,22,22,49.78,270
+1240,2026-06-01,2026-06,Central,Canada,Sundae,Desserts,Takeaway,6,120,720,366.17,353.83,330,12,11,49.14,720
+1241,2025-02-01,2025-02,South,India,Quarter Pounder with Cheese,Burgers,Dine-In,7,220,1540,940.3,599.7,510,29,26,38.94,1540
+1242,2025-07-01,2025-07,East,Mexico,Hash Browns,Sides,McDelivery,4,90,360,236.66,123.34,140,9,8,34.26,360
+1243,2025-10-01,2025-10,South,Japan,Apple Pie,Desserts,Dine-In,7,100,700,440.44,259.56,230,11,10,37.08,700
+1244,2026-04-01,2026-04,North,Canada,Quarter Pounder with Cheese,Burgers,Drive-Thru,4,220,880,516.1,363.9,510,29,26,41.35,880
+1245,2026-06-01,2026-06,West,Australia,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,2,280,560,280.47,279.53,420,25,24,49.92,560
+1246,2025-03-01,2025-03,Central,France,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,3,210,630,390.37,239.63,470,27,25,38.04,630
+1247,2025-09-01,2025-09,West,India,Egg McMuffin,Breakfast,Drive-Thru,4,180,720,448.02,271.98,310,17,16,37.78,720
+1248,2026-04-01,2026-04,Central,Brazil,French Fries,Sides,McDelivery,7,110,770,425.59,344.41,320,15,15,44.73,770
+1249,2025-08-01,2025-08,East,Canada,McChicken,Burgers,McDelivery,1,180,180,105.33,74.67,400,21,22,41.48,180
+1250,2025-02-01,2025-02,West,Singapore,Coca-Cola,Beverages,Drive-Thru,3,90,270,180.88,89.12,210,24,24,33.01,270
+1251,2025-03-01,2025-03,North,Australia,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,2,210,420,212.43,207.57,470,27,25,49.42,420
+1252,2026-03-01,2026-03,Central,UK,Egg McMuffin,Breakfast,McDelivery,8,180,1440,745.05,694.95,310,17,16,48.26,1440
+1253,2026-03-01,2026-03,North,France,Sundae,Desserts,Dine-In,9,120,1080,556.3,523.7,330,12,11,48.49,1080
+1254,2025-01-01,2025-01,North,Singapore,McChicken,Burgers,Takeaway,4,180,720,393.52,326.48,400,21,22,45.34,720
+1255,2025-07-01,2025-07,East,India,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,9,280,2520,1739.36,780.64,420,25,24,30.98,2520
+1256,2025-03-01,2025-03,North,Germany,Big Mac,Burgers,Drive-Thru,1,250,250,150.58,99.42,520,30,28,39.77,250
+1257,2025-10-01,2025-10,South,Australia,Egg McMuffin,Breakfast,Dine-In,1,180,180,99.92,80.08,310,17,16,44.49,180
+1258,2026-06-01,2026-06,North,Japan,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,1,210,210,115.92,94.08,470,27,25,44.8,210
+1259,2025-06-01,2025-06,Central,Japan,Hotcakes,Breakfast,McDelivery,4,160,640,409.86,230.14,580,15,14,35.96,640
+1260,2025-03-01,2025-03,West,France,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,8,210,1680,1149.51,530.49,470,27,25,31.58,1680
+1261,2025-10-01,2025-10,West,Brazil,McChicken,Burgers,Dine-In,3,180,540,369.99,170.01,400,21,22,31.48,540
+1262,2025-05-01,2025-05,West,Japan,Hotcakes,Breakfast,Dine-In,7,160,1120,740.89,379.11,580,15,14,33.85,1120
+1263,2025-03-01,2025-03,East,Germany,Big Mac,Burgers,Dine-In,5,250,1250,859.27,390.73,520,30,28,31.26,1250
+1264,2026-04-01,2026-04,South,USA,Big Mac,Burgers,Dine-In,5,250,1250,725.69,524.31,520,30,28,41.94,1250
+1265,2025-09-01,2025-09,East,USA,McFlurry Oreo,Desserts,Drive-Thru,5,190,950,640.84,309.16,510,18,17,32.54,950
+1266,2025-04-01,2025-04,East,India,Coca-Cola,Beverages,Dine-In,5,90,450,296.75,153.25,210,24,24,34.06,450
+1267,2025-04-01,2025-04,Central,Australia,Apple Pie,Desserts,Dine-In,8,100,800,534.79,265.21,230,11,10,33.15,800
+1268,2026-03-01,2026-03,West,USA,Coca-Cola,Beverages,McDelivery,5,90,450,262.48,187.52,210,24,24,41.67,450
+1269,2025-06-01,2025-06,East,Japan,Hash Browns,Sides,McDelivery,2,90,180,110.18,69.82,140,9,8,38.79,180
+1270,2025-07-01,2025-07,North,Mexico,McChicken,Burgers,McDelivery,6,180,1080,729.74,350.26,400,21,22,32.43,1080
+1271,2026-04-01,2026-04,West,UK,Hotcakes,Breakfast,McDelivery,5,160,800,464.14,335.86,580,15,14,41.98,800
+1272,2025-05-01,2025-05,South,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,8,280,2240,1560.84,679.16,420,25,24,30.32,2240
+1273,2026-04-01,2026-04,North,Germany,Double Cheeseburger,Burgers,Dine-In,3,160,480,284.29,195.71,450,24,23,40.77,480
+1274,2026-01-01,2026-01,Central,Brazil,Coca-Cola,Beverages,Dine-In,3,90,270,181.76,88.24,210,24,24,32.68,270
+1275,2025-02-01,2025-02,East,Germany,Double Cheeseburger,Burgers,Dine-In,5,160,800,501.45,298.55,450,24,23,37.32,800
+1276,2025-06-01,2025-06,North,France,Egg McMuffin,Breakfast,McDelivery,2,180,360,195.8,164.2,310,17,16,45.61,360
+1277,2026-04-01,2026-04,Central,Canada,Quarter Pounder with Cheese,Burgers,Dine-In,6,220,1320,786.68,533.32,510,29,26,40.4,1320
+1278,2026-04-01,2026-04,South,Australia,Hash Browns,Sides,Dine-In,5,90,450,238.11,211.89,140,9,8,47.09,450
+1279,2025-06-01,2025-06,South,Brazil,McChicken,Burgers,McDelivery,9,180,1620,1128.97,491.03,400,21,22,30.31,1620
+1280,2026-02-01,2026-02,East,Singapore,Double Cheeseburger,Burgers,Dine-In,8,160,1280,790.57,489.43,450,24,23,38.24,1280
+1281,2026-01-01,2026-01,Central,UK,Iced Coffee,Beverages,Takeaway,6,150,900,601.48,298.52,180,15,15,33.17,900
+1282,2025-03-01,2025-03,East,Canada,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,7,280,1960,1007.31,952.69,420,25,24,48.61,1960
+1283,2025-08-01,2025-08,Central,Singapore,Filet-O-Fish,Burgers,McDelivery,4,190,760,476.58,283.42,390,20,19,37.29,760
+1284,2025-03-01,2025-03,Central,Brazil,McChicken,Burgers,Drive-Thru,7,180,1260,867.43,392.57,400,21,22,31.16,1260
+1285,2026-03-01,2026-03,South,Canada,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,2,280,560,325.99,234.01,420,25,24,41.79,560
+1286,2025-02-01,2025-02,East,Singapore,Double Cheeseburger,Burgers,Dine-In,8,160,1280,677.88,602.12,450,24,23,47.04,1280
+1287,2025-09-01,2025-09,Central,UK,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,9,210,1890,1095.22,794.78,470,27,25,42.05,1890
+1288,2026-01-01,2026-01,East,France,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,4,210,840,533.7,306.3,470,27,25,36.46,840
+1289,2026-06-01,2026-06,North,France,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,5,170,850,485.81,364.19,250,15,14,42.85,850
+1290,2026-03-01,2026-03,Central,UK,Sundae,Desserts,Takeaway,4,120,480,300.52,179.48,330,12,11,37.39,480
+1291,2025-07-01,2025-07,East,Brazil,McFlurry Oreo,Desserts,Takeaway,8,190,1520,971.98,548.02,510,18,17,36.05,1520
+1292,2025-07-01,2025-07,South,UK,Egg McMuffin,Breakfast,McDelivery,5,180,900,470.27,429.73,310,17,16,47.75,900
+1293,2025-10-01,2025-10,Central,Singapore,Quarter Pounder with Cheese,Burgers,Dine-In,3,220,660,413.03,246.97,510,29,26,37.42,660
+1294,2025-12-01,2025-12,East,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,8,170,1360,785.8,574.2,250,15,14,42.22,1360
+1295,2026-03-01,2026-03,Central,India,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,5,210,1050,591.86,458.14,470,27,25,43.63,1050
+1296,2025-03-01,2025-03,Central,Australia,McFlurry Oreo,Desserts,Dine-In,5,190,950,530.11,419.89,510,18,17,44.2,950
+1297,2025-06-01,2025-06,Central,USA,Big Mac,Burgers,Dine-In,2,250,500,264.42,235.58,520,30,28,47.12,500
+1298,2026-05-01,2026-05,Central,Canada,Apple Pie,Desserts,McDelivery,4,100,400,227.14,172.86,230,11,10,43.22,400
+1299,2025-05-01,2025-05,North,Germany,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,8,170,1360,769.94,590.06,250,15,14,43.39,1360
+1300,2025-06-01,2025-06,South,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,7,280,1960,1004.73,955.27,420,25,24,48.74,1960
+1301,2025-08-01,2025-08,North,Singapore,McChicken,Burgers,Drive-Thru,9,180,1620,957.93,662.07,400,21,22,40.87,1620
+1302,2026-02-01,2026-02,West,Australia,Filet-O-Fish,Burgers,Drive-Thru,4,190,760,416.54,343.46,390,20,19,45.19,760
+1303,2025-11-01,2025-11,South,Brazil,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,9,170,1530,998.66,531.34,250,15,14,34.73,1530
+1304,2025-08-01,2025-08,West,Australia,Sundae,Desserts,Dine-In,9,120,1080,551.97,528.03,330,12,11,48.89,1080
+1305,2025-06-01,2025-06,West,France,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,5,210,1050,531.27,518.73,470,27,25,49.4,1050
+1306,2026-01-01,2026-01,East,USA,Sundae,Desserts,Drive-Thru,1,120,120,77.86,42.14,330,12,11,35.12,120
+1307,2025-11-01,2025-11,West,Canada,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,6,170,1020,591.36,428.64,250,15,14,42.02,1020
+1308,2025-09-01,2025-09,West,Mexico,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,4,210,840,557.75,282.25,470,27,25,33.6,840
+1309,2025-08-01,2025-08,Central,USA,Coca-Cola,Beverages,McDelivery,3,90,270,154.28,115.72,210,24,24,42.86,270
+1310,2025-06-01,2025-06,South,Germany,Coca-Cola,Beverages,Takeaway,6,90,540,320.29,219.71,210,24,24,40.69,540
+1311,2026-03-01,2026-03,South,USA,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,280,2520,1541.22,978.78,420,25,24,38.84,2520
+1312,2025-07-01,2025-07,North,UK,Egg McMuffin,Breakfast,Takeaway,3,180,540,291.52,248.48,310,17,16,46.01,540
+1313,2026-02-01,2026-02,West,Canada,Apple Pie,Desserts,Drive-Thru,3,100,300,200.49,99.51,230,11,10,33.17,300
+1314,2025-04-01,2025-04,East,Mexico,Hash Browns,Sides,Drive-Thru,6,90,540,271.46,268.54,140,9,8,49.73,540
+1315,2025-01-01,2025-01,West,Japan,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,7,170,1190,601.54,588.46,250,15,14,49.45,1190
+1316,2025-06-01,2025-06,South,Japan,Quarter Pounder with Cheese,Burgers,Takeaway,7,220,1540,1017.75,522.25,510,29,26,33.91,1540
+1317,2026-06-01,2026-06,East,India,Big Mac,Burgers,Drive-Thru,1,250,250,142.41,107.59,520,30,28,43.04,250
+1318,2025-05-01,2025-05,East,USA,Big Mac,Burgers,McDelivery,4,250,1000,638.05,361.95,520,30,28,36.2,1000
+1319,2025-06-01,2025-06,North,Australia,Double Cheeseburger,Burgers,McDelivery,7,160,1120,643.58,476.42,450,24,23,42.54,1120
+1320,2026-04-01,2026-04,South,Germany,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,7,210,1470,760.91,709.09,470,27,25,48.24,1470
+1321,2026-06-01,2026-06,East,USA,Coca-Cola,Beverages,Dine-In,6,90,540,281.38,258.62,210,24,24,47.89,540
+1322,2025-01-01,2025-01,South,Brazil,Double Cheeseburger,Burgers,Dine-In,6,160,960,537.98,422.02,450,24,23,43.96,960
+1323,2026-03-01,2026-03,East,USA,Hash Browns,Sides,McDelivery,4,90,360,249.94,110.06,140,9,8,30.57,360
+1324,2025-02-01,2025-02,West,India,Sundae,Desserts,Takeaway,6,120,720,412.53,307.47,330,12,11,42.7,720
+1325,2025-10-01,2025-10,West,Mexico,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,2,210,420,264.46,155.54,470,27,25,37.03,420
+1326,2025-06-01,2025-06,North,Canada,French Fries,Sides,Takeaway,7,110,770,529.06,240.94,320,15,15,31.29,770
+1327,2025-02-01,2025-02,Central,India,McChicken,Burgers,Drive-Thru,5,180,900,453.51,446.49,400,21,22,49.61,900
+1328,2025-02-01,2025-02,East,Brazil,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,1,170,170,96.83,73.17,250,15,14,43.04,170
+1329,2025-07-01,2025-07,North,Japan,Hash Browns,Sides,Dine-In,4,90,360,195.38,164.62,140,9,8,45.73,360
+1330,2026-02-01,2026-02,Central,Japan,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,5,210,1050,541.3,508.7,470,27,25,48.45,1050
+1331,2025-04-01,2025-04,East,Germany,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,1,210,210,126.92,83.08,470,27,25,39.56,210
+1332,2025-03-01,2025-03,West,India,French Fries,Sides,Dine-In,5,110,550,292.97,257.03,320,15,15,46.73,550
+1333,2025-07-01,2025-07,North,USA,Double Cheeseburger,Burgers,McDelivery,3,160,480,315.32,164.68,450,24,23,34.31,480
+1334,2026-02-01,2026-02,South,India,French Fries,Sides,Drive-Thru,4,110,440,232.97,207.03,320,15,15,47.05,440
+1335,2025-09-01,2025-09,East,Germany,Filet-O-Fish,Burgers,Takeaway,4,190,760,508.95,251.05,390,20,19,33.03,760
+1336,2026-04-01,2026-04,West,India,Apple Pie,Desserts,McDelivery,7,100,700,484.06,215.94,230,11,10,30.85,700
+1337,2026-04-01,2026-04,East,Germany,Quarter Pounder with Cheese,Burgers,Dine-In,2,220,440,255.4,184.6,510,29,26,41.95,440
+1338,2025-08-01,2025-08,West,Singapore,Iced Coffee,Beverages,Takeaway,6,150,900,592.75,307.25,180,15,15,34.14,900
+1339,2025-03-01,2025-03,South,Brazil,Sundae,Desserts,Takeaway,2,120,240,127.51,112.49,330,12,11,46.87,240
+1340,2025-02-01,2025-02,South,India,Sprite,Beverages,McDelivery,7,90,630,393.22,236.78,190,22,22,37.58,630
+1341,2025-04-01,2025-04,South,Canada,McFlurry Oreo,Desserts,Takeaway,5,190,950,505.12,444.88,510,18,17,46.83,950
+1342,2025-04-01,2025-04,Central,USA,Double Cheeseburger,Burgers,Drive-Thru,8,160,1280,729.64,550.36,450,24,23,43.0,1280
+1343,2025-03-01,2025-03,Central,Mexico,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,8,210,1680,1134.53,545.47,470,27,25,32.47,1680
+1344,2025-05-01,2025-05,West,Mexico,French Fries,Sides,McDelivery,5,110,550,352.28,197.72,320,15,15,35.95,550
+1345,2026-05-01,2026-05,South,Japan,Apple Pie,Desserts,Dine-In,6,100,600,332.05,267.95,230,11,10,44.66,600
+1346,2026-05-01,2026-05,North,Singapore,Sprite,Beverages,Drive-Thru,2,90,180,110.44,69.56,190,22,22,38.64,180
+1347,2026-06-01,2026-06,North,Australia,6pc Chicken McNuggets,Chicken & Nuggets,Takeaway,8,170,1360,795.88,564.12,250,15,14,41.48,1360
+1348,2025-12-01,2025-12,South,UK,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,3,210,630,321.46,308.54,470,27,25,48.97,630
+1349,2025-04-01,2025-04,East,Mexico,Sundae,Desserts,Takeaway,1,120,120,61.0,59.0,330,12,11,49.17,120
+1350,2025-06-01,2025-06,Central,India,Egg McMuffin,Breakfast,Dine-In,1,180,180,110.44,69.56,310,17,16,38.64,180
+1351,2025-07-01,2025-07,Central,Germany,McChicken,Burgers,Takeaway,8,180,1440,903.39,536.61,400,21,22,37.26,1440
+1352,2025-05-01,2025-05,North,Canada,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,2,210,420,217.41,202.59,470,27,25,48.24,420
+1353,2026-04-01,2026-04,East,Japan,Iced Coffee,Beverages,Takeaway,1,150,150,82.54,67.46,180,15,15,44.97,150
+1354,2025-09-01,2025-09,North,India,Chocolate Shake,Beverages,McDelivery,8,170,1360,881.53,478.47,580,16,15,35.18,1360
+1355,2026-05-01,2026-05,North,Canada,Sundae,Desserts,Dine-In,3,120,360,199.8,160.2,330,12,11,44.5,360
+1356,2026-03-01,2026-03,East,Brazil,Apple Pie,Desserts,Dine-In,2,100,200,113.67,86.33,230,11,10,43.16,200
+1357,2025-08-01,2025-08,East,Singapore,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,4,210,840,566.3,273.7,470,27,25,32.58,840
+1358,2025-08-01,2025-08,Central,Germany,Egg McMuffin,Breakfast,Dine-In,7,180,1260,748.73,511.27,310,17,16,40.58,1260
+1359,2025-12-01,2025-12,East,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,2,280,560,367.62,192.38,420,25,24,34.35,560
+1360,2026-05-01,2026-05,West,France,Iced Coffee,Beverages,McDelivery,4,150,600,362.19,237.81,180,15,15,39.64,600
+1361,2025-05-01,2025-05,South,Japan,Sundae,Desserts,Takeaway,7,120,840,558.49,281.51,330,12,11,33.51,840
+1362,2026-02-01,2026-02,Central,India,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,2,210,420,285.14,134.86,470,27,25,32.11,420
+1363,2025-05-01,2025-05,Central,India,Quarter Pounder with Cheese,Burgers,Drive-Thru,9,220,1980,1336.03,643.97,510,29,26,32.52,1980
+1364,2026-01-01,2026-01,West,Brazil,McFlurry Oreo,Desserts,Dine-In,5,190,950,601.71,348.29,510,18,17,36.66,950
+1365,2026-03-01,2026-03,East,Japan,McFlurry Oreo,Desserts,McDelivery,2,190,380,264.9,115.1,510,18,17,30.29,380
+1366,2026-05-01,2026-05,North,Canada,Iced Coffee,Beverages,Drive-Thru,3,150,450,271.26,178.74,180,15,15,39.72,450
+1367,2026-06-01,2026-06,South,Australia,French Fries,Sides,McDelivery,6,110,660,358.44,301.56,320,15,15,45.69,660
+1368,2025-02-01,2025-02,South,India,Hotcakes,Breakfast,Takeaway,1,160,160,97.55,62.45,580,15,14,39.03,160
+1369,2025-05-01,2025-05,East,Japan,McFlurry Oreo,Desserts,Takeaway,2,190,380,264.8,115.2,510,18,17,30.32,380
+1370,2025-11-01,2025-11,North,Australia,Chocolate Shake,Beverages,McDelivery,6,170,1020,672.73,347.27,580,16,15,34.05,1020
+1371,2025-04-01,2025-04,South,Singapore,Apple Pie,Desserts,Drive-Thru,2,100,200,132.25,67.75,230,11,10,33.88,200
+1372,2025-08-01,2025-08,Central,Singapore,Quarter Pounder with Cheese,Burgers,Dine-In,9,220,1980,1297.34,682.66,510,29,26,34.48,1980
+1373,2025-12-01,2025-12,West,France,Big Mac,Burgers,Dine-In,8,250,2000,1007.11,992.89,520,30,28,49.64,2000
+1374,2025-09-01,2025-09,North,USA,Big Mac,Burgers,McDelivery,3,250,750,375.72,374.28,520,30,28,49.9,750
+1375,2025-07-01,2025-07,West,UK,McFlurry Oreo,Desserts,McDelivery,1,190,190,118.25,71.75,510,18,17,37.76,190
+1376,2025-08-01,2025-08,West,UK,Filet-O-Fish,Burgers,McDelivery,1,190,190,111.02,78.98,390,20,19,41.57,190
+1377,2026-04-01,2026-04,West,France,Big Mac,Burgers,Drive-Thru,8,250,2000,1210.48,789.52,520,30,28,39.48,2000
+1378,2026-02-01,2026-02,South,Germany,Sprite,Beverages,Drive-Thru,7,90,630,420.32,209.68,190,22,22,33.28,630
+1379,2025-09-01,2025-09,Central,Brazil,Chocolate Shake,Beverages,McDelivery,2,170,340,215.96,124.04,580,16,15,36.48,340
+1380,2025-07-01,2025-07,South,India,Filet-O-Fish,Burgers,Drive-Thru,9,190,1710,1112.89,597.11,390,20,19,34.92,1710
+1381,2026-03-01,2026-03,South,Singapore,French Fries,Sides,Drive-Thru,7,110,770,437.19,332.81,320,15,15,43.22,770
+1382,2025-02-01,2025-02,Central,USA,Hotcakes,Breakfast,Dine-In,5,160,800,515.81,284.19,580,15,14,35.52,800
+1383,2025-01-01,2025-01,Central,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,9,280,2520,1388.27,1131.73,420,25,24,44.91,2520
+1384,2025-09-01,2025-09,South,Brazil,Chocolate Shake,Beverages,Takeaway,1,170,170,111.03,58.97,580,16,15,34.69,170
+1385,2025-04-01,2025-04,North,Singapore,Sundae,Desserts,Dine-In,4,120,480,269.11,210.89,330,12,11,43.94,480
+1386,2026-03-01,2026-03,South,USA,Big Mac,Burgers,McDelivery,3,250,750,509.05,240.95,520,30,28,32.13,750
+1387,2026-02-01,2026-02,West,Mexico,Chocolate Shake,Beverages,Dine-In,9,170,1530,839.34,690.66,580,16,15,45.14,1530
+1388,2026-05-01,2026-05,East,Japan,Iced Coffee,Beverages,Drive-Thru,9,150,1350,903.47,446.53,180,15,15,33.08,1350
+1389,2025-09-01,2025-09,South,France,Sundae,Desserts,Drive-Thru,5,120,600,336.35,263.65,330,12,11,43.94,600
+1390,2025-10-01,2025-10,North,USA,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,6,170,1020,623.78,396.22,250,15,14,38.85,1020
+1391,2026-05-01,2026-05,West,USA,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,8,210,1680,877.04,802.96,470,27,25,47.8,1680
+1392,2025-01-01,2025-01,Central,Japan,Double Cheeseburger,Burgers,Takeaway,7,160,1120,679.56,440.44,450,24,23,39.32,1120
+1393,2025-03-01,2025-03,South,Australia,Coca-Cola,Beverages,Dine-In,8,90,720,403.95,316.05,210,24,24,43.9,720
+1394,2025-06-01,2025-06,Central,USA,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,9,280,2520,1280.23,1239.77,420,25,24,49.2,2520
+1395,2026-06-01,2026-06,East,UK,Big Mac,Burgers,Dine-In,4,250,1000,649.9,350.1,520,30,28,35.01,1000
+1396,2026-04-01,2026-04,Central,USA,French Fries,Sides,Dine-In,7,110,770,427.8,342.2,320,15,15,44.44,770
+1397,2025-09-01,2025-09,North,Mexico,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,3,210,630,347.94,282.06,470,27,25,44.77,630
+1398,2025-07-01,2025-07,South,India,Quarter Pounder with Cheese,Burgers,Takeaway,2,220,440,269.27,170.73,510,29,26,38.8,440
+1399,2025-06-01,2025-06,South,France,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,9,280,2520,1316.73,1203.27,420,25,24,47.75,2520
+1400,2025-10-01,2025-10,Central,UK,Sprite,Beverages,Dine-In,6,90,540,281.45,258.55,190,22,22,47.88,540
+1401,2026-06-01,2026-06,West,Germany,Apple Pie,Desserts,Drive-Thru,4,100,400,273.68,126.32,230,11,10,31.58,400
+1402,2025-07-01,2025-07,South,Germany,Big Mac,Burgers,Takeaway,5,250,1250,860.64,389.36,520,30,28,31.15,1250
+1403,2026-02-01,2026-02,East,USA,Sundae,Desserts,Drive-Thru,9,120,1080,590.69,489.31,330,12,11,45.31,1080
+1404,2025-08-01,2025-08,South,Germany,Sundae,Desserts,Takeaway,3,120,360,188.1,171.9,330,12,11,47.75,360
+1405,2026-02-01,2026-02,East,Brazil,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,8,210,1680,1114.64,565.36,470,27,25,33.65,1680
+1406,2026-06-01,2026-06,Central,India,McFlurry Oreo,Desserts,McDelivery,5,190,950,536.8,413.2,510,18,17,43.49,950
+1407,2025-12-01,2025-12,East,UK,Coca-Cola,Beverages,Drive-Thru,1,90,90,62.83,27.17,210,24,24,30.19,90
+1408,2026-05-01,2026-05,South,Germany,Apple Pie,Desserts,Dine-In,2,100,200,116.66,83.34,230,11,10,41.67,200
+1409,2026-01-01,2026-01,East,Singapore,French Fries,Sides,McDelivery,2,110,220,153.61,66.39,320,15,15,30.18,220
+1410,2025-12-01,2025-12,East,Japan,Sprite,Beverages,McDelivery,1,90,90,48.53,41.47,190,22,22,46.08,90
+1411,2026-04-01,2026-04,Central,USA,Iced Coffee,Beverages,Dine-In,8,150,1200,672.48,527.52,180,15,15,43.96,1200
+1412,2025-07-01,2025-07,South,USA,Sprite,Beverages,Drive-Thru,3,90,270,177.35,92.65,190,22,22,34.31,270
+1413,2025-09-01,2025-09,East,Canada,Sundae,Desserts,Drive-Thru,2,120,240,137.26,102.74,330,12,11,42.81,240
+1414,2025-07-01,2025-07,Central,Canada,French Fries,Sides,Dine-In,2,110,220,111.96,108.04,320,15,15,49.11,220
+1415,2025-10-01,2025-10,South,France,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,1,170,170,117.53,52.47,250,15,14,30.86,170
+1416,2025-02-01,2025-02,South,India,Hash Browns,Sides,McDelivery,7,90,630,422.77,207.23,140,9,8,32.89,630
+1417,2026-05-01,2026-05,West,Canada,Coca-Cola,Beverages,Dine-In,1,90,90,45.55,44.45,210,24,24,49.39,90
+1418,2025-05-01,2025-05,Central,Canada,Iced Coffee,Beverages,McDelivery,9,150,1350,842.83,507.17,180,15,15,37.57,1350
+1419,2026-01-01,2026-01,Central,Australia,Hash Browns,Sides,Drive-Thru,6,90,540,331.6,208.4,140,9,8,38.59,540
+1420,2025-01-01,2025-01,Central,France,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,2,170,340,228.86,111.14,250,15,14,32.69,340
+1421,2025-11-01,2025-11,South,UK,Big Mac,Burgers,Drive-Thru,8,250,2000,1126.27,873.73,520,30,28,43.69,2000
+1422,2025-07-01,2025-07,Central,USA,Hash Browns,Sides,Drive-Thru,9,90,810,531.99,278.01,140,9,8,34.32,810
+1423,2025-01-01,2025-01,East,France,Big Mac,Burgers,McDelivery,7,250,1750,1146.26,603.74,520,30,28,34.5,1750
+1424,2025-03-01,2025-03,West,France,McFlurry Oreo,Desserts,Drive-Thru,9,190,1710,1092.92,617.08,510,18,17,36.09,1710
+1425,2025-03-01,2025-03,North,Brazil,McFlurry Oreo,Desserts,McDelivery,2,190,380,220.16,159.84,510,18,17,42.06,380
+1426,2025-03-01,2025-03,North,Japan,Iced Coffee,Beverages,McDelivery,7,150,1050,596.57,453.43,180,15,15,43.18,1050
+1427,2025-07-01,2025-07,East,Australia,Apple Pie,Desserts,Takeaway,7,100,700,421.68,278.32,230,11,10,39.76,700
+1428,2025-07-01,2025-07,South,Japan,Big Mac,Burgers,Drive-Thru,1,250,250,168.42,81.58,520,30,28,32.63,250
+1429,2025-04-01,2025-04,South,Brazil,Sprite,Beverages,Drive-Thru,3,90,270,163.84,106.16,190,22,22,39.32,270
+1430,2025-03-01,2025-03,Central,Japan,Hotcakes,Breakfast,McDelivery,8,160,1280,863.61,416.39,580,15,14,32.53,1280
+1431,2026-03-01,2026-03,West,Brazil,Egg McMuffin,Breakfast,Dine-In,7,180,1260,732.81,527.19,310,17,16,41.84,1260
+1432,2025-06-01,2025-06,South,Singapore,Hash Browns,Sides,McDelivery,2,90,180,123.34,56.66,140,9,8,31.48,180
+1433,2025-06-01,2025-06,North,France,6pc Chicken McNuggets,Chicken & Nuggets,Dine-In,2,170,340,197.37,142.63,250,15,14,41.95,340
+1434,2025-02-01,2025-02,South,Brazil,Sprite,Beverages,Takeaway,1,90,90,52.59,37.41,190,22,22,41.57,90
+1435,2026-01-01,2026-01,South,Germany,Iced Coffee,Beverages,Takeaway,6,150,900,614.31,285.69,180,15,15,31.74,900
+1436,2026-02-01,2026-02,East,India,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,1,280,280,181.49,98.51,420,25,24,35.18,280
+1437,2026-04-01,2026-04,North,Brazil,Quarter Pounder with Cheese,Burgers,Drive-Thru,9,220,1980,1059.24,920.76,510,29,26,46.5,1980
+1438,2025-09-01,2025-09,East,India,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,4,280,1120,695.87,424.13,420,25,24,37.87,1120
+1439,2025-07-01,2025-07,Central,Mexico,Hash Browns,Sides,Takeaway,4,90,360,230.2,129.8,140,9,8,36.06,360
+1440,2026-06-01,2026-06,North,Germany,Double Cheeseburger,Burgers,Takeaway,9,160,1440,932.93,507.07,450,24,23,35.21,1440
+1441,2025-02-01,2025-02,West,UK,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,6,210,1260,850.33,409.67,470,27,25,32.51,1260
+1442,2025-11-01,2025-11,Central,India,French Fries,Sides,Takeaway,1,110,110,56.04,53.96,320,15,15,49.05,110
+1443,2025-05-01,2025-05,West,UK,6pc Chicken McNuggets,Chicken & Nuggets,McDelivery,2,170,340,228.68,111.32,250,15,14,32.74,340
+1444,2025-08-01,2025-08,North,UK,Egg McMuffin,Breakfast,Drive-Thru,1,180,180,118.19,61.81,310,17,16,34.34,180
+1445,2025-05-01,2025-05,Central,Germany,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,8,170,1360,755.73,604.27,250,15,14,44.43,1360
+1446,2025-11-01,2025-11,North,France,Sundae,Desserts,Dine-In,6,120,720,483.77,236.23,330,12,11,32.81,720
+1447,2026-05-01,2026-05,North,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,1,280,280,146.67,133.33,420,25,24,47.62,280
+1448,2025-01-01,2025-01,West,UK,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,3,170,510,255.11,254.89,250,15,14,49.98,510
+1449,2025-03-01,2025-03,South,India,Filet-O-Fish,Burgers,Dine-In,8,190,1520,990.51,529.49,390,20,19,34.83,1520
+1450,2025-01-01,2025-01,North,Japan,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,8,280,2240,1469.17,770.83,420,25,24,34.41,2240
+1451,2025-04-01,2025-04,South,France,Sundae,Desserts,McDelivery,3,120,360,200.5,159.5,330,12,11,44.31,360
+1452,2026-04-01,2026-04,North,USA,Big Mac,Burgers,McDelivery,8,250,2000,1072.18,927.82,520,30,28,46.39,2000
+1453,2026-04-01,2026-04,Central,Japan,Double Cheeseburger,Burgers,Takeaway,7,160,1120,691.54,428.46,450,24,23,38.26,1120
+1454,2026-06-01,2026-06,South,UK,Hash Browns,Sides,Drive-Thru,2,90,180,95.46,84.54,140,9,8,46.97,180
+1455,2025-02-01,2025-02,West,USA,McChicken,Burgers,Takeaway,1,180,180,115.42,64.58,400,21,22,35.88,180
+1456,2025-07-01,2025-07,North,India,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,6,280,1680,888.83,791.17,420,25,24,47.09,1680
+1457,2025-12-01,2025-12,East,USA,Sprite,Beverages,Dine-In,9,90,810,543.01,266.99,190,22,22,32.96,810
+1458,2025-12-01,2025-12,East,India,Sundae,Desserts,Dine-In,2,120,240,164.7,75.3,330,12,11,31.37,240
+1459,2025-04-01,2025-04,South,Australia,McSpicy Chicken Burger,Chicken & Nuggets,Drive-Thru,8,210,1680,1138.3,541.7,470,27,25,32.24,1680
+1460,2025-11-01,2025-11,Central,Canada,Quarter Pounder with Cheese,Burgers,Dine-In,3,220,660,358.05,301.95,510,29,26,45.75,660
+1461,2026-03-01,2026-03,South,Mexico,Iced Coffee,Beverages,Dine-In,4,150,600,318.39,281.61,180,15,15,46.94,600
+1462,2026-02-01,2026-02,East,Canada,Iced Coffee,Beverages,Drive-Thru,9,150,1350,762.72,587.28,180,15,15,43.5,1350
+1463,2026-04-01,2026-04,Central,France,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,6,280,1680,1029.63,650.37,420,25,24,38.71,1680
+1464,2025-10-01,2025-10,West,UK,Coca-Cola,Beverages,Takeaway,9,90,810,524.23,285.77,210,24,24,35.28,810
+1465,2026-03-01,2026-03,North,Germany,McFlurry Oreo,Desserts,Dine-In,5,190,950,560.7,389.3,510,18,17,40.98,950
+1466,2025-05-01,2025-05,East,France,6pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,1,170,170,105.15,64.85,250,15,14,38.15,170
+1467,2025-07-01,2025-07,West,Brazil,Sprite,Beverages,Takeaway,4,90,360,243.63,116.37,190,22,22,32.33,360
+1468,2026-05-01,2026-05,Central,Japan,McFlurry Oreo,Desserts,Dine-In,7,190,1330,676.26,653.74,510,18,17,49.15,1330
+1469,2025-02-01,2025-02,Central,Mexico,Hotcakes,Breakfast,McDelivery,7,160,1120,768.81,351.19,580,15,14,31.36,1120
+1470,2025-07-01,2025-07,East,USA,Double Cheeseburger,Burgers,Dine-In,1,160,160,92.65,67.35,450,24,23,42.09,160
+1471,2025-03-01,2025-03,North,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,Dine-In,1,280,280,166.06,113.94,420,25,24,40.69,280
+1472,2025-11-01,2025-11,West,Germany,Hash Browns,Sides,Takeaway,8,90,720,470.52,249.48,140,9,8,34.65,720
+1473,2026-05-01,2026-05,North,Mexico,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,4,210,840,512.91,327.09,470,27,25,38.94,840
+1474,2025-04-01,2025-04,East,Canada,Chocolate Shake,Beverages,Takeaway,4,170,680,421.7,258.3,580,16,15,37.99,680
+1475,2025-07-01,2025-07,South,Canada,McSpicy Chicken Burger,Chicken & Nuggets,Takeaway,5,210,1050,596.73,453.27,470,27,25,43.17,1050
+1476,2026-05-01,2026-05,West,Singapore,10pc Chicken McNuggets,Chicken & Nuggets,Drive-Thru,5,280,1400,767.29,632.71,420,25,24,45.19,1400
+1477,2025-12-01,2025-12,East,Canada,French Fries,Sides,Takeaway,5,110,550,384.93,165.07,320,15,15,30.01,550
+1478,2026-04-01,2026-04,West,France,Hash Browns,Sides,McDelivery,6,90,540,328.88,211.12,140,9,8,39.1,540
+1479,2026-05-01,2026-05,East,Germany,Egg McMuffin,Breakfast,McDelivery,3,180,540,289.53,250.47,310,17,16,46.38,540
+1480,2025-04-01,2025-04,South,Australia,Double Cheeseburger,Burgers,Takeaway,2,160,320,179.56,140.44,450,24,23,43.89,320
+1481,2026-06-01,2026-06,North,UK,Iced Coffee,Beverages,Drive-Thru,4,150,600,345.37,254.63,180,15,15,42.44,600
+1482,2026-05-01,2026-05,South,Mexico,Hotcakes,Breakfast,Takeaway,3,160,480,281.01,198.99,580,15,14,41.46,480
+1483,2026-02-01,2026-02,West,UK,Big Mac,Burgers,Dine-In,1,250,250,136.1,113.9,520,30,28,45.56,250
+1484,2025-03-01,2025-03,West,Canada,Filet-O-Fish,Burgers,Drive-Thru,6,190,1140,730.99,409.01,390,20,19,35.88,1140
+1485,2025-07-01,2025-07,East,USA,Hotcakes,Breakfast,Drive-Thru,9,160,1440,836.94,603.06,580,15,14,41.88,1440
+1486,2025-02-01,2025-02,North,Australia,10pc Chicken McNuggets,Chicken & Nuggets,Takeaway,2,280,560,286.67,273.33,420,25,24,48.81,560
+1487,2025-07-01,2025-07,Central,Mexico,McChicken,Burgers,Drive-Thru,2,180,360,223.31,136.69,400,21,22,37.97,360
+1488,2025-05-01,2025-05,Central,Japan,Filet-O-Fish,Burgers,Dine-In,7,190,1330,913.13,416.87,390,20,19,31.34,1330
+1489,2026-03-01,2026-03,East,France,McSpicy Chicken Burger,Chicken & Nuggets,Dine-In,5,210,1050,685.19,364.81,470,27,25,34.74,1050
+1490,2025-07-01,2025-07,Central,Japan,McFlurry Oreo,Desserts,Takeaway,4,190,760,482.89,277.11,510,18,17,36.46,760
+1491,2025-09-01,2025-09,East,Canada,McSpicy Chicken Burger,Chicken & Nuggets,McDelivery,1,210,210,113.15,96.85,470,27,25,46.12,210
+1492,2025-05-01,2025-05,Central,Germany,Filet-O-Fish,Burgers,Dine-In,3,190,570,307.38,262.62,390,20,19,46.07,570
+1493,2025-07-01,2025-07,South,France,Iced Coffee,Beverages,Drive-Thru,9,150,1350,702.15,647.85,180,15,15,47.99,1350
+1494,2026-05-01,2026-05,North,Germany,Chocolate Shake,Beverages,Takeaway,9,170,1530,1039.99,490.01,580,16,15,32.03,1530
+1495,2025-11-01,2025-11,Central,USA,McFlurry Oreo,Desserts,Dine-In,9,190,1710,1078.22,631.78,510,18,17,36.95,1710
+1496,2025-05-01,2025-05,Central,Brazil,Sundae,Desserts,Dine-In,2,120,240,130.81,109.19,330,12,11,45.5,240
+1497,2025-07-01,2025-07,West,Canada,Apple Pie,Desserts,McDelivery,5,100,500,272.74,227.26,230,11,10,45.45,500
+1498,2025-02-01,2025-02,North,Singapore,Quarter Pounder with Cheese,Burgers,Takeaway,2,220,440,300.25,139.75,510,29,26,31.76,440
+1499,2025-05-01,2025-05,West,Germany,Coca-Cola,Beverages,McDelivery,5,90,450,308.58,141.42,210,24,24,31.43,450
+1500,2026-01-01,2026-01,West,Brazil,10pc Chicken McNuggets,Chicken & Nuggets,McDelivery,7,280,1960,1239.77,720.23,420,25,24,36.75,1960
