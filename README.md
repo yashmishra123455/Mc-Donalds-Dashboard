@@ -1,2 +1,2 @@
 # Mc-Donalds-Dashboard
-Simple Dashborad of MC Donals
+Simple Dashborad of MC Donals and yeah that it 
